@@ -1,0 +1,26 @@
+{
+  "name": "Retro Bowl Unblocked 6x",
+  "short_name": "RetroBowl 6x",
+  "description": "Play Retro Bowl & 280+ Free Unblocked Games Online at School on Chromebook",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "sports", "entertainment"]
+}

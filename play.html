@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Play Game Unblocked 6x - Retro Bowl 6x</title>
+
+  <!-- Dynamic Meta Tags (Set by js/player.js) -->
+  <meta name="description" content="Play top unblocked games free at school on Chromebook. Fast, zero-lag, no flash install needed!">
+  <meta name="keywords" content="retro bowl unblocked, retro bowl unblocked 6x, retro bowl 76, classroom 6x, unblocked games, play online chromebook">
+  <meta name="author" content="Retro Bowl Unblocked 6x">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://retrobowlunblocked6x.github.io/play.html">
+
+  <!-- PWA & Mobile Icons -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0284c7">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Retro Bowl 6x">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="game">
+  <meta property="og:url" content="https://retrobowlunblocked6x.github.io/play.html">
+  <meta property="og:title" content="Play Game Unblocked 6x">
+  <meta property="og:description" content="Play free unblocked games online at school on Chromebook. Fast and zero-lag.">
+  <meta property="og:image" content="https://retrobowlunblocked6x.github.io/images/retro-bowl.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Schema.org JSON-LD Structured Data with Live AggregateRating -->
+  <script type="application/ld+json" id="schemaJsonLd">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoGame",
+    "name": "Retro Bowl",
+    "description": "Play Retro Bowl Unblocked 6x online for free on Chromebook.",
+    "genre": ["Sports", "Retro"],
+    "operatingSystem": "Web Browser",
+    "applicationCategory": "Game",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingCount": 12500,
+      "reviewCount": 12500
+    }
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Navigation Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="./" class="logo-wrapper" title="Back to Retro Bowl Unblocked 6x">
+        <div class="logo-icon">🏈</div>
+        <div class="logo-text">Retro Bowl <span>6X</span></div>
+      </a>
+
+      <!-- Quick Action Buttons -->
+      <div class="header-actions">
+        <!-- Theme Toggle -->
+        <button id="themeToggleBtn" class="btn-theme-toggle" title="Toggle Light/Dark Theme">🌙</button>
+
+        <a href="./" class="btn-header">
+          <span>🏠</span> <span>All Games</span>
+        </a>
+        <a href="play/retro-bowl.html" class="btn-header btn-primary">
+          <span>⚡</span> <span>Retro Bowl</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Player Main Layout -->
+  <main class="container player-page-container">
+
+    <!-- Breadcrumb -->
+    <nav class="player-breadcrumb" aria-label="Breadcrumb">
+      <a href="./">Home</a>
+      <span>&rsaquo;</span>
+      <span id="pregameCategory">Sports</span>
+      <span>&rsaquo;</span>
+      <span id="breadcrumbCurrent" style="color:var(--text-primary); font-weight:700;">Play Game</span>
+    </nav>
+
+    <!-- [AD 1] Top Billboard Ad Placement (728x90) -->
+    <div class="ad-slot-wrapper">
+      <div data-ad-slot="ad_728x90_1"></div>
+    </div>
+
+    <!-- 2-Column Player Grid Layout -->
+    <div class="player-grid-layout">
+
+      <!-- Left / Main Column: Game Viewport & Info -->
+      <div class="player-main-column">
+
+        <!-- Game Screen Wrapper -->
+        <div class="game-screen-wrapper" id="gameScreenWrapper">
+          <div class="game-screen-aspect">
+            <!-- Game Iframe -->
+            <iframe id="gameIframe" class="game-iframe" allow="autoplay; fullscreen; gamepad; focus-without-user-activation" allowfullscreen></iframe>
+
+            <!-- High-CTR Pre-Game Click to Play Overlay -->
+            <div id="pregameOverlay" class="pregame-overlay">
+              <h2 id="pregameGameTitle" class="pregame-title">Retro Bowl</h2>
+              <p class="pregame-sub">Ready to play? Fresh, lag-free & unblocked on school Chromebooks.</p>
+
+              <!-- Play Trigger Button -->
+              <button id="startPlayBtn" class="btn-start-game">
+                <span>▶</span> <span>PLAY GAME</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Player Toolbar -->
+        <div class="player-toolbar">
+          <div class="toolbar-game-title">
+            <span id="toolbarGameTitle">Retro Bowl</span>
+          </div>
+
+          <div class="toolbar-actions">
+            <button id="btnReload" class="btn-tool" title="Reload Game">
+              <span>🔄</span> <span>Restart</span>
+            </button>
+            <button id="btnTheater" class="btn-tool" title="Toggle Theater Mode">
+              <span>🎭</span> <span>Theater</span>
+            </button>
+            <button id="btnFullscreen" class="btn-tool" title="Toggle Fullscreen">
+              <span>⛶</span> <span>Fullscreen</span>
+            </button>
+            <button id="btnFavorite" class="btn-tool" title="Save to Favorites">
+              <span>♡</span> <span>Favorite</span>
+            </button>
+            <button id="btnShare" class="btn-tool" title="Share Game Link">
+              <span>🔗</span> <span>Share</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- [AD 2] Below Player Leaderboard Banner (728x90) -->
+        <div class="ad-slot-wrapper">
+          <div data-ad-slot="ad_728x90_2"></div>
+        </div>
+
+        <!-- Interactive User Rating Widget -->
+        <div class="user-rating-widget">
+          <div>
+            <div class="rating-header-title">⭐ Rate This Game</div>
+            <div class="rating-subtext" id="userRatingMsg">Click stars to rate this game!</div>
+            <div id="ratingToast" class="rating-toast"></div>
+          </div>
+
+          <div class="rating-score-box">
+            <div class="star-rating-stars" id="starRatingStars" title="Rate from 1 to 5 stars">
+              <button class="star-btn" data-star="1" aria-label="Rate 1 Star">★</button>
+              <button class="star-btn" data-star="2" aria-label="Rate 2 Stars">★</button>
+              <button class="star-btn" data-star="3" aria-label="Rate 3 Stars">★</button>
+              <button class="star-btn" data-star="4" aria-label="Rate 4 Stars">★</button>
+              <button class="star-btn" data-star="5" aria-label="Rate 5 Stars">★</button>
+            </div>
+            <div style="text-align:right;">
+              <span id="ratingScoreNum" class="rating-score-num">4.9</span>
+              <div id="ratingVoteCount" style="font-size:0.75rem;color:var(--text-muted);">(1,250 votes)</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Game Details Box -->
+        <article class="game-details-box">
+          <div class="game-details-header">
+            <div>
+              <h1 id="gameTitleH1" class="game-title-h1">Retro Bowl Unblocked</h1>
+              <div id="gameTagsList" class="game-tags-list"></div>
+            </div>
+          </div>
+
+          <!-- Controls Guide Box -->
+          <div class="game-controls-box">
+            <div class="controls-header">
+              <span>🎮</span> <span>Game Controls & Instructions</span>
+            </div>
+            <div id="controlsKeysList" class="controls-keys-list"></div>
+            <p id="controlsInstructions" class="controls-instructions"></p>
+          </div>
+
+          <!-- [AD 5] In-Content Sponsored Rectangle (300x250) -->
+          <div class="incontent-ad-card">
+            <div data-ad-slot="ad_300x250_2"></div>
+          </div>
+
+          <!-- Detailed SEO Description -->
+          <div id="gameDescBody" class="game-desc-body"></div>
+
+          <!-- Game Metadata Info -->
+          <div id="gameMetaInfo" style="margin-top: 1.5rem; border-top: 1px solid var(--border-color); padding-top: 1rem;"></div>
+        </article>
+
+      </div>
+
+      <!-- Right Column: Sidebar Adsterra Ads & Top Recommendations -->
+      <aside class="player-sidebar-column">
+
+        <!-- [AD 4] Sidebar Top Sponsored Unit (300x250) -->
+        <div class="sidebar-ad-card">
+          <div data-ad-slot="ad_300x250_1"></div>
+        </div>
+
+        <!-- Recommended Games -->
+        <div class="sidebar-title">
+          <span>🔥</span> <span>Hot Unblocked Games</span>
+        </div>
+
+        <div class="sidebar-games-list">
+          <a href="play/retro-bowl.html" class="sidebar-game-row">
+            <img src="images/retro-bowl.png" alt="Retro Bowl" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">Retro Bowl</div>
+              <div class="sidebar-game-sub">Sports • ★ 4.9 (1.5M+)</div>
+            </div>
+          </a>
+
+          <a href="play/retro-bowl-college.html" class="sidebar-game-row">
+            <img src="images/retro-bowl-college.png" alt="Retro Bowl College" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">Retro Bowl College</div>
+              <div class="sidebar-game-sub">Sports • ★ 4.9 (1.2M+)</div>
+            </div>
+          </a>
+
+          <a href="play/slope.html" class="sidebar-game-row">
+            <img src="images/slope.png" alt="Slope" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">Slope Unblocked</div>
+              <div class="sidebar-game-sub">Running • ★ 4.8 (950K)</div>
+            </div>
+          </a>
+
+          <a href="play/basket-random.html" class="sidebar-game-row">
+            <img src="images/basket-random.png" alt="Basket Random" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">Basket Random</div>
+              <div class="sidebar-game-sub">Multiplayer • ★ 4.8 (880K)</div>
+            </div>
+          </a>
+
+          <a href="play/rooftop-snipers.html" class="sidebar-game-row">
+            <img src="images/rooftop-snipers.png" alt="Rooftop Snipers" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">Rooftop Snipers</div>
+              <div class="sidebar-game-sub">Shooter • ★ 4.7 (720K)</div>
+            </div>
+          </a>
+
+          <a href="play/2048.html" class="sidebar-game-row">
+            <img src="images/2048.png" alt="2048" class="sidebar-thumb">
+            <div class="sidebar-game-info">
+              <div class="sidebar-game-title">2048</div>
+              <div class="sidebar-game-sub">Puzzle • ★ 4.7 (650K)</div>
+            </div>
+          </a>
+        </div>
+
+        <!-- [AD 6] Sidebar Bottom Adsterra Unit (300x250) -->
+        <div class="sidebar-ad-card" style="margin-top:1.5rem;">
+          <div data-ad-slot="ad_300x250_3"></div>
+        </div>
+
+      </aside>
+
+    </div>
+
+    <!-- Related Games Section -->
+    <section style="margin-top: 3.5rem;">
+      <div class="section-header">
+        <h2 class="section-title">More Games You'll Love</h2>
+      </div>
+      <div id="relatedGamesGrid" class="games-grid"></div>
+    </section>
+
+    <!-- [AD 3] Bottom Leaderboard Banner (728x90) -->
+    <div class="ad-slot-wrapper" style="margin:2.5rem auto 1.5rem;">
+      <div data-ad-slot="ad_728x90_3"></div>
+    </div>
+
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2026 Retro Bowl Unblocked 6x (retrobowlunblocked6x.github.io). All rights reserved.</p>
+        <p><a href="./" style="color:var(--accent-primary); font-weight:700;">&larr; Back to Games Directory</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/games-data.js"></script>
+  <script src="js/ads.js"></script>
+  <script src="js/player.js"></script>
+</body>
+</html>
