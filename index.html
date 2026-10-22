@@ -36,6 +36,8 @@
 
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="64x64" href="favicon.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
 
   <!-- Google Fonts: Outfit & Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,7 +45,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
 
   <!-- Schema.org JSON-LD Structured Data for Google Rich Snippets -->
   <script type="application/ld+json">
@@ -80,8 +82,32 @@
         </div>
       </div>
 
-      <!-- Action Buttons -->
+      <!-- Action Buttons & Navigation Menu -->
       <div class="header-actions">
+        <!-- All Games Link -->
+        <a href="category/all.html" class="btn-header" title="All 280+ Unblocked Games">
+          <span>🎮</span> <span>All Games</span>
+        </a>
+
+        <!-- Category Dropdown -->
+        <div class="nav-dropdown">
+          <button class="btn-header nav-dropdown-btn" title="Game Categories">
+            <span>📁</span> <span>Categories ▼</span>
+          </button>
+          <div class="nav-dropdown-content">
+            <a href="category/sports.html">🏈 Sports Games</a>
+            <a href="category/retro.html">🕹️ Retro & Arcade</a>
+            <a href="category/action.html">⚔️ Action & Shooter</a>
+            <a href="category/platformer.html">🏃 Platformers</a>
+            <a href="category/driving.html">🏎️ Driving & Racing</a>
+            <a href="category/puzzle.html">🧩 Puzzle & Logic</a>
+            <a href="category/multiplayer.html">👥 2-Player & Multiplayer</a>
+            <a href="category/flash.html">⚡ Flash Classics (Ruffle)</a>
+            <div class="dropdown-divider"></div>
+            <a href="category/all.html">🔥 All 280+ Games</a>
+          </div>
+        </div>
+
         <!-- PWA Install Button -->
         <button id="installPwaBtn" class="btn-header" style="display:none;" title="Install Progressive Web App">
           <span>📲</span> <span>Install App</span>
@@ -279,31 +305,40 @@
         </div>
 
         <div>
-          <h4 class="footer-col-title">Popular Categories</h4>
+          <h4 class="footer-col-title">Game Categories</h4>
           <ul class="footer-links-list">
-            <li><a href="./?cat=sports">Sports Games</a></li>
-            <li><a href="./?cat=retro">Retro & Arcade</a></li>
-            <li><a href="./?cat=action">Shooter & Action</a></li>
-            <li><a href="./?cat=platformer">Platformer Games</a></li>
-            <li><a href="./?cat=multiplayer">2-Player & Multiplayer</a></li>
+            <li><a href="category/sports.html">Sports Games</a></li>
+            <li><a href="category/retro.html">Retro & Arcade</a></li>
+            <li><a href="category/action.html">Action & Shooter</a></li>
+            <li><a href="category/platformer.html">Platformer Games</a></li>
+            <li><a href="category/driving.html">Driving & Racing</a></li>
+            <li><a href="category/puzzle.html">Puzzle & Logic</a></li>
+            <li><a href="category/multiplayer.html">2-Player Games</a></li>
+            <li><a href="category/flash.html">Flash Classics</a></li>
           </ul>
         </div>
 
         <div>
-          <h4 class="footer-col-title">Top Unblocked Games</h4>
+          <h4 class="footer-col-title">Legal & Publisher Info</h4>
           <ul class="footer-links-list">
-            <li><a href="play/retro-bowl.html">Retro Bowl</a></li>
-            <li><a href="play/retro-bowl-college.html">Retro Bowl College</a></li>
-            <li><a href="play/slope.html">Slope Unblocked</a></li>
-            <li><a href="play/basket-random.html">Basket Random</a></li>
-            <li><a href="play/2048.html">2048 Unblocked</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms.html">Terms of Service</a></li>
+            <li><a href="dmca.html">DMCA & Copyright Policy</a></li>
           </ul>
         </div>
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; 2026 Retro Bowl Unblocked 6x (retrobowlunblocked6x.github.io). All rights reserved.</p>
-        <p style="color:var(--text-muted);font-size:0.75rem;">Games belong to their respective developers. We host unblocked educational and recreational web games.</p>
+        <p>&copy; 2026 Retro Bowl Unblocked 6x (<a href="./" style="color:inherit;text-decoration:underline;">retrobowlunblocked6x.github.io</a>). All rights reserved.</p>
+        <div style="display:flex;gap:1.25rem;flex-wrap:wrap;">
+          <a href="privacy-policy.html">Privacy Policy</a>
+          <a href="terms.html">Terms</a>
+          <a href="dmca.html">DMCA</a>
+          <a href="about.html">About Us</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
       </div>
     </div>
   </footer>

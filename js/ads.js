@@ -80,36 +80,54 @@ class AdsManager {
     const unit = this.config[slotKey];
     if (!unit || !unit.key) return;
 
-    const adHtml = `
-      <!DOCTYPE html>
-      <html>
-      <head>
-        <meta charset="utf-8">
-        <style>
-          body { margin: 0; padding: 0; display: flex; align-items: center; justify-content: center; background: transparent; overflow: hidden; }
-        </style>
-      </head>
-      <body>
-        <script>
-          atOptions = {
-            'key' : '${unit.key}',
-            'format' : '${unit.format || "iframe"}',
-            'height' : ${unit.height},
-            'width' : ${unit.width},
-            'params' : {}
-          };
-        <\/script>
-        <script src="${unit.scriptUrl}"><\/script>
-      </body>
-      </html>
+    // Clear and build frame wrapper
+    el.innerHTML = `
+      <div class="ad-label" style="font-size:0.65rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:4px; font-weight:600; text-align:center;">Advertisement</div>
+      <div class="ad-frame-wrapper" style="width:${unit.width}px; height:${unit.height}px; max-width:100%; display:flex; justify-content:center; align-items:center; margin:0 auto; overflow:hidden;"></div>
     `;
 
-    el.innerHTML = `
-      <div class="ad-label" style="font-size:0.65rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:4px; font-weight:600;">Advertisement</div>
-      <div style="width:${unit.width}px; height:${unit.height}px; max-width:100%; display:flex; justify-content:center; align-items:center; margin:0 auto; overflow:hidden;">
-        <iframe srcdoc="${adHtml.replace(/"/g, '&quot;')}" width="${unit.width}" height="${unit.height}" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:${unit.width}px; height:${unit.height}px;" allowtransparency="true"></iframe>
-      </div>
-    `;
+    const holder = el.querySelector('.ad-frame-wrapper');
+    if (!holder) return;
+
+    const iframe = document.createElement('iframe');
+    iframe.width = String(unit.width);
+    iframe.height = String(unit.height);
+    iframe.frameBorder = '0';
+    iframe.scrolling = 'no';
+    iframe.style.cssText = `border:none; overflow:hidden; width:${unit.width}px; height:${unit.height}px; max-width:100%; display:block;`;
+    iframe.setAttribute('allowtransparency', 'true');
+    holder.appendChild(iframe);
+
+    try {
+      const doc = iframe.contentWindow?.document || iframe.contentDocument;
+      if (doc) {
+        doc.open();
+        doc.write(`<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { margin:0; padding:0; display:flex; align-items:center; justify-content:center; background:transparent; overflow:hidden; }
+  </style>
+</head>
+<body>
+  <script>
+    var atOptions = {
+      'key' : '${unit.key}',
+      'format' : '${unit.format || "iframe"}',
+      'height' : ${unit.height},
+      'width' : ${unit.width},
+      'params' : {}
+    };
+  <\/script>
+  <script src="${unit.scriptUrl}"><\/script>
+</body>
+</html>`);
+        doc.close();
+      }
+    } catch (e) {
+      console.warn('Ad frame write error:', e);
+    }
   }
 
   // Compatibility stubs for legacy calls
