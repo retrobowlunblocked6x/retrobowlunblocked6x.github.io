@@ -22,7 +22,7 @@ function escapeHtml(text) {
 }
 
 const CATEGORIES = [
-  { slug: 'all', title: 'All Unblocked Games', icon: '🎮', desc: 'Browse our complete catalog of 380+ free unblocked games playable instantly online at school or work on Chromebook.', filter: () => true },
+  { slug: 'all', title: 'All Unblocked Games', icon: '🎮', desc: 'Browse our complete catalog of 1,100+ free unblocked games playable instantly online at school or work on Chromebook.', filter: () => true },
   { slug: 'sports', title: 'Sports Games', icon: '🏈', desc: 'Play the best unblocked sports games including Retro Bowl, Retro Bowl College, Basket Random, Soccer Random, and more on Chromebook.', filter: g => g.categories.includes('Sports') },
   { slug: 'retro', title: 'Retro & Arcade Games', icon: '🕹️', desc: 'Relive classic 8-bit, 16-bit, and arcade nostalgia with Pac-Man, Asteroids, Super Mario, and classic retro gems unblocked.', filter: g => g.categories.includes('Retro') || g.categories.includes('Arcade') },
   { slug: 'action', title: 'Action & Shooter Games', icon: '⚔️', desc: 'Engage in fast-paced combat, tactical battles, and shooter thrills with 1v1.lol, Rooftop Snipers, Time Shooter, and more.', filter: g => g.categories.includes('Action') || g.categories.includes('Shooter') },
@@ -40,16 +40,16 @@ function getHeaderHtml(depth = 0) {
   <!-- Navigation Header -->
   <header class="site-header">
     <div class="container header-inner">
-      <a href="${rel}" class="logo-wrapper" title="Retro Bowl Unblocked 6x">
+      <a href="${rel}" class="logo-wrapper" title="Retro Bowl Unblocked">
         <div class="logo-icon">🏈</div>
-        <div class="logo-text">Retro Bowl <span>6X</span><span class="logo-badge">PRO</span></div>
+        <div class="logo-text">Retro Bowl <span>PRO</span></div>
       </a>
 
       <!-- Search Bar -->
       <div class="search-container">
         <div class="search-input-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="Search 380+ unblocked games..." autocomplete="off">
+          <input type="text" id="searchInput" class="search-input" placeholder="Search 1,100+ unblocked games..." autocomplete="off">
           <button id="searchClear" class="search-clear" title="Clear search" style="display:none;">&times;</button>
         </div>
       </div>
@@ -59,7 +59,7 @@ function getHeaderHtml(depth = 0) {
         <a href="${rel}" class="btn-header" title="Home">
           <span>🏠</span> <span>Home</span>
         </a>
-        <a href="${rel}category/all.html" class="btn-header" title="All 380+ Unblocked Games">
+        <a href="${rel}category/all.html" class="btn-header" title="All 1,100+ Unblocked Games">
           <span>🎮</span> <span>All Games</span>
         </a>
 
@@ -78,7 +78,7 @@ function getHeaderHtml(depth = 0) {
             <a href="${rel}category/multiplayer.html">👥 2-Player & Multiplayer</a>
             <a href="${rel}category/flash.html">⚡ Flash Classics (Ruffle)</a>
             <div class="dropdown-divider"></div>
-            <a href="${rel}category/all.html">🔥 All 380+ Games</a>
+            <a href="${rel}category/all.html">🔥 All 1,100+ Games</a>
           </div>
         </div>
 

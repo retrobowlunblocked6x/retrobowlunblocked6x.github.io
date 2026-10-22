@@ -1,7 +1,7 @@
 /**
  * Retro Bowl Unblocked 6x - Complete Games Database
- * Total Games: 284
- * 100% Local Repo Game Paths (games/...)
+ * Total Games: 1102
+ * High-performance HTML5, WebGL & Flash Games playable on school Chromebooks
  */
 const GAMES_DATA = [
   {
@@ -10395,6 +10395,20929 @@ const GAMES_DATA = [
         "Shift (Nitro)"
       ],
       "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "zooplop",
+    "title": "Zooplop",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "zooplop",
+    "gamePath": "https://inkyedu118.github.io/g50/class-1",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-1",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-1",
+    "thumbnail": "images/zooplop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 500577,
+    "featured": false,
+    "description": "Zooplop is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "world-conquest",
+    "title": "World Conquest",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "world-conquest",
+    "gamePath": "https://inkyedu118.github.io/g50/class-2",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-2",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-2",
+    "thumbnail": "images/world-conquest.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 336703,
+    "featured": false,
+    "description": "World Conquest is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "toaster-dash",
+    "title": "Toaster Dash",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "toaster-dash",
+    "gamePath": "https://inkyedu118.github.io/g50/class-3",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-3",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-3",
+    "thumbnail": "images/toaster-dash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 473990,
+    "featured": false,
+    "description": "Toaster Dash is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "tank-ball-monster-battle",
+    "title": "Tank Ball: Monster Battle",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "tank-ball-monster-battle",
+    "gamePath": "https://inkyedu118.github.io/g50/class-4",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-4",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-4",
+    "thumbnail": "images/tank-ball-monster-battle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 795527,
+    "featured": false,
+    "description": "Tank Ball: Monster Battle is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "sudoku-calendar",
+    "title": "Sudoku Calendar",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "sudoku-calendar",
+    "gamePath": "https://inkyedu118.github.io/g50/class-5",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-5",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-5",
+    "thumbnail": "images/sudoku-calendar.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 904567,
+    "featured": false,
+    "description": "Sudoku Calendar is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "space-thing",
+    "title": "Space Thing",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "space-thing",
+    "gamePath": "https://inkyedu118.github.io/g50/class-8",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-8",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-8",
+    "thumbnail": "images/space-thing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 541128,
+    "featured": false,
+    "description": "Space Thing is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "snake-solver",
+    "title": "Snake Solver",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "snake-solver",
+    "gamePath": "https://inkyedu118.github.io/g50/class-9",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-9",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-9",
+    "thumbnail": "images/snake-solver.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 842535,
+    "featured": false,
+    "description": "Snake Solver is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "rush-race-motocross",
+    "title": "Rush Race Motocross",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "rush-race-motocross",
+    "gamePath": "https://inkyedu118.github.io/g50/class-10",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-10",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-10",
+    "thumbnail": "images/rush-race-motocross.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 312344,
+    "featured": false,
+    "description": "Rush Race Motocross is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rodeo-stampede-savannah",
+    "title": "Rodeo Stampede Savannah",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rodeo-stampede-savannah",
+    "gamePath": "https://inkyedu118.github.io/g50/class-11",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-11",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-11",
+    "thumbnail": "images/rodeo-stampede-savannah.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 734944,
+    "featured": false,
+    "description": "Rodeo Stampede Savannah is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "ragdoll-hit",
+    "title": "Ragdoll Hit",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "ragdoll-hit",
+    "gamePath": "https://inkyedu118.github.io/g50/class-12",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-12",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-12",
+    "thumbnail": "images/ragdoll-hit.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 474728,
+    "featured": false,
+    "description": "Ragdoll Hit is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "puffy-cat",
+    "title": "Puffy Cat",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "puffy-cat",
+    "gamePath": "https://inkyedu118.github.io/g50/class-13",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-13",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-13",
+    "thumbnail": "images/puffy-cat.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 306828,
+    "featured": false,
+    "description": "Puffy Cat is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "ovo-dimensions",
+    "title": "OvO Dimensions",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ovo-dimensions",
+    "gamePath": "https://inkyedu118.github.io/g50/class-14",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-14",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-14",
+    "thumbnail": "images/ovo-dimensions.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 862510,
+    "featured": false,
+    "description": "OvO Dimensions is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "ooze-odyssey",
+    "title": "Ooze Odyssey",
+    "categories": [
+      "Puzzle",
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "ooze-odyssey",
+    "gamePath": "https://inkyedu118.github.io/g50/class-15",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-15",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-15",
+    "thumbnail": "images/ooze-odyssey.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 477744,
+    "featured": false,
+    "description": "Ooze Odyssey is an exciting Puzzle, Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "life-choices-life-simulator",
+    "title": "Life Choices: Life Simulator",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "life-choices-life-simulator",
+    "gamePath": "https://inkyedu118.github.io/g50/class-16",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-16",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-16",
+    "thumbnail": "images/life-choices-life-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 510064,
+    "featured": false,
+    "description": "Life Choices: Life Simulator is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "lava-bird",
+    "title": "Lava Bird",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "lava-bird",
+    "gamePath": "https://inkyedu118.github.io/g50/class-17",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-17",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-17",
+    "thumbnail": "images/lava-bird.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 348688,
+    "featured": false,
+    "description": "Lava Bird is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "jamming-car-escape",
+    "title": "Jamming Car Escape",
+    "categories": [
+      "Action",
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "jamming-car-escape",
+    "gamePath": "https://inkyedu118.github.io/g50/class-18",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-18",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-18",
+    "thumbnail": "images/jamming-car-escape.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 903169,
+    "featured": false,
+    "description": "Jamming Car Escape is an exciting Action, Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "impossible-tic-tac-toe",
+    "title": "Impossible Tic Tac Toe",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "impossible-tic-tac-toe",
+    "gamePath": "https://inkyedu118.github.io/g97/class-19",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-19",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-19",
+    "thumbnail": "images/impossible-tic-tac-toe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 340743,
+    "featured": false,
+    "description": "Impossible Tic Tac Toe is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "iidle-cowshed",
+    "title": "Iidle Cowshed",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "iidle-cowshed",
+    "gamePath": "https://inkyedu118.github.io/g50/class-20",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-20",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-20",
+    "thumbnail": "images/iidle-cowshed.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 354082,
+    "featured": false,
+    "description": "Iidle Cowshed is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "gobdun",
+    "title": "Gobdun",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "gobdun",
+    "gamePath": "https://inkyedu118.github.io/g50/class-21",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-21",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-21",
+    "thumbnail": "images/gobdun.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 553590,
+    "featured": false,
+    "description": "Gobdun is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "fruit-ninja",
+    "title": "Fruit Ninja",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "fruit-ninja",
+    "gamePath": "https://inkyedu118.github.io/g50/class-22",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-22",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-22",
+    "thumbnail": "images/fruit-ninja.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 774291,
+    "featured": false,
+    "description": "Fruit Ninja is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "freefall-apart",
+    "title": "Freefall Apart",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "freefall-apart",
+    "gamePath": "https://inkyedu118.github.io/g50/class-23",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-23",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-23",
+    "thumbnail": "images/freefall-apart.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 919921,
+    "featured": false,
+    "description": "Freefall Apart is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "driftwave",
+    "title": "Driftwave",
+    "categories": [
+      "Action",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "driftwave",
+    "gamePath": "https://inkyedu118.github.io/g50/class-24",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-24",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-24",
+    "thumbnail": "images/driftwave.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 355718,
+    "featured": false,
+    "description": "Driftwave is an exciting Action, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "draw-pixel-art",
+    "title": "Draw Pixel Art",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "draw-pixel-art",
+    "gamePath": "https://inkyedu118.github.io/g50/class-25",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-25",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-25",
+    "thumbnail": "images/draw-pixel-art.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 576315,
+    "featured": false,
+    "description": "Draw Pixel Art is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "digging-master",
+    "title": "Digging Master",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "digging-master",
+    "gamePath": "https://inkyedu118.github.io/g50/class-26",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-26",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-26",
+    "thumbnail": "images/digging-master.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 679086,
+    "featured": false,
+    "description": "Digging Master is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "crown-guard",
+    "title": "Crown Guard",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "crown-guard",
+    "gamePath": "https://inkyedu118.github.io/g50/class-27",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-27",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-27",
+    "thumbnail": "images/crown-guard.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 318779,
+    "featured": false,
+    "description": "Crown Guard is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "castle-of-chaos",
+    "title": "Castle of Chaos",
+    "categories": [
+      "Action",
+      "Casual & Strategy",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "castle-of-chaos",
+    "gamePath": "https://inkyedu118.github.io/g50/class-28",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-28",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-28",
+    "thumbnail": "images/castle-of-chaos.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 725050,
+    "featured": false,
+    "description": "Castle of Chaos is an exciting Action, Casual & Strategy, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "bullet-bro",
+    "title": "Bullet Bro",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "bullet-bro",
+    "gamePath": "https://inkyedu118.github.io/g50/class-29",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-29",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-29",
+    "thumbnail": "images/bullet-bro.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 385576,
+    "featured": false,
+    "description": "Bullet Bro is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "brain-test-4-tricky-friends",
+    "title": "Brain Test 4: Tricky Friends",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "brain-test-4-tricky-friends",
+    "gamePath": "https://inkyedu118.github.io/g50/class-30",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-30",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-30",
+    "thumbnail": "images/brain-test-4-tricky-friends.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 395629,
+    "featured": false,
+    "description": "Brain Test 4: Tricky Friends is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "bird-jumper",
+    "title": "Bird Jumper",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bird-jumper",
+    "gamePath": "https://inkyedu118.github.io/g50/class-33",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-33",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-33",
+    "thumbnail": "images/bird-jumper.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 349780,
+    "featured": false,
+    "description": "Bird Jumper is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "a-pretty-odd-bunny-roast-it",
+    "title": "A Pretty Odd Bunny: Roast it!",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "a-pretty-odd-bunny-roast-it",
+    "gamePath": "https://inkyedu118.github.io/g50/class-34",
+    "gameUrl": "https://inkyedu118.github.io/g50/class-34",
+    "remoteUrl": "https://inkyedu118.github.io/g50/class-34",
+    "thumbnail": "images/a-pretty-odd-bunny-roast-it.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 392469,
+    "featured": false,
+    "description": "A Pretty Odd Bunny: Roast it! is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "pirates-merger",
+    "title": "Pirates Merger",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pirates-merger",
+    "gamePath": "https://inkyedu118.github.io/g77/class-35",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-35",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-35",
+    "thumbnail": "images/pirates-merger.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 863784,
+    "featured": false,
+    "description": "Pirates Merger is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "papas-taco-mia",
+    "title": "Papas Taco Mia",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "papas-taco-mia",
+    "gamePath": "https://inkyedu118.github.io/g77/class-40",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-40",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-40",
+    "thumbnail": "images/papas-taco-mia.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 547331,
+    "featured": false,
+    "description": "Papas Taco Mia is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "papas-hotdoggeria",
+    "title": "Papas Hotdoggeria",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "papas-hotdoggeria",
+    "gamePath": "https://inkyedu118.github.io/g77/class-41",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-41",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-41",
+    "thumbnail": "images/papas-hotdoggeria.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 280212,
+    "featured": false,
+    "description": "Papas Hotdoggeria is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "midnight-drive",
+    "title": "Midnight Drive",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "midnight-drive",
+    "gamePath": "https://inkyedu118.github.io/g77/class-42",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-42",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-42",
+    "thumbnail": "images/midnight-drive.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 655625,
+    "featured": false,
+    "description": "Midnight Drive is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "thunderdogs-io",
+    "title": "Thunderdogs io",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "thunderdogs-io",
+    "gamePath": "https://inkyedu118.github.io/g77/class-43",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-43",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-43",
+    "thumbnail": "images/thunderdogs-io.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 665805,
+    "featured": false,
+    "description": "Thunderdogs io is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "hop-chop",
+    "title": "Hop Chop",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "hop-chop",
+    "gamePath": "https://inkyedu118.github.io/g77/class-44",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-44",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-44",
+    "thumbnail": "images/hop-chop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 445207,
+    "featured": false,
+    "description": "Hop Chop is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "goat-vs-zombies",
+    "title": "Goat vs Zombies",
+    "categories": [
+      "Action",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "goat-vs-zombies",
+    "gamePath": "https://inkyedu118.github.io/g77/class-45",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-45",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-45",
+    "thumbnail": "images/goat-vs-zombies.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 302375,
+    "featured": false,
+    "description": "Goat vs Zombies is an exciting Action, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pond-rrace",
+    "title": "Pond Rrace",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pond-rrace",
+    "gamePath": "https://inkyedu118.github.io/g77/class-46",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-46",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-46",
+    "thumbnail": "images/pond-rrace.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 637731,
+    "featured": false,
+    "description": "Pond Rrace is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "grow-up-the-cats",
+    "title": "Grow Up The Cats",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "grow-up-the-cats",
+    "gamePath": "https://inkyedu118.github.io/g77/class-47",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-47",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-47",
+    "thumbnail": "images/grow-up-the-cats.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 492345,
+    "featured": false,
+    "description": "Grow Up The Cats is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "super-fowlst-2",
+    "title": "Super Fowlst 2",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "super-fowlst-2",
+    "gamePath": "https://inkyedu118.github.io/g77/class-49",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-49",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-49",
+    "thumbnail": "images/super-fowlst-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 568040,
+    "featured": false,
+    "description": "Super Fowlst 2 is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "last-warriors",
+    "title": "Last Warriors",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "last-warriors",
+    "gamePath": "https://inkyedu118.github.io/g77/class-50",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-50",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-50",
+    "thumbnail": "images/last-warriors.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 480501,
+    "featured": false,
+    "description": "Last Warriors is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "12-mini-battles-2",
+    "title": "12 Mini Battles 2",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "12-mini-battles-2",
+    "gamePath": "https://inkyedu118.github.io/g77/class-51",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-51",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-51",
+    "thumbnail": "images/12-mini-battles-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 437859,
+    "featured": false,
+    "description": "12 Mini Battles 2 is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "rree-kick-screamers",
+    "title": "Rree Kick Screamers",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "rree-kick-screamers",
+    "gamePath": "https://inkyedu118.github.io/g77/class-52",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-52",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-52",
+    "thumbnail": "images/rree-kick-screamers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 878294,
+    "featured": false,
+    "description": "Rree Kick Screamers is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "sky-mad",
+    "title": "Sky Mad",
+    "categories": [
+      "Driving",
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sky-mad",
+    "gamePath": "https://inkyedu118.github.io/g77/class-53",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-53",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-53",
+    "thumbnail": "images/sky-mad.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 520847,
+    "featured": false,
+    "description": "Sky Mad is an exciting Driving, Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rally-point-2",
+    "title": "Rally Point 2",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "rally-point-2",
+    "gamePath": "https://inkyedu118.github.io/g77/class-54",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-54",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-54",
+    "thumbnail": "images/rally-point-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 424413,
+    "featured": false,
+    "description": "Rally Point 2 is an exciting Action, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rally-point-5",
+    "title": "Rally Point 5",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "rally-point-5",
+    "gamePath": "https://inkyedu118.github.io/g77/class-55",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-55",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-55",
+    "thumbnail": "images/rally-point-5.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 625351,
+    "featured": false,
+    "description": "Rally Point 5 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "freeway-fury",
+    "title": "Freeway Fury",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "freeway-fury",
+    "gamePath": "https://inkyedu118.github.io/g77/class-56",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-56",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-56",
+    "thumbnail": "images/freeway-fury.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 584975,
+    "featured": false,
+    "description": "Freeway Fury is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "final-ninja-html5",
+    "title": "Final Ninja Html5",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "final-ninja-html5",
+    "gamePath": "https://inkyedu118.github.io/g77/class-57",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-57",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-57",
+    "thumbnail": "images/final-ninja-html5.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 533705,
+    "featured": false,
+    "description": "Final Ninja Html5 is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "clash-of-tanks",
+    "title": "Clash Of Tanks",
+    "categories": [
+      "Multiplayer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "clash-of-tanks",
+    "gamePath": "https://inkyedu118.github.io/g77/class-58",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-58",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-58",
+    "thumbnail": "images/clash-of-tanks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 347451,
+    "featured": false,
+    "description": "Clash Of Tanks is an exciting Multiplayer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "skateboard-hero",
+    "title": "Skateboard Hero",
+    "categories": [
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "skateboard-hero",
+    "gamePath": "https://inkyedu118.github.io/g77/class-59",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-59",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-59",
+    "thumbnail": "images/skateboard-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 467801,
+    "featured": false,
+    "description": "Skateboard Hero is an exciting Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rally-point",
+    "title": "Rally Point",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "rally-point",
+    "gamePath": "https://inkyedu118.github.io/g77/class-60",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-60",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-60",
+    "thumbnail": "images/rally-point.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 905550,
+    "featured": false,
+    "description": "Rally Point is an exciting Action, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rebels-clash",
+    "title": "Rebels Clash",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "rebels-clash",
+    "gamePath": "https://inkyedu118.github.io/g77/class-61",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-61",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-61",
+    "thumbnail": "images/rebels-clash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 398096,
+    "featured": false,
+    "description": "Rebels Clash is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "survival-express",
+    "title": "Survival Express",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "survival-express",
+    "gamePath": "https://inkyedu118.github.io/g77/class-62",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-62",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-62",
+    "thumbnail": "images/survival-express.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 794810,
+    "featured": false,
+    "description": "Survival Express is an exciting Platformer, Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "blood-drift",
+    "title": "Blood Drift",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "blood-drift",
+    "gamePath": "https://inkyedu118.github.io/g77/class-63",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-63",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-63",
+    "thumbnail": "images/blood-drift.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 671887,
+    "featured": false,
+    "description": "Blood Drift is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "boxing-fighter-shadow-battle",
+    "title": "Boxing Fighter Shadow Battle",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "boxing-fighter-shadow-battle",
+    "gamePath": "https://inkyedu118.github.io/g77/class-64",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-64",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-64",
+    "thumbnail": "images/boxing-fighter-shadow-battle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 757162,
+    "featured": false,
+    "description": "Boxing Fighter Shadow Battle is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "gladiator-true-story",
+    "title": "Gladiator True Story",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "gladiator-true-story",
+    "gamePath": "https://inkyedu118.github.io/g77/class-65",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-65",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-65",
+    "thumbnail": "images/gladiator-true-story.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 541757,
+    "featured": false,
+    "description": "Gladiator True Story is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "penalty-rivals",
+    "title": "Penalty Rivals",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "penalty-rivals",
+    "gamePath": "https://inkyedu118.github.io/g77/class-66",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-66",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-66",
+    "thumbnail": "images/penalty-rivals.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 746965,
+    "featured": false,
+    "description": "Penalty Rivals is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "mini-guardians-castle-defense",
+    "title": "Mini Guardians Castle Defense",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "mini-guardians-castle-defense",
+    "gamePath": "https://inkyedu118.github.io/g77/class-67",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-67",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-67",
+    "thumbnail": "images/mini-guardians-castle-defense.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 372434,
+    "featured": false,
+    "description": "Mini Guardians Castle Defense is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "rally-point-3",
+    "title": "Rally Point 3",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "rally-point-3",
+    "gamePath": "https://inkyedu118.github.io/g77/class-68",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-68",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-68",
+    "thumbnail": "images/rally-point-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 870160,
+    "featured": false,
+    "description": "Rally Point 3 is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "hoppenhelm",
+    "title": "Hoppenhelm",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "hoppenhelm",
+    "gamePath": "https://inkyedu118.github.io/g7/class-70",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-70",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-70",
+    "thumbnail": "images/hoppenhelm.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 814856,
+    "featured": false,
+    "description": "Hoppenhelm is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "water-polo-ragdoll",
+    "title": "Water Polo Ragdoll",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "water-polo-ragdoll",
+    "gamePath": "https://inkyedu118.github.io/g7/class-71",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-71",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-71",
+    "thumbnail": "images/water-polo-ragdoll.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 905820,
+    "featured": false,
+    "description": "Water Polo Ragdoll is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "bumpy-jumpy",
+    "title": "Bumpy Jumpy",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bumpy-jumpy",
+    "gamePath": "https://inkyedu118.github.io/g7/class-72",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-72",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-72",
+    "thumbnail": "images/bumpy-jumpy.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 848693,
+    "featured": false,
+    "description": "Bumpy Jumpy is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "dadish-3d",
+    "title": "Dadish 3D",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "dadish-3d",
+    "gamePath": "https://inkyedu118.github.io/g7/class-73",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-73",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-73",
+    "thumbnail": "images/dadish-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 912105,
+    "featured": false,
+    "description": "Dadish 3D is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "stickman-run",
+    "title": "Stickman Run",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-run",
+    "gamePath": "https://inkyedu118.github.io/g7/class-74",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-74",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-74",
+    "thumbnail": "images/stickman-run.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 902424,
+    "featured": false,
+    "description": "Stickman Run is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "stickman-parkour-3",
+    "title": "Stickman Parkour 3",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-parkour-3",
+    "gamePath": "https://inkyedu118.github.io/g7/class-75",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-75",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-75",
+    "thumbnail": "images/stickman-parkour-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 417299,
+    "featured": false,
+    "description": "Stickman Parkour 3 is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "doctor-teeth",
+    "title": "Doctor Teeth",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "doctor-teeth",
+    "gamePath": "https://inkyedu118.github.io/g7/class-76",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-76",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-76",
+    "thumbnail": "images/doctor-teeth.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 905777,
+    "featured": false,
+    "description": "Doctor Teeth is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cubies",
+    "title": "Cubies",
+    "categories": [
+      "Action",
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "cubies",
+    "gamePath": "https://inkyedu118.github.io/g7/class-77",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-77",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-77",
+    "thumbnail": "images/cubies.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 678712,
+    "featured": false,
+    "description": "Cubies is an exciting Action, Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "doctor-acorn-3",
+    "title": "Doctor Acorn 3",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "doctor-acorn-3",
+    "gamePath": "https://inkyedu118.github.io/g7/class-78",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-78",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-78",
+    "thumbnail": "images/doctor-acorn-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 907643,
+    "featured": false,
+    "description": "Doctor Acorn 3 is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "temple-run-2-holi-festival",
+    "title": "Temple Run 2 Holi Festival",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "temple-run-2-holi-festival",
+    "gamePath": "https://inkyedu118.github.io/g7/class-80",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-80",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-80",
+    "thumbnail": "images/temple-run-2-holi-festival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 670423,
+    "featured": false,
+    "description": "Temple Run 2 Holi Festival is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "barbershop-inc",
+    "title": "Barbershop Inc",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "barbershop-inc",
+    "gamePath": "https://inkyedu118.github.io/g7/class-81",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-81",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-81",
+    "thumbnail": "images/barbershop-inc.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 756604,
+    "featured": false,
+    "description": "Barbershop Inc is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "super-speeder",
+    "title": "Super Speeder",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "super-speeder",
+    "gamePath": "https://inkyedu118.github.io/g7/class-82",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-82",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-82",
+    "thumbnail": "images/super-speeder.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 505739,
+    "featured": false,
+    "description": "Super Speeder is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "finger-cook",
+    "title": "Finger Cook",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "finger-cook",
+    "gamePath": "https://inkyedu118.github.io/g7/class-83",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-83",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-83",
+    "thumbnail": "images/finger-cook.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 635617,
+    "featured": false,
+    "description": "Finger Cook is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "pull-my-tongue",
+    "title": "Pull My Tongue",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pull-my-tongue",
+    "gamePath": "https://inkyedu118.github.io/g7/class-84",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-84",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-84",
+    "thumbnail": "images/pull-my-tongue.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 752742,
+    "featured": false,
+    "description": "Pull My Tongue is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "super-girl-story",
+    "title": "Super Girl Story",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "super-girl-story",
+    "gamePath": "https://inkyedu118.github.io/g7/class-85",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-85",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-85",
+    "thumbnail": "images/super-girl-story.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 916248,
+    "featured": false,
+    "description": "Super Girl Story is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "dadish",
+    "title": "Dadish",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "dadish",
+    "gamePath": "https://inkyedu118.github.io/g7/class-86",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-86",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-86",
+    "thumbnail": "images/dadish.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 728262,
+    "featured": false,
+    "description": "Dadish is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "cooking-fast-halloween",
+    "title": "Cooking Fast Halloween",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cooking-fast-halloween",
+    "gamePath": "https://inkyedu118.github.io/g7/class-87",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-87",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-87",
+    "thumbnail": "images/cooking-fast-halloween.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 665562,
+    "featured": false,
+    "description": "Cooking Fast Halloween is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "villain-quinn-my-drawing-portfolio",
+    "title": "Villain Quinn My Drawing Portfolio",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "villain-quinn-my-drawing-portfolio",
+    "gamePath": "https://inkyedu118.github.io/g7/class-88",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-88",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-88",
+    "thumbnail": "images/villain-quinn-my-drawing-portfolio.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 458627,
+    "featured": false,
+    "description": "Villain Quinn My Drawing Portfolio is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "hipster-vs-rockers",
+    "title": "Hipster vs Rockers",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "hipster-vs-rockers",
+    "gamePath": "https://inkyedu118.github.io/g7/class-89",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-89",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-89",
+    "thumbnail": "images/hipster-vs-rockers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 413380,
+    "featured": false,
+    "description": "Hipster vs Rockers is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "daddy-long-legs",
+    "title": "Daddy Long Legs",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "daddy-long-legs",
+    "gamePath": "https://inkyedu118.github.io/g7/class-90",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-90",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-90",
+    "thumbnail": "images/daddy-long-legs.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 592186,
+    "featured": false,
+    "description": "Daddy Long Legs is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "popit-vs-spinner",
+    "title": "Popit vs Spinner",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "popit-vs-spinner",
+    "gamePath": "https://inkyedu118.github.io/g7/class-91",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-91",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-91",
+    "thumbnail": "images/popit-vs-spinner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 701347,
+    "featured": false,
+    "description": "Popit vs Spinner is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "dana-relics-for-sale",
+    "title": "Dana Relics For Sale",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "dana-relics-for-sale",
+    "gamePath": "https://inkyedu118.github.io/g7/class-92",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-92",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-92",
+    "thumbnail": "images/dana-relics-for-sale.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 617776,
+    "featured": false,
+    "description": "Dana Relics For Sale is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "football-penalty-champions",
+    "title": "Football Penalty Champions",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "football-penalty-champions",
+    "gamePath": "https://inkyedu118.github.io/g7/class-93",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-93",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-93",
+    "thumbnail": "images/football-penalty-champions.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 716503,
+    "featured": false,
+    "description": "Football Penalty Champions is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "cats-love-cake-2",
+    "title": "Cats Love Cake 2",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "cats-love-cake-2",
+    "gamePath": "https://inkyedu118.github.io/g7/class-94",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-94",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-94",
+    "thumbnail": "images/cats-love-cake-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 708451,
+    "featured": false,
+    "description": "Cats Love Cake 2 is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "restaurant-aand-cooking",
+    "title": "Restaurant Aand Cooking",
+    "categories": [
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "restaurant-aand-cooking",
+    "gamePath": "https://inkyedu118.github.io/g7/class-95",
+    "gameUrl": "https://inkyedu118.github.io/g7/class-95",
+    "remoteUrl": "https://inkyedu118.github.io/g7/class-95",
+    "thumbnail": "images/restaurant-aand-cooking.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 347924,
+    "featured": false,
+    "description": "Restaurant Aand Cooking is an exciting Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "meow-merge",
+    "title": "Meow Merge",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "meow-merge",
+    "gamePath": "https://inkyedu118.github.io/g8/class-96",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-96",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-96",
+    "thumbnail": "images/meow-merge.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 526849,
+    "featured": false,
+    "description": "Meow Merge is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cat-coffee-shop",
+    "title": "Cat Coffee Shop",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cat-coffee-shop",
+    "gamePath": "https://inkyedu118.github.io/g8/class-97",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-97",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-97",
+    "thumbnail": "images/cat-coffee-shop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 540596,
+    "featured": false,
+    "description": "Cat Coffee Shop is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "funny-throat-surgery",
+    "title": "Funny Throat Surgery",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "funny-throat-surgery",
+    "gamePath": "https://inkyedu118.github.io/g8/class-98",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-98",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-98",
+    "thumbnail": "images/funny-throat-surgery.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 542274,
+    "featured": false,
+    "description": "Funny Throat Surgery is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "zuma-boom",
+    "title": "Zuma Boom",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "zuma-boom",
+    "gamePath": "https://inkyedu118.github.io/g8/class-99",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-99",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-99",
+    "thumbnail": "images/zuma-boom.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 805109,
+    "featured": false,
+    "description": "Zuma Boom is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "towntopia",
+    "title": "Towntopia",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "towntopia",
+    "gamePath": "https://inkyedu118.github.io/g8/class-100",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-100",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-100",
+    "thumbnail": "images/towntopia.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 525274,
+    "featured": false,
+    "description": "Towntopia is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "duck-life-battle",
+    "title": "Duck Life Battle",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "duck-life-battle",
+    "gamePath": "https://inkyedu118.github.io/g8/class-101",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-101",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-101",
+    "thumbnail": "images/duck-life-battle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 929111,
+    "featured": false,
+    "description": "Duck Life Battle is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "funny-eye-surgery",
+    "title": "Funny Eye Surgery",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "funny-eye-surgery",
+    "gamePath": "https://inkyedu118.github.io/g8/class-102",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-102",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-102",
+    "thumbnail": "images/funny-eye-surgery.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 590758,
+    "featured": false,
+    "description": "Funny Eye Surgery is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "temple-run-2-jungle-fall",
+    "title": "Temple Run 2 Jungle Fall",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "temple-run-2-jungle-fall",
+    "gamePath": "https://inkyedu118.github.io/g8/class-103",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-103",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-103",
+    "thumbnail": "images/temple-run-2-jungle-fall.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 782192,
+    "featured": false,
+    "description": "Temple Run 2 Jungle Fall is an exciting Platformer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "yokai-dungeon",
+    "title": "Yokai Dungeon",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "yokai-dungeon",
+    "gamePath": "https://inkyedu118.github.io/g8/class-104",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-104",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-104",
+    "thumbnail": "images/yokai-dungeon.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 286701,
+    "featured": false,
+    "description": "Yokai Dungeon is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "pony-run-magic-trails",
+    "title": "Pony Run Magic Trails",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pony-run-magic-trails",
+    "gamePath": "https://inkyedu118.github.io/g8/class-105",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-105",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-105",
+    "thumbnail": "images/pony-run-magic-trails.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 683076,
+    "featured": false,
+    "description": "Pony Run Magic Trails is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "puffy-cat-2",
+    "title": "Puffy Cat 2",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "puffy-cat-2",
+    "gamePath": "https://inkyedu118.github.io/g8/class-106",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-106",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-106",
+    "thumbnail": "images/puffy-cat-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 771797,
+    "featured": false,
+    "description": "Puffy Cat 2 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "funny-ear-surgery",
+    "title": "Funny Ear Surgery",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "funny-ear-surgery",
+    "gamePath": "https://inkyedu118.github.io/g8/class-107",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-107",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-107",
+    "thumbnail": "images/funny-ear-surgery.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 729099,
+    "featured": false,
+    "description": "Funny Ear Surgery is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "ice-cream-please",
+    "title": "Ice Cream Please",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "ice-cream-please",
+    "gamePath": "https://inkyedu118.github.io/g8/class-108",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-108",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-108",
+    "thumbnail": "images/ice-cream-please.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 649082,
+    "featured": false,
+    "description": "Ice Cream Please is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "yummy-toast",
+    "title": "Yummy Toast",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "yummy-toast",
+    "gamePath": "https://inkyedu118.github.io/g8/class-109",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-109",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-109",
+    "thumbnail": "images/yummy-toast.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 435156,
+    "featured": false,
+    "description": "Yummy Toast is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "catch-the-candy-html5",
+    "title": "Catch The Candy Html5",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "catch-the-candy-html5",
+    "gamePath": "https://inkyedu118.github.io/g8/class-110",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-110",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-110",
+    "thumbnail": "images/catch-the-candy-html5.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 508481,
+    "featured": false,
+    "description": "Catch The Candy Html5 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "princess-room-cleaning",
+    "title": "Princess Room Cleaning",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "princess-room-cleaning",
+    "gamePath": "https://inkyedu118.github.io/g8/class-111",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-111",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-111",
+    "thumbnail": "images/princess-room-cleaning.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 770159,
+    "featured": false,
+    "description": "Princess Room Cleaning is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "doctor-teeth-2",
+    "title": "Doctor Teeth 2",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "doctor-teeth-2",
+    "gamePath": "https://inkyedu118.github.io/g8/class-112",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-112",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-112",
+    "thumbnail": "images/doctor-teeth-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 679594,
+    "featured": false,
+    "description": "Doctor Teeth 2 is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "cooking-fast",
+    "title": "Cooking Fast",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cooking-fast",
+    "gamePath": "https://inkyedu118.github.io/g8/class-113",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-113",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-113",
+    "thumbnail": "images/cooking-fast.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 440289,
+    "featured": false,
+    "description": "Cooking Fast is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "dungeons-dressups",
+    "title": "Dungeons Dressups",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "dungeons-dressups",
+    "gamePath": "https://inkyedu118.github.io/g8/class-114",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-114",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-114",
+    "thumbnail": "images/dungeons-dressups.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 466957,
+    "featured": false,
+    "description": "Dungeons Dressups is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "funny-dentist-surgery",
+    "title": "Funny Dentist Surgery",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "funny-dentist-surgery",
+    "gamePath": "https://inkyedu118.github.io/g8/class-115",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-115",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-115",
+    "thumbnail": "images/funny-dentist-surgery.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 741209,
+    "featured": false,
+    "description": "Funny Dentist Surgery is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "la-petite-avril",
+    "title": "La Petite Avril",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "la-petite-avril",
+    "gamePath": "https://inkyedu118.github.io/g8/class-116",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-116",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-116",
+    "thumbnail": "images/la-petite-avril.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 791008,
+    "featured": false,
+    "description": "La Petite Avril is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "doctor-hero",
+    "title": "Doctor Hero",
+    "categories": [
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "doctor-hero",
+    "gamePath": "https://inkyedu118.github.io/g8/class-117",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-117",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-117",
+    "thumbnail": "images/doctor-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 423334,
+    "featured": false,
+    "description": "Doctor Hero is an exciting Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "true-love-calculator",
+    "title": "True Love Calculator",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "true-love-calculator",
+    "gamePath": "https://inkyedu118.github.io/g8/class-118",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-118",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-118",
+    "thumbnail": "images/true-love-calculator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 282952,
+    "featured": false,
+    "description": "True Love Calculator is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "dress-up-the-lovely-princess",
+    "title": "Dress Up The Lovely Princess",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "dress-up-the-lovely-princess",
+    "gamePath": "https://inkyedu118.github.io/g8/class-119",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-119",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-119",
+    "thumbnail": "images/dress-up-the-lovely-princess.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 470136,
+    "featured": false,
+    "description": "Dress Up The Lovely Princess is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "become-a-dentist",
+    "title": "Become a Dentist",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "become-a-dentist",
+    "gamePath": "https://inkyedu118.github.io/g8/class-120",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-120",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-120",
+    "thumbnail": "images/become-a-dentist.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 436644,
+    "featured": false,
+    "description": "Become a Dentist is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "become-a-fashion-designer",
+    "title": "Become A Fashion Designer",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "become-a-fashion-designer",
+    "gamePath": "https://inkyedu118.github.io/g8/class-121",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-121",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-121",
+    "thumbnail": "images/become-a-fashion-designer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 690912,
+    "featured": false,
+    "description": "Become A Fashion Designer is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "mermaid-dress-up",
+    "title": "Mermaid Dress Up",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "mermaid-dress-up",
+    "gamePath": "https://inkyedu118.github.io/g8/class-122",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-122",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-122",
+    "thumbnail": "images/mermaid-dress-up.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 496274,
+    "featured": false,
+    "description": "Mermaid Dress Up is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "temple-run-2-frozen-festival",
+    "title": "Temple Run 2 Frozen Festival",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "temple-run-2-frozen-festival",
+    "gamePath": "https://inkyedu118.github.io/g8/class-123",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-123",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-123",
+    "thumbnail": "images/temple-run-2-frozen-festival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 762987,
+    "featured": false,
+    "description": "Temple Run 2 Frozen Festival is an exciting Platformer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "glam-girl-dress-up-and-makeover",
+    "title": "Glam Girl Dress Up And Makeover",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "glam-girl-dress-up-and-makeover",
+    "gamePath": "https://inkyedu118.github.io/g8/class-124",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-124",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-124",
+    "thumbnail": "images/glam-girl-dress-up-and-makeover.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 687748,
+    "featured": false,
+    "description": "Glam Girl Dress Up And Makeover is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "forgotten-hill-the-wardrobe-4",
+    "title": "Forgotten Hill The Wardrobe 4",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "forgotten-hill-the-wardrobe-4",
+    "gamePath": "https://inkyedu118.github.io/g8/class-125",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-125",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-125",
+    "thumbnail": "images/forgotten-hill-the-wardrobe-4.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 670633,
+    "featured": false,
+    "description": "Forgotten Hill The Wardrobe 4 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "forgotten-hill-the-wardrobe-3",
+    "title": "Forgotten Hill The Wardrobe 3",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "forgotten-hill-the-wardrobe-3",
+    "gamePath": "https://inkyedu118.github.io/g8/class-126",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-126",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-126",
+    "thumbnail": "images/forgotten-hill-the-wardrobe-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 673148,
+    "featured": false,
+    "description": "Forgotten Hill The Wardrobe 3 is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "infinite-soccer",
+    "title": "Infinite Soccer",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "infinite-soccer",
+    "gamePath": "https://inkyedu118.github.io/g8/class-127",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-127",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-127",
+    "thumbnail": "images/infinite-soccer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 585779,
+    "featured": false,
+    "description": "Infinite Soccer is an exciting Action, Platformer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "one-hundred-castles-solitaire",
+    "title": "One Hundred Castles Solitaire",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "one-hundred-castles-solitaire",
+    "gamePath": "https://inkyedu118.github.io/g8/class-128",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-128",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-128",
+    "thumbnail": "images/one-hundred-castles-solitaire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 568638,
+    "featured": false,
+    "description": "One Hundred Castles Solitaire is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "unicycle-legend",
+    "title": "Unicycle Legend",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "unicycle-legend",
+    "gamePath": "https://inkyedu118.github.io/g8/class-129",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-129",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-129",
+    "thumbnail": "images/unicycle-legend.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 434618,
+    "featured": false,
+    "description": "Unicycle Legend is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "monster-merge",
+    "title": "Monster Merge",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "monster-merge",
+    "gamePath": "https://inkyedu118.github.io/g8/class-130",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-130",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-130",
+    "thumbnail": "images/monster-merge.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 714930,
+    "featured": false,
+    "description": "Monster Merge is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "fast-food-dumpster-adventure",
+    "title": "Fast Food Dumpster Adventure",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "fast-food-dumpster-adventure",
+    "gamePath": "https://inkyedu118.github.io/g8/class-131",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-131",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-131",
+    "thumbnail": "images/fast-food-dumpster-adventure.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 525189,
+    "featured": false,
+    "description": "Fast Food Dumpster Adventure is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "slime-laboratory-3",
+    "title": "Slime Laboratory 3",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "slime-laboratory-3",
+    "gamePath": "https://inkyedu118.github.io/g8/class-132",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-132",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-132",
+    "thumbnail": "images/slime-laboratory-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 505665,
+    "featured": false,
+    "description": "Slime Laboratory 3 is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "temple-run-2-frozen-shadows",
+    "title": "Temple Run 2: Frozen Shadows",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "temple-run-2-frozen-shadows",
+    "gamePath": "https://inkyedu118.github.io/g8/class-134",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-134",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-134",
+    "thumbnail": "images/temple-run-2-frozen-shadows.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 799013,
+    "featured": false,
+    "description": "Temple Run 2: Frozen Shadows is an exciting Platformer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "snake",
+    "gamePath": "https://inkyedu118.github.io/g8/class-135",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-135",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-135",
+    "thumbnail": "images/snake.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 894312,
+    "featured": false,
+    "description": "Snake is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pizzapunk",
+    "title": "Pizzapunk",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pizzapunk",
+    "gamePath": "https://inkyedu118.github.io/g8/class-136",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-136",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-136",
+    "thumbnail": "images/pizzapunk.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 735077,
+    "featured": false,
+    "description": "Pizzapunk is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "9-balls-pool",
+    "title": "9 Balls Pool",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "9-balls-pool",
+    "gamePath": "https://inkyedu118.github.io/g8/class-137",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-137",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-137",
+    "thumbnail": "images/9-balls-pool.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 480012,
+    "featured": false,
+    "description": "9 Balls Pool is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "twirl",
+    "title": "Twirl",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "twirl",
+    "gamePath": "https://inkyedu118.github.io/g8/class-138",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-138",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-138",
+    "thumbnail": "images/twirl.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 559620,
+    "featured": false,
+    "description": "Twirl is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "into-the-pit",
+    "title": "Into The Pit",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "into-the-pit",
+    "gamePath": "https://inkyedu118.github.io/g8/class-139",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-139",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-139",
+    "thumbnail": "images/into-the-pit.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 920456,
+    "featured": false,
+    "description": "Into The Pit is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "mimelet",
+    "title": "Mimelet",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mimelet",
+    "gamePath": "https://inkyedu118.github.io/g8/class-140",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-140",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-140",
+    "thumbnail": "images/mimelet.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 871877,
+    "featured": false,
+    "description": "Mimelet is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "cats-love-cake",
+    "title": "Cats Love Cake",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cats-love-cake",
+    "gamePath": "https://inkyedu118.github.io/g8/class-142",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-142",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-142",
+    "thumbnail": "images/cats-love-cake.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 700306,
+    "featured": false,
+    "description": "Cats Love Cake is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "footyzag",
+    "title": "Footyzag",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "footyzag",
+    "gamePath": "https://inkyedu118.github.io/g8/class-143",
+    "gameUrl": "https://inkyedu118.github.io/g8/class-143",
+    "remoteUrl": "https://inkyedu118.github.io/g8/class-143",
+    "thumbnail": "images/footyzag.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 519770,
+    "featured": false,
+    "description": "Footyzag is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "farm-battles",
+    "title": "Farm Battles",
+    "categories": [
+      "Casual & Strategy",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "farm-battles",
+    "gamePath": "https://inkyedu118.github.io/g6/class-144",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-144",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-144",
+    "thumbnail": "images/farm-battles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 549928,
+    "featured": false,
+    "description": "Farm Battles is an exciting Casual & Strategy, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "mowing-mazes",
+    "title": "Mowing Mazes",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mowing-mazes",
+    "gamePath": "https://inkyedu118.github.io/g6/class-145",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-145",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-145",
+    "thumbnail": "images/mowing-mazes.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 363644,
+    "featured": false,
+    "description": "Mowing Mazes is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "speed-pool-king",
+    "title": "Speed Pool King",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "speed-pool-king",
+    "gamePath": "https://inkyedu118.github.io/g6/class-146",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-146",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-146",
+    "thumbnail": "images/speed-pool-king.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 786069,
+    "featured": false,
+    "description": "Speed Pool King is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "word-monsters",
+    "title": "Word Monsters",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "word-monsters",
+    "gamePath": "https://inkyedu118.github.io/g6/class-147",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-147",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-147",
+    "thumbnail": "images/word-monsters.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 322116,
+    "featured": false,
+    "description": "Word Monsters is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "box-kid-puzzles",
+    "title": "Box Kid Puzzles",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "box-kid-puzzles",
+    "gamePath": "https://inkyedu118.github.io/g6/class-148",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-148",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-148",
+    "thumbnail": "images/box-kid-puzzles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 597588,
+    "featured": false,
+    "description": "Box Kid Puzzles is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "word-boss",
+    "title": "Word Boss",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "word-boss",
+    "gamePath": "https://inkyedu118.github.io/g6/class-149",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-149",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-149",
+    "thumbnail": "images/word-boss.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 763296,
+    "featured": false,
+    "description": "Word Boss is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "flags-maniac",
+    "title": "Flags Maniac",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "flags-maniac",
+    "gamePath": "https://inkyedu118.github.io/g6/class-150",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-150",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-150",
+    "thumbnail": "images/flags-maniac.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 868477,
+    "featured": false,
+    "description": "Flags Maniac is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "wordoku",
+    "title": "Wordoku",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "wordoku",
+    "gamePath": "https://inkyedu118.github.io/g6/class-151",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-151",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-151",
+    "thumbnail": "images/wordoku.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 321031,
+    "featured": false,
+    "description": "Wordoku is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "mummys-path-deluxe",
+    "title": "Mummys Path Deluxe",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "mummys-path-deluxe",
+    "gamePath": "https://inkyedu118.github.io/g6/class-152",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-152",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-152",
+    "thumbnail": "images/mummys-path-deluxe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 618612,
+    "featured": false,
+    "description": "Mummys Path Deluxe is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "wordy-pop",
+    "title": "Wordy Pop",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "wordy-pop",
+    "gamePath": "https://inkyedu118.github.io/g6/class-153",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-153",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-153",
+    "thumbnail": "images/wordy-pop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 878854,
+    "featured": false,
+    "description": "Wordy Pop is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "typing-fighter",
+    "title": "Typing Fighter",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "typing-fighter",
+    "gamePath": "https://inkyedu118.github.io/g6/class-154",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-154",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-154",
+    "thumbnail": "images/typing-fighter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 297684,
+    "featured": false,
+    "description": "Typing Fighter is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "zen-blocks",
+    "title": "Zen Blocks",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "zen-blocks",
+    "gamePath": "https://inkyedu118.github.io/g6/class-155",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-155",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-155",
+    "thumbnail": "images/zen-blocks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 724042,
+    "featured": false,
+    "description": "Zen Blocks is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "twice",
+    "title": "Twice",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "twice",
+    "gamePath": "https://inkyedu118.github.io/g6/class-156",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-156",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-156",
+    "thumbnail": "images/twice.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 700261,
+    "featured": false,
+    "description": "Twice is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "amazing-bubble-breaker",
+    "title": "Amazing Bubble  Breaker",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "amazing-bubble-breaker",
+    "gamePath": "https://inkyedu118.github.io/g6/class-157",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-157",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-157",
+    "thumbnail": "images/amazing-bubble-breaker.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 429524,
+    "featured": false,
+    "description": "Amazing Bubble  Breaker is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cat-room-blast",
+    "title": "Cat Room Blast",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cat-room-blast",
+    "gamePath": "https://inkyedu118.github.io/g6/class-158",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-158",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-158",
+    "thumbnail": "images/cat-room-blast.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 549220,
+    "featured": false,
+    "description": "Cat Room Blast is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "amazing-bubble-connect",
+    "title": "Amazing Bubble Connect",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "amazing-bubble-connect",
+    "gamePath": "https://inkyedu118.github.io/g6/class-159",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-159",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-159",
+    "thumbnail": "images/amazing-bubble-connect.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 864629,
+    "featured": false,
+    "description": "Amazing Bubble Connect is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "onet-fruit-classic",
+    "title": "Onet Fruit Classic",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "onet-fruit-classic",
+    "gamePath": "https://inkyedu118.github.io/g6/class-160",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-160",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-160",
+    "thumbnail": "images/onet-fruit-classic.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 778779,
+    "featured": false,
+    "description": "Onet Fruit Classic is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cubinko",
+    "title": "Cubinko",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cubinko",
+    "gamePath": "https://inkyedu118.github.io/g6/class-161",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-161",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-161",
+    "thumbnail": "images/cubinko.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 431267,
+    "featured": false,
+    "description": "Cubinko is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "genie-quest",
+    "title": "Genie Quest",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "genie-quest",
+    "gamePath": "https://inkyedu118.github.io/g6/class-162",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-162",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-162",
+    "thumbnail": "images/genie-quest.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 326141,
+    "featured": false,
+    "description": "Genie Quest is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stack-city",
+    "title": "Stack City",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "stack-city",
+    "gamePath": "https://inkyedu118.github.io/g6/class-163",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-163",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-163",
+    "thumbnail": "images/stack-city.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 489123,
+    "featured": false,
+    "description": "Stack City is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "forgotten-hill-memento-love-beyond",
+    "title": "Forgotten Hill Memento Love Beyond",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "forgotten-hill-memento-love-beyond",
+    "gamePath": "https://inkyedu118.github.io/g6/class-164",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-164",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-164",
+    "thumbnail": "images/forgotten-hill-memento-love-beyond.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 605016,
+    "featured": false,
+    "description": "Forgotten Hill Memento Love Beyond is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blue",
+    "title": "Blue",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "blue",
+    "gamePath": "https://inkyedu118.github.io/g6/class-165",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-165",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-165",
+    "thumbnail": "images/blue.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 723130,
+    "featured": false,
+    "description": "Blue is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pink",
+    "title": "Pink",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pink",
+    "gamePath": "https://inkyedu118.github.io/g6/class-166",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-166",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-166",
+    "thumbnail": "images/pink.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 676118,
+    "featured": false,
+    "description": "Pink is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "one-button-bounce",
+    "title": "One Button Bounce",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "one-button-bounce",
+    "gamePath": "https://inkyedu118.github.io/g6/class-167",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-167",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-167",
+    "thumbnail": "images/one-button-bounce.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 409712,
+    "featured": false,
+    "description": "One Button Bounce is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "forgotten-hill-the-wardrobe",
+    "title": "Forgotten Hill: The Wardrobe",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "forgotten-hill-the-wardrobe",
+    "gamePath": "https://inkyedu118.github.io/g6/class-168",
+    "gameUrl": "https://inkyedu118.github.io/g6/class-168",
+    "remoteUrl": "https://inkyedu118.github.io/g6/class-168",
+    "thumbnail": "images/forgotten-hill-the-wardrobe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 595202,
+    "featured": false,
+    "description": "Forgotten Hill: The Wardrobe is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pizzafall",
+    "title": "Pizzafall",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pizzafall",
+    "gamePath": "https://inkyedu118.github.io/g4/class-169",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-169",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-169",
+    "thumbnail": "images/pizzafall.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 596726,
+    "featured": false,
+    "description": "Pizzafall is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "simply-prop-hunt",
+    "title": "Simply Prop Hunt",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "simply-prop-hunt",
+    "gamePath": "https://inkyedu118.github.io/g4/class-170",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-170",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-170",
+    "thumbnail": "images/simply-prop-hunt.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 568237,
+    "featured": false,
+    "description": "Simply Prop Hunt is an exciting Action, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "chicken-sword-ninja-master",
+    "title": "Chicken Sword Ninja Master",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "chicken-sword-ninja-master",
+    "gamePath": "https://inkyedu118.github.io/g4/class-171",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-171",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-171",
+    "thumbnail": "images/chicken-sword-ninja-master.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 787455,
+    "featured": false,
+    "description": "Chicken Sword Ninja Master is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "tumble-wrestling",
+    "title": "Tumble Wrestling",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "tumble-wrestling",
+    "gamePath": "https://inkyedu118.github.io/g4/class-172",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-172",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-172",
+    "thumbnail": "images/tumble-wrestling.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 833589,
+    "featured": false,
+    "description": "Tumble Wrestling is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stick-fortress",
+    "title": "Stick Fortress",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "stick-fortress",
+    "gamePath": "https://inkyedu118.github.io/g4/class-173",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-173",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-173",
+    "thumbnail": "images/stick-fortress.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 438716,
+    "featured": false,
+    "description": "Stick Fortress is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "we-skate",
+    "title": "We Skate",
+    "categories": [
+      "Platformer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "we-skate",
+    "gamePath": "https://inkyedu118.github.io/g4/class-174",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-174",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-174",
+    "thumbnail": "images/we-skate.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 811389,
+    "featured": false,
+    "description": "We Skate is an exciting Platformer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "time-clones",
+    "title": "Time Clones",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "time-clones",
+    "gamePath": "https://inkyedu118.github.io/g4/class-175",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-175",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-175",
+    "thumbnail": "images/time-clones.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 393750,
+    "featured": false,
+    "description": "Time Clones is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "arrow-pathway",
+    "title": "Arrow Pathway",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "arrow-pathway",
+    "gamePath": "https://inkyedu118.github.io/g4/class-176",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-176",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-176",
+    "thumbnail": "images/arrow-pathway.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 519790,
+    "featured": false,
+    "description": "Arrow Pathway is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "ledge-throw",
+    "title": "Ledge Throw",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "ledge-throw",
+    "gamePath": "https://inkyedu118.github.io/g4/class-177",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-177",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-177",
+    "thumbnail": "images/ledge-throw.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 431638,
+    "featured": false,
+    "description": "Ledge Throw is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "platform-countdown",
+    "title": "Platform Countdown",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "platform-countdown",
+    "gamePath": "https://inkyedu118.github.io/g4/class-178",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-178",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-178",
+    "thumbnail": "images/platform-countdown.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 436911,
+    "featured": false,
+    "description": "Platform Countdown is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jump-and-hover",
+    "title": "Jump And Hover",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "jump-and-hover",
+    "gamePath": "https://inkyedu118.github.io/g4/class-179",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-179",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-179",
+    "thumbnail": "images/jump-and-hover.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 754475,
+    "featured": false,
+    "description": "Jump And Hover is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "hop-warp",
+    "title": "Hop Warp",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "hop-warp",
+    "gamePath": "https://inkyedu118.github.io/g4/class-180",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-180",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-180",
+    "thumbnail": "images/hop-warp.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 420630,
+    "featured": false,
+    "description": "Hop Warp is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "blockins",
+    "title": "Blockins",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "blockins",
+    "gamePath": "https://inkyedu118.github.io/g4/class-181",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-181",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-181",
+    "thumbnail": "images/blockins.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 521487,
+    "featured": false,
+    "description": "Blockins is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "growmi",
+    "title": "Growmi",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "growmi",
+    "gamePath": "https://inkyedu118.github.io/g4/class-182",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-182",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-182",
+    "thumbnail": "images/growmi.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 827035,
+    "featured": false,
+    "description": "Growmi is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blumgi-bloom",
+    "title": "Blumgi Bloom",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-bloom",
+    "gamePath": "https://inkyedu118.github.io/g4/class-183",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-183",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-183",
+    "thumbnail": "images/blumgi-bloom.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 459156,
+    "featured": false,
+    "description": "Blumgi Bloom is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "connect-248",
+    "title": "Connect 248",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "connect-248",
+    "gamePath": "https://inkyedu118.github.io/g4/class-184",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-184",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-184",
+    "thumbnail": "images/connect-248.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 833734,
+    "featured": false,
+    "description": "Connect 248 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cosmos-lines",
+    "title": "Cosmos Lines",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cosmos-lines",
+    "gamePath": "https://inkyedu118.github.io/g4/class-185",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-185",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-185",
+    "thumbnail": "images/cosmos-lines.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 414010,
+    "featured": false,
+    "description": "Cosmos Lines is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "lines-to-fill",
+    "title": "Lines To Fill",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "lines-to-fill",
+    "gamePath": "https://inkyedu118.github.io/g4/class-186",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-186",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-186",
+    "thumbnail": "images/lines-to-fill.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 451962,
+    "featured": false,
+    "description": "Lines To Fill is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "rhomb",
+    "title": "Rhomb",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rhomb",
+    "gamePath": "https://inkyedu118.github.io/g4/class-187",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-187",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-187",
+    "thumbnail": "images/rhomb.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 501739,
+    "featured": false,
+    "description": "Rhomb is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "ludo-hero",
+    "title": "Ludo Hero",
+    "categories": [
+      "Multiplayer",
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ludo-hero",
+    "gamePath": "https://inkyedu118.github.io/g4/class-188",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-188",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-188",
+    "thumbnail": "images/ludo-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 921971,
+    "featured": false,
+    "description": "Ludo Hero is an exciting Multiplayer, Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "sudoku-village",
+    "title": "Sudoku Village",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sudoku-village",
+    "gamePath": "https://inkyedu118.github.io/g4/class-189",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-189",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-189",
+    "thumbnail": "images/sudoku-village.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 443562,
+    "featured": false,
+    "description": "Sudoku Village is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "ultimate-sudoku",
+    "title": "Ultimate Sudoku",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ultimate-sudoku",
+    "gamePath": "https://inkyedu118.github.io/g4/class-190",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-190",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-190",
+    "thumbnail": "images/ultimate-sudoku.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 372078,
+    "featured": false,
+    "description": "Ultimate Sudoku is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "impossible-13",
+    "title": "Impossible 13",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "impossible-13",
+    "gamePath": "https://inkyedu118.github.io/g4/class-191",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-191",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-191",
+    "thumbnail": "images/impossible-13.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 287907,
+    "featured": false,
+    "description": "Impossible 13 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pixel-puzzles",
+    "title": "Pixel Puzzles",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pixel-puzzles",
+    "gamePath": "https://inkyedu118.github.io/g4/class-192",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-192",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-192",
+    "thumbnail": "images/pixel-puzzles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 529757,
+    "featured": false,
+    "description": "Pixel Puzzles is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "logic-master-1",
+    "title": "Logic Master 1",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "logic-master-1",
+    "gamePath": "https://inkyedu118.github.io/g4/class-193",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-193",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-193",
+    "thumbnail": "images/logic-master-1.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 815588,
+    "featured": false,
+    "description": "Logic Master 1 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "its-story-time",
+    "title": "Its Story Time",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "its-story-time",
+    "gamePath": "https://inkyedu118.github.io/g4/class-194",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-194",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-194",
+    "thumbnail": "images/its-story-time.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 884199,
+    "featured": false,
+    "description": "Its Story Time is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "hangman",
+    "title": "Hangman",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "hangman",
+    "gamePath": "https://inkyedu118.github.io/g4/class-195",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-195",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-195",
+    "thumbnail": "images/hangman.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 692961,
+    "featured": false,
+    "description": "Hangman is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "trivia-crack",
+    "title": "Trivia Crack",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "trivia-crack",
+    "gamePath": "https://inkyedu118.github.io/g4/class-196",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-196",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-196",
+    "thumbnail": "images/trivia-crack.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 554092,
+    "featured": false,
+    "description": "Trivia Crack is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "light-the-lamp",
+    "title": "Light The Lamp",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "light-the-lamp",
+    "gamePath": "https://inkyedu118.github.io/g4/class-197",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-197",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-197",
+    "thumbnail": "images/light-the-lamp.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 866025,
+    "featured": false,
+    "description": "Light The Lamp is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "unpuzzler",
+    "title": "Unpuzzler",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "unpuzzler",
+    "gamePath": "https://inkyedu118.github.io/g4/class-198",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-198",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-198",
+    "thumbnail": "images/unpuzzler.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 355094,
+    "featured": false,
+    "description": "Unpuzzler is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "brain-dozer",
+    "title": "Brain Dozer",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "brain-dozer",
+    "gamePath": "https://inkyedu118.github.io/g4/class-199",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-199",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-199",
+    "thumbnail": "images/brain-dozer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 719865,
+    "featured": false,
+    "description": "Brain Dozer is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "gem-11",
+    "title": "Gem 11",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "gem-11",
+    "gamePath": "https://inkyedu118.github.io/g4/class-200",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-200",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-200",
+    "thumbnail": "images/gem-11.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 321245,
+    "featured": false,
+    "description": "Gem 11 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jr-chess",
+    "title": "Jr Chess",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "jr-chess",
+    "gamePath": "https://inkyedu118.github.io/g4/class-201",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-201",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-201",
+    "thumbnail": "images/jr-chess.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 555123,
+    "featured": false,
+    "description": "Jr Chess is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "casual-chess",
+    "title": "Casual Chess",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "casual-chess",
+    "gamePath": "https://inkyedu118.github.io/g4/class-202",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-202",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-202",
+    "thumbnail": "images/casual-chess.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 826625,
+    "featured": false,
+    "description": "Casual Chess is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "spider-solitaire",
+    "title": "Spider Solitaire",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "spider-solitaire",
+    "gamePath": "https://inkyedu118.github.io/g4/class-203",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-203",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-203",
+    "thumbnail": "images/spider-solitaire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 869358,
+    "featured": false,
+    "description": "Spider Solitaire is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "solitaire-reverse",
+    "title": "Solitaire Reverse",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "solitaire-reverse",
+    "gamePath": "https://inkyedu118.github.io/g4/class-204",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-204",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-204",
+    "thumbnail": "images/solitaire-reverse.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 671410,
+    "featured": false,
+    "description": "Solitaire Reverse is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "refuge-solitaire",
+    "title": "Refuge Solitaire",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "refuge-solitaire",
+    "gamePath": "https://inkyedu118.github.io/g4/class-205",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-205",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-205",
+    "thumbnail": "images/refuge-solitaire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 342613,
+    "featured": false,
+    "description": "Refuge Solitaire is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "tingly-ppyramid-solitaire",
+    "title": "Tingly Ppyramid Solitaire",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "tingly-ppyramid-solitaire",
+    "gamePath": "https://inkyedu118.github.io/g4/class-206",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-206",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-206",
+    "thumbnail": "images/tingly-ppyramid-solitaire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 891123,
+    "featured": false,
+    "description": "Tingly Ppyramid Solitaire is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "kubi-pets",
+    "title": "Kubi Pets",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "kubi-pets",
+    "gamePath": "https://inkyedu118.github.io/g4/class-207",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-207",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-207",
+    "thumbnail": "images/kubi-pets.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 432834,
+    "featured": false,
+    "description": "Kubi Pets is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "combo-crusader",
+    "title": "Combo Crusader",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "combo-crusader",
+    "gamePath": "https://inkyedu118.github.io/g4/class-208",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-208",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-208",
+    "thumbnail": "images/combo-crusader.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 491046,
+    "featured": false,
+    "description": "Combo Crusader is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "ultimate-tic-tac-toe",
+    "title": "Ultimate Tic Tac Toe",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ultimate-tic-tac-toe",
+    "gamePath": "https://inkyedu118.github.io/g4/class-209",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-209",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-209",
+    "thumbnail": "images/ultimate-tic-tac-toe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 617833,
+    "featured": false,
+    "description": "Ultimate Tic Tac Toe is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "sudoku",
+    "title": "Sudoku",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sudoku",
+    "gamePath": "https://inkyedu118.github.io/g4/class-210",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-210",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-210",
+    "thumbnail": "images/sudoku.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 500416,
+    "featured": false,
+    "description": "Sudoku is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jungle-bubble-shooter-mania",
+    "title": "Jungle Bubble Shooter Mania",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "jungle-bubble-shooter-mania",
+    "gamePath": "https://inkyedu118.github.io/g4/class-211",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-211",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-211",
+    "thumbnail": "images/jungle-bubble-shooter-mania.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 698921,
+    "featured": false,
+    "description": "Jungle Bubble Shooter Mania is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "jigsaw-photo-puzzle-summer",
+    "title": "Jigsaw Photo Puzzle Summer",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "jigsaw-photo-puzzle-summer",
+    "gamePath": "https://inkyedu118.github.io/g4/class-212",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-212",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-212",
+    "thumbnail": "images/jigsaw-photo-puzzle-summer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 685842,
+    "featured": false,
+    "description": "Jigsaw Photo Puzzle Summer is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jigsaw-photo-puzzle-christmas",
+    "title": "Jigsaw Photo Puzzle Christmas",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "jigsaw-photo-puzzle-christmas",
+    "gamePath": "https://inkyedu118.github.io/g4/class-213",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-213",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-213",
+    "thumbnail": "images/jigsaw-photo-puzzle-christmas.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 658889,
+    "featured": false,
+    "description": "Jigsaw Photo Puzzle Christmas is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jigsaw-photo-puzzle-winter",
+    "title": "Jigsaw Photo Puzzle Winter",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "jigsaw-photo-puzzle-winter",
+    "gamePath": "https://inkyedu118.github.io/g4/class-214",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-214",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-214",
+    "thumbnail": "images/jigsaw-photo-puzzle-winter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 320048,
+    "featured": false,
+    "description": "Jigsaw Photo Puzzle Winter is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "photo-puzzle-slide-edition",
+    "title": "Photo Puzzle Slide Edition",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "photo-puzzle-slide-edition",
+    "gamePath": "https://inkyedu118.github.io/g4/class-215",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-215",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-215",
+    "thumbnail": "images/photo-puzzle-slide-edition.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 691599,
+    "featured": false,
+    "description": "Photo Puzzle Slide Edition is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "mahjong",
+    "title": "Mahjong",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mahjong",
+    "gamePath": "https://inkyedu118.github.io/g4/class-216",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-216",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-216",
+    "thumbnail": "images/mahjong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 910535,
+    "featured": false,
+    "description": "Mahjong is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "classic-mahjong",
+    "title": "Classic Mahjong",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "classic-mahjong",
+    "gamePath": "https://inkyedu118.github.io/g4/class-217",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-217",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-217",
+    "thumbnail": "images/classic-mahjong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 560494,
+    "featured": false,
+    "description": "Classic Mahjong is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "mahjong-linker-kyodai-game",
+    "title": "Mahjong Linker Kyodai Game",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mahjong-linker-kyodai-game",
+    "gamePath": "https://inkyedu118.github.io/g4/class-218",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-218",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-218",
+    "thumbnail": "images/mahjong-linker-kyodai-game.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 798949,
+    "featured": false,
+    "description": "Mahjong Linker Kyodai Game is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "sweety-mahjong",
+    "title": "Sweety Mahjong",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sweety-mahjong",
+    "gamePath": "https://inkyedu118.github.io/g4/class-219",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-219",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-219",
+    "thumbnail": "images/sweety-mahjong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 643552,
+    "featured": false,
+    "description": "Sweety Mahjong is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "chessformer",
+    "title": "Chessformer",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "chessformer",
+    "gamePath": "https://inkyedu118.github.io/g4/class-220",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-220",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-220",
+    "thumbnail": "images/chessformer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 838979,
+    "featured": false,
+    "description": "Chessformer is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "chess-grandmaster",
+    "title": "Chess Grandmaster",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "chess-grandmaster",
+    "gamePath": "https://inkyedu118.github.io/g4/class-221",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-221",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-221",
+    "thumbnail": "images/chess-grandmaster.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 842490,
+    "featured": false,
+    "description": "Chess Grandmaster is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "goose-game",
+    "title": "Goose Game",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "goose-game",
+    "gamePath": "https://inkyedu118.github.io/g4/class-222",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-222",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-222",
+    "thumbnail": "images/goose-game.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 725201,
+    "featured": false,
+    "description": "Goose Game is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "australian-patience",
+    "title": "Australian Patience",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "australian-patience",
+    "gamePath": "https://inkyedu118.github.io/g4/class-223",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-223",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-223",
+    "thumbnail": "images/australian-patience.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 621416,
+    "featured": false,
+    "description": "Australian Patience is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "math-mahjong-relax",
+    "title": "Math Mahjong Relax",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "math-mahjong-relax",
+    "gamePath": "https://inkyedu118.github.io/g4/class-224",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-224",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-224",
+    "thumbnail": "images/math-mahjong-relax.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 280843,
+    "featured": false,
+    "description": "Math Mahjong Relax is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "lords-of-gomoku",
+    "title": "Lords Of Gomoku",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "lords-of-gomoku",
+    "gamePath": "https://inkyedu118.github.io/g4/class-225",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-225",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-225",
+    "thumbnail": "images/lords-of-gomoku.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 348284,
+    "featured": false,
+    "description": "Lords Of Gomoku is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "rainbow-star-pinball",
+    "title": "Rainbow Star Pinball",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rainbow-star-pinball",
+    "gamePath": "https://inkyedu118.github.io/g4/class-226",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-226",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-226",
+    "thumbnail": "images/rainbow-star-pinball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 602658,
+    "featured": false,
+    "description": "Rainbow Star Pinball is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "teleport-jumper",
+    "title": "Teleport Jumper",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "teleport-jumper",
+    "gamePath": "https://inkyedu118.github.io/g4/class-227",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-227",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-227",
+    "thumbnail": "images/teleport-jumper.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 680561,
+    "featured": false,
+    "description": "Teleport Jumper is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "mini-train",
+    "title": "Mini Train",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mini-train",
+    "gamePath": "https://inkyedu118.github.io/g4/class-228",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-228",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-228",
+    "thumbnail": "images/mini-train.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 811991,
+    "featured": false,
+    "description": "Mini Train is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "flags-quiz",
+    "title": "Flags Quiz",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "flags-quiz",
+    "gamePath": "https://inkyedu118.github.io/g4/class-229",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-229",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-229",
+    "thumbnail": "images/flags-quiz.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 684713,
+    "featured": false,
+    "description": "Flags Quiz is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cute-puzzle-witch",
+    "title": "Cute Puzzle Witch",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cute-puzzle-witch",
+    "gamePath": "https://inkyedu118.github.io/g4/class-230",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-230",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-230",
+    "thumbnail": "images/cute-puzzle-witch.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 600909,
+    "featured": false,
+    "description": "Cute Puzzle Witch is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cover-orange-wild-west",
+    "title": "Cover Orange Wild West",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cover-orange-wild-west",
+    "gamePath": "https://inkyedu118.github.io/g4/class-231",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-231",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-231",
+    "thumbnail": "images/cover-orange-wild-west.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 789268,
+    "featured": false,
+    "description": "Cover Orange Wild West is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cover-orange-journey",
+    "title": "Cover Orange Journey",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cover-orange-journey",
+    "gamePath": "https://inkyedu118.github.io/g4/class-233",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-233",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-233",
+    "thumbnail": "images/cover-orange-journey.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 317399,
+    "featured": false,
+    "description": "Cover Orange Journey is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "merge-to-million",
+    "title": "Merge To Million",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "merge-to-million",
+    "gamePath": "https://inkyedu118.github.io/g4/class-234",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-234",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-234",
+    "thumbnail": "images/merge-to-million.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 445497,
+    "featured": false,
+    "description": "Merge To Million is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "prismo-puzzles",
+    "title": "Prismo Puzzles",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "prismo-puzzles",
+    "gamePath": "https://inkyedu118.github.io/g4/class-235",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-235",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-235",
+    "thumbnail": "images/prismo-puzzles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 920187,
+    "featured": false,
+    "description": "Prismo Puzzles is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "duck-pond-mahjong",
+    "title": "Duck Pond Mahjong",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "duck-pond-mahjong",
+    "gamePath": "https://inkyedu118.github.io/g4/class-236",
+    "gameUrl": "https://inkyedu118.github.io/g4/class-236",
+    "remoteUrl": "https://inkyedu118.github.io/g4/class-236",
+    "thumbnail": "images/duck-pond-mahjong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 573960,
+    "featured": false,
+    "description": "Duck Pond Mahjong is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "zombie-outbreak-arena",
+    "title": "Zombie Outbreak Arena",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "zombie-outbreak-arena",
+    "gamePath": "https://inkyedu118.github.io/g74/class-237",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-237",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-237",
+    "thumbnail": "images/zombie-outbreak-arena.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 817955,
+    "featured": false,
+    "description": "Zombie Outbreak Arena is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "yarn-untangle",
+    "title": "Yarn Untangle",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "yarn-untangle",
+    "gamePath": "https://inkyedu118.github.io/g74/class-238",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-238",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-238",
+    "thumbnail": "images/yarn-untangle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 764356,
+    "featured": false,
+    "description": "Yarn Untangle is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "westoon",
+    "title": "Westoon",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "westoon",
+    "gamePath": "https://inkyedu118.github.io/g74/class-239",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-239",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-239",
+    "thumbnail": "images/westoon.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 871028,
+    "featured": false,
+    "description": "Westoon is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "total-recoil",
+    "title": "Total Recoil",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "total-recoil",
+    "gamePath": "https://inkyedu118.github.io/g74/class-240",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-240",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-240",
+    "thumbnail": "images/total-recoil.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 813847,
+    "featured": false,
+    "description": "Total Recoil is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "sumo-party",
+    "title": "Sumo Party",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "sumo-party",
+    "gamePath": "https://inkyedu118.github.io/g74/class-241",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-241",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-241",
+    "thumbnail": "images/sumo-party.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 670166,
+    "featured": false,
+    "description": "Sumo Party is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stupid-zombies-2",
+    "title": "Stupid Zombies 2",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stupid-zombies-2",
+    "gamePath": "https://inkyedu118.github.io/g74/class-242",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-242",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-242",
+    "thumbnail": "images/stupid-zombies-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 513424,
+    "featured": false,
+    "description": "Stupid Zombies 2 is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "space-major-miner",
+    "title": "Space Major Miner",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "space-major-miner",
+    "gamePath": "https://inkyedu118.github.io/g74/class-243",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-243",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-243",
+    "thumbnail": "images/space-major-miner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 690025,
+    "featured": false,
+    "description": "Space Major Miner is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "snakes-and-ladders",
+    "title": "Snakes and Ladders",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "snakes-and-ladders",
+    "gamePath": "https://inkyedu118.github.io/g74/class-244",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-244",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-244",
+    "thumbnail": "images/snakes-and-ladders.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 490581,
+    "featured": false,
+    "description": "Snakes and Ladders is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "sling-kong",
+    "title": "Sling Kong",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sling-kong",
+    "gamePath": "https://inkyedu118.github.io/g74/class-246",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-246",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-246",
+    "thumbnail": "images/sling-kong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 566128,
+    "featured": false,
+    "description": "Sling Kong is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "sink-it",
+    "title": "Sink It",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sink-it",
+    "gamePath": "https://inkyedu118.github.io/g74/class-247",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-247",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-247",
+    "thumbnail": "images/sink-it.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 496838,
+    "featured": false,
+    "description": "Sink It is an exciting Action, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "pony-dressup-2",
+    "title": "Pony DressUp 2",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pony-dressup-2",
+    "gamePath": "https://inkyedu118.github.io/g74/class-248",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-248",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-248",
+    "thumbnail": "images/pony-dressup-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 774730,
+    "featured": false,
+    "description": "Pony DressUp 2 is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "ping-pong-chaos",
+    "title": "Ping Pong Chaos",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "ping-pong-chaos",
+    "gamePath": "https://inkyedu118.github.io/g74/class-249",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-249",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-249",
+    "thumbnail": "images/ping-pong-chaos.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 441812,
+    "featured": false,
+    "description": "Ping Pong Chaos is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "paint-strike",
+    "title": "Paint Strike",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "paint-strike",
+    "gamePath": "https://inkyedu118.github.io/g74/class-250",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-250",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-250",
+    "thumbnail": "images/paint-strike.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 465589,
+    "featured": false,
+    "description": "Paint Strike is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "nugget-royale",
+    "title": "Nugget Royale",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "nugget-royale",
+    "gamePath": "https://inkyedu118.github.io/g74/class-251",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-251",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-251",
+    "thumbnail": "images/nugget-royale.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 696536,
+    "featured": false,
+    "description": "Nugget Royale is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "nightpointio",
+    "title": "Nightpoint.io",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "nightpointio",
+    "gamePath": "https://inkyedu118.github.io/g74/class-252",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-252",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-252",
+    "thumbnail": "images/nightpointio.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 863580,
+    "featured": false,
+    "description": "Nightpoint.io is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "master-checkers",
+    "title": "Master Checkers",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "master-checkers",
+    "gamePath": "https://inkyedu118.github.io/g74/class-253",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-253",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-253",
+    "thumbnail": "images/master-checkers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 666843,
+    "featured": false,
+    "description": "Master Checkers is an exciting Puzzle, Casual & Strategy, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "mafia-wars",
+    "title": "Mafia Wars",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "mafia-wars",
+    "gamePath": "https://inkyedu118.github.io/g74/class-254",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-254",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-254",
+    "thumbnail": "images/mafia-wars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 609781,
+    "featured": false,
+    "description": "Mafia Wars is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "madzoong",
+    "title": "MadZOOng",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "madzoong",
+    "gamePath": "https://inkyedu118.github.io/g74/class-255",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-255",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-255",
+    "thumbnail": "images/madzoong.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 794124,
+    "featured": false,
+    "description": "MadZOOng is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "lovely-fox",
+    "title": "Lovely Fox",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "lovely-fox",
+    "gamePath": "https://inkyedu118.github.io/g74/class-256",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-256",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-256",
+    "thumbnail": "images/lovely-fox.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 423252,
+    "featured": false,
+    "description": "Lovely Fox is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "lethal-sniper-3d-army-soldier",
+    "title": "Lethal Sniper 3D: Army Soldier",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "lethal-sniper-3d-army-soldier",
+    "gamePath": "https://inkyedu118.github.io/g74/class-257",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-257",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-257",
+    "thumbnail": "images/lethal-sniper-3d-army-soldier.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 708451,
+    "featured": false,
+    "description": "Lethal Sniper 3D: Army Soldier is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "idle-gold-miner",
+    "title": "Idle Gold Miner",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-gold-miner",
+    "gamePath": "https://inkyedu118.github.io/g74/class-258",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-258",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-258",
+    "thumbnail": "images/idle-gold-miner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 319531,
+    "featured": false,
+    "description": "Idle Gold Miner is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "gangster-contract-mafia-wars",
+    "title": "Gangster Contract Mafia Wars",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "gangster-contract-mafia-wars",
+    "gamePath": "https://inkyedu118.github.io/g74/class-259",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-259",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-259",
+    "thumbnail": "images/gangster-contract-mafia-wars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 809479,
+    "featured": false,
+    "description": "Gangster Contract Mafia Wars is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "game-of-farmers",
+    "title": "Game of Farmers",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "game-of-farmers",
+    "gamePath": "https://inkyedu118.github.io/g74/class-260",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-260",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-260",
+    "thumbnail": "images/game-of-farmers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 511599,
+    "featured": false,
+    "description": "Game of Farmers is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "eggbot-vs-zombies",
+    "title": "Eggbot vs Zombies",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "eggbot-vs-zombies",
+    "gamePath": "https://inkyedu118.github.io/g74/class-261",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-261",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-261",
+    "thumbnail": "images/eggbot-vs-zombies.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 692248,
+    "featured": false,
+    "description": "Eggbot vs Zombies is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "dyna-boy",
+    "title": "Dyna Boy",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "dyna-boy",
+    "gamePath": "https://inkyedu118.github.io/g74/class-262",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-262",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-262",
+    "thumbnail": "images/dyna-boy.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 409019,
+    "featured": false,
+    "description": "Dyna Boy is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "ducklingsio",
+    "title": "Ducklings.io",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ducklingsio",
+    "gamePath": "https://inkyedu118.github.io/g74/class-263",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-263",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-263",
+    "thumbnail": "images/ducklingsio.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 465593,
+    "featured": false,
+    "description": "Ducklings.io is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "darts-pro",
+    "title": "Darts Pro",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "darts-pro",
+    "gamePath": "https://inkyedu118.github.io/g74/class-265",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-265",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-265",
+    "thumbnail": "images/darts-pro.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 860996,
+    "featured": false,
+    "description": "Darts Pro is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "court-kings-3d",
+    "title": "Court Kings 3D",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "court-kings-3d",
+    "gamePath": "https://inkyedu118.github.io/g74/class-266",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-266",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-266",
+    "thumbnail": "images/court-kings-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 627686,
+    "featured": false,
+    "description": "Court Kings 3D is an exciting Action, Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "chicky-farm",
+    "title": "Chicky Farm",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "chicky-farm",
+    "gamePath": "https://inkyedu118.github.io/g74/class-267",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-267",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-267",
+    "thumbnail": "images/chicky-farm.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 614729,
+    "featured": false,
+    "description": "Chicky Farm is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cave-blast",
+    "title": "Cave Blast",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cave-blast",
+    "gamePath": "https://inkyedu118.github.io/g74/class-268",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-268",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-268",
+    "thumbnail": "images/cave-blast.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 479260,
+    "featured": false,
+    "description": "Cave Blast is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "bomber-royale",
+    "title": "Bomber Royale",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bomber-royale",
+    "gamePath": "https://inkyedu118.github.io/g74/class-269",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-269",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-269",
+    "thumbnail": "images/bomber-royale.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 750813,
+    "featured": false,
+    "description": "Bomber Royale is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "become-a-puppy-groomer",
+    "title": "Become a Puppy Groomer",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "become-a-puppy-groomer",
+    "gamePath": "https://inkyedu118.github.io/g74/class-270",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-270",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-270",
+    "thumbnail": "images/become-a-puppy-groomer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 354348,
+    "featured": false,
+    "description": "Become a Puppy Groomer is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "bearsus",
+    "title": "Bearsus",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bearsus",
+    "gamePath": "https://inkyedu118.github.io/g16/class-271",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-271",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-271",
+    "thumbnail": "images/bearsus.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 761276,
+    "featured": false,
+    "description": "Bearsus is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "bad-ice-cream-3",
+    "title": "Bad Ice-Cream 3",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bad-ice-cream-3",
+    "gamePath": "https://inkyedu118.github.io/g74/class-272",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-272",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-272",
+    "thumbnail": "images/bad-ice-cream-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 832623,
+    "featured": false,
+    "description": "Bad Ice-Cream 3 is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "bad-ice-cream-2",
+    "title": "Bad Ice-Cream 2",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bad-ice-cream-2",
+    "gamePath": "https://inkyedu118.github.io/g74/class-273",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-273",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-273",
+    "thumbnail": "images/bad-ice-cream-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 825465,
+    "featured": false,
+    "description": "Bad Ice-Cream 2 is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "animal-arena",
+    "title": "Animal Arena",
+    "categories": [
+      "Multiplayer",
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "animal-arena",
+    "gamePath": "https://inkyedu118.github.io/g74/class-274",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-274",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-274",
+    "thumbnail": "images/animal-arena.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 562643,
+    "featured": false,
+    "description": "Animal Arena is an exciting Multiplayer, Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "aliens-nest",
+    "title": "Aliens Nest",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "aliens-nest",
+    "gamePath": "https://inkyedu118.github.io/g74/class-275",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-275",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-275",
+    "thumbnail": "images/aliens-nest.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 818399,
+    "featured": false,
+    "description": "Aliens Nest is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "a-pretty-odd-bunny",
+    "title": "A Pretty Odd Bunny",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "a-pretty-odd-bunny",
+    "gamePath": "https://inkyedu118.github.io/g74/class-276",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-276",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-276",
+    "thumbnail": "images/a-pretty-odd-bunny.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 354762,
+    "featured": false,
+    "description": "A Pretty Odd Bunny is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "8bit-fiesta",
+    "title": "8bit Fiesta",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "8bit-fiesta",
+    "gamePath": "https://inkyedu118.github.io/g74/class-277",
+    "gameUrl": "https://inkyedu118.github.io/g74/class-277",
+    "remoteUrl": "https://inkyedu118.github.io/g74/class-277",
+    "thumbnail": "images/8bit-fiesta.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 839830,
+    "featured": false,
+    "description": "8bit Fiesta is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "boxrob-3",
+    "title": "BoxRob 3",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "boxrob-3",
+    "gamePath": "https://inkyedu118.github.io/g177/class-278",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-278",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-278",
+    "thumbnail": "images/boxrob-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 377149,
+    "featured": false,
+    "description": "BoxRob 3 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "boxrob-2",
+    "title": "BoxRob 2",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "boxrob-2",
+    "gamePath": "https://inkyedu118.github.io/g177/class-279",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-279",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-279",
+    "thumbnail": "images/boxrob-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 305887,
+    "featured": false,
+    "description": "BoxRob 2 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "boxrob",
+    "title": "Boxrob",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "boxrob",
+    "gamePath": "https://inkyedu118.github.io/g177/class-280",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-280",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-280",
+    "thumbnail": "images/boxrob.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 696860,
+    "featured": false,
+    "description": "Boxrob is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "stickman-fight-ragdoll",
+    "title": "Stickman fight ragdoll",
+    "categories": [
+      "Multiplayer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-fight-ragdoll",
+    "gamePath": "https://inkyedu118.github.io/g177/class-281",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-281",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-281",
+    "thumbnail": "images/stickman-fight-ragdoll.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 912697,
+    "featured": false,
+    "description": "Stickman fight ragdoll is an exciting Multiplayer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "bouncy-basketball",
+    "title": "Bouncy basketball",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "bouncy-basketball",
+    "gamePath": "https://inkyedu118.github.io/g177/class-282",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-282",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-282",
+    "thumbnail": "images/bouncy-basketball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 533335,
+    "featured": false,
+    "description": "Bouncy basketball is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "double-panda",
+    "title": "Double panda",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "double-panda",
+    "gamePath": "https://inkyedu118.github.io/g177/class-283",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-283",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-283",
+    "thumbnail": "images/double-panda.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 813752,
+    "featured": false,
+    "description": "Double panda is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "truck-loader-5",
+    "title": "Truck Loader 5",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "truck-loader-5",
+    "gamePath": "https://inkyedu118.github.io/g177/class-285",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-285",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-285",
+    "thumbnail": "images/truck-loader-5.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 800382,
+    "featured": false,
+    "description": "Truck Loader 5 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "truck-loader-4",
+    "title": "Truck Loader 4",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "truck-loader-4",
+    "gamePath": "https://inkyedu118.github.io/g177/class-286",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-286",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-286",
+    "thumbnail": "images/truck-loader-4.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 303093,
+    "featured": false,
+    "description": "Truck Loader 4 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "truck-loader-3",
+    "title": "Truck Loader 3",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "truck-loader-3",
+    "gamePath": "https://inkyedu118.github.io/g177/class-287",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-287",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-287",
+    "thumbnail": "images/truck-loader-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 605662,
+    "featured": false,
+    "description": "Truck Loader 3 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "truck-loader-2",
+    "title": "Truck Loader 2",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "truck-loader-2",
+    "gamePath": "https://inkyedu118.github.io/g177/class-288",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-288",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-288",
+    "thumbnail": "images/truck-loader-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 506685,
+    "featured": false,
+    "description": "Truck Loader 2 is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "truck-loader",
+    "title": "Truck Loader",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "truck-loader",
+    "gamePath": "https://inkyedu118.github.io/g177/class-289",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-289",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-289",
+    "thumbnail": "images/truck-loader.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 632698,
+    "featured": false,
+    "description": "Truck Loader is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "moving-truck-bounty",
+    "title": "Moving Truck: Bounty",
+    "categories": [
+      "Platformer",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "moving-truck-bounty",
+    "gamePath": "https://inkyedu118.github.io/g177/class-290",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-290",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-290",
+    "thumbnail": "images/moving-truck-bounty.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 464322,
+    "featured": false,
+    "description": "Moving Truck: Bounty is an exciting Platformer, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "duo-survival-3",
+    "title": "Duo Survival 3",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "duo-survival-3",
+    "gamePath": "https://inkyedu118.github.io/g177/class-292",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-292",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-292",
+    "thumbnail": "images/duo-survival-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 704626,
+    "featured": false,
+    "description": "Duo Survival 3 is an exciting Platformer, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "zoom-be-3",
+    "title": "ZOOM-BE 3",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zoom-be-3",
+    "gamePath": "https://inkyedu118.github.io/g177/class-293",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-293",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-293",
+    "thumbnail": "images/zoom-be-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 331982,
+    "featured": false,
+    "description": "ZOOM-BE 3 is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "zoom-be-2",
+    "title": "ZOOM-BE 2",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zoom-be-2",
+    "gamePath": "https://inkyedu118.github.io/g177/class-294",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-294",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-294",
+    "thumbnail": "images/zoom-be-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 460900,
+    "featured": false,
+    "description": "ZOOM-BE 2 is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "shape-fold-nature",
+    "title": "Shape Fold Nature",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "shape-fold-nature",
+    "gamePath": "https://inkyedu118.github.io/g177/class-295",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-295",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-295",
+    "thumbnail": "images/shape-fold-nature.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 660627,
+    "featured": false,
+    "description": "Shape Fold Nature is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "shape-fold",
+    "title": "Shape Fold",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "shape-fold",
+    "gamePath": "https://inkyedu118.github.io/g177/class-296",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-296",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-296",
+    "thumbnail": "images/shape-fold.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 385762,
+    "featured": false,
+    "description": "Shape Fold is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "shape-fold-animals",
+    "title": "Shape Fold Animals",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "shape-fold-animals",
+    "gamePath": "https://inkyedu118.github.io/g177/class-297",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-297",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-297",
+    "thumbnail": "images/shape-fold-animals.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 562658,
+    "featured": false,
+    "description": "Shape Fold Animals is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "just-park-it-12",
+    "title": "Just Park It 12",
+    "categories": [
+      "Casual & Strategy",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "just-park-it-12",
+    "gamePath": "https://inkyedu118.github.io/g177/class-298",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-298",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-298",
+    "thumbnail": "images/just-park-it-12.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 510031,
+    "featured": false,
+    "description": "Just Park It 12 is an exciting Casual & Strategy, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "3d-monster-truck-skyroads",
+    "title": "3D Monster Truck: Skyroads",
+    "categories": [
+      "Action",
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "3d-monster-truck-skyroads",
+    "gamePath": "https://inkyedu118.github.io/g177/class-299",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-299",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-299",
+    "thumbnail": "images/3d-monster-truck-skyroads.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 680599,
+    "featured": false,
+    "description": "3D Monster Truck: Skyroads is an exciting Action, Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "moto-space-racing-2-player",
+    "title": "Moto Space Racing: 2 Player",
+    "categories": [
+      "Driving",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "moto-space-racing-2-player",
+    "gamePath": "https://inkyedu118.github.io/g177/class-300",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-300",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-300",
+    "thumbnail": "images/moto-space-racing-2-player.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 435350,
+    "featured": false,
+    "description": "Moto Space Racing: 2 Player is an exciting Driving, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "war-of-caribbean-pirates",
+    "title": "War of Caribbean Pirates",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "war-of-caribbean-pirates",
+    "gamePath": "https://inkyedu118.github.io/g177/class-301",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-301",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-301",
+    "thumbnail": "images/war-of-caribbean-pirates.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 883806,
+    "featured": false,
+    "description": "War of Caribbean Pirates is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "monster-truck-racing-arena",
+    "title": "Monster Truck Racing Arena",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "monster-truck-racing-arena",
+    "gamePath": "https://inkyedu118.github.io/g177/class-302",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-302",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-302",
+    "thumbnail": "images/monster-truck-racing-arena.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 671255,
+    "featured": false,
+    "description": "Monster Truck Racing Arena is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "zombie-siege-outbreak",
+    "title": "Zombie Siege Outbreak",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "zombie-siege-outbreak",
+    "gamePath": "https://inkyedu118.github.io/g177/class-303",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-303",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-303",
+    "thumbnail": "images/zombie-siege-outbreak.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 660308,
+    "featured": false,
+    "description": "Zombie Siege Outbreak is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "burnout-extreme-drift-2",
+    "title": "Burnout Extreme Drift 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "burnout-extreme-drift-2",
+    "gamePath": "https://inkyedu118.github.io/g177/class-304",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-304",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-304",
+    "thumbnail": "images/burnout-extreme-drift-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 544168,
+    "featured": false,
+    "description": "Burnout Extreme Drift 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "tetris-99",
+    "title": "Tetris 99",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "tetris-99",
+    "gamePath": "https://inkyedu118.github.io/g3/class-306",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-306",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-306",
+    "thumbnail": "images/tetris-99.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 598939,
+    "featured": false,
+    "description": "Tetris 99 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "duo-survival",
+    "title": "Duo Survival",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "duo-survival",
+    "gamePath": "https://inkyedu118.github.io/g3/class-307",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-307",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-307",
+    "thumbnail": "images/duo-survival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 526030,
+    "featured": false,
+    "description": "Duo Survival is an exciting Platformer, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "duo-survival-2",
+    "title": "Duo Survival 2",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "duo-survival-2",
+    "gamePath": "https://inkyedu118.github.io/g3/class-308",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-308",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-308",
+    "thumbnail": "images/duo-survival-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 770914,
+    "featured": false,
+    "description": "Duo Survival 2 is an exciting Platformer, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "cow-bay",
+    "title": "Cow Bay",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cow-bay",
+    "gamePath": "https://inkyedu118.github.io/g3/class-309",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-309",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-309",
+    "thumbnail": "images/cow-bay.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 479072,
+    "featured": false,
+    "description": "Cow Bay is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "duo-vikings-3",
+    "title": "Duo Vikings 3",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "duo-vikings-3",
+    "gamePath": "https://inkyedu118.github.io/g3/class-310",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-310",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-310",
+    "thumbnail": "images/duo-vikings-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 473199,
+    "featured": false,
+    "description": "Duo Vikings 3 is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "duo-vikings-2",
+    "title": "Duo Vikings 2",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "duo-vikings-2",
+    "gamePath": "https://inkyedu118.github.io/g3/class-311",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-311",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-311",
+    "thumbnail": "images/duo-vikings-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 732196,
+    "featured": false,
+    "description": "Duo Vikings 2 is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "duo-vikings",
+    "title": "Duo Vikings",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "duo-vikings",
+    "gamePath": "https://inkyedu118.github.io/g3/class-312",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-312",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-312",
+    "thumbnail": "images/duo-vikings.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 853027,
+    "featured": false,
+    "description": "Duo Vikings is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "off-road-rain-cargo-simulator",
+    "title": "Off-Road Rain Cargo Simulator",
+    "categories": [
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "off-road-rain-cargo-simulator",
+    "gamePath": "https://inkyedu118.github.io/g3/class-313",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-313",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-313",
+    "thumbnail": "images/off-road-rain-cargo-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 566021,
+    "featured": false,
+    "description": "Off-Road Rain Cargo Simulator is an exciting Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "highway-bike-simulator",
+    "title": "Highway Bike Simulator",
+    "categories": [
+      "Driving",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "highway-bike-simulator",
+    "gamePath": "https://inkyedu118.github.io/g3/class-314",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-314",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-314",
+    "thumbnail": "images/highway-bike-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 480035,
+    "featured": false,
+    "description": "Highway Bike Simulator is an exciting Driving, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "snail-bob-6",
+    "title": "Snail Bob 6",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "snail-bob-6",
+    "gamePath": "https://inkyedu118.github.io/g3/class-315",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-315",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-315",
+    "thumbnail": "images/snail-bob-6.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 306694,
+    "featured": false,
+    "description": "Snail Bob 6 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "zoom-be",
+    "title": "ZOOM-BE",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zoom-be",
+    "gamePath": "https://inkyedu118.github.io/g3/class-316",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-316",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-316",
+    "thumbnail": "images/zoom-be.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 596137,
+    "featured": false,
+    "description": "ZOOM-BE is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "element-bblocks",
+    "title": "Element Bblocks",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "element-bblocks",
+    "gamePath": "https://inkyedu118.github.io/g3/class-317",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-317",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-317",
+    "thumbnail": "images/element-bblocks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 398158,
+    "featured": false,
+    "description": "Element Bblocks is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "peppa-pig-basketball",
+    "title": "Peppa Pig: Basketball",
+    "categories": [
+      "Puzzle",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "peppa-pig-basketball",
+    "gamePath": "https://inkyedu118.github.io/g3/class-318",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-318",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-318",
+    "thumbnail": "images/peppa-pig-basketball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 737396,
+    "featured": false,
+    "description": "Peppa Pig: Basketball is an exciting Puzzle, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "colorup",
+    "title": "ColorUp",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "colorup",
+    "gamePath": "https://inkyedu118.github.io/g3/class-319",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-319",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-319",
+    "thumbnail": "images/colorup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 565571,
+    "featured": false,
+    "description": "ColorUp is an exciting Platformer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "detective-dan",
+    "title": "Detective Dan",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "detective-dan",
+    "gamePath": "https://inkyedu118.github.io/g3/class-320",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-320",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-320",
+    "thumbnail": "images/detective-dan.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 854989,
+    "featured": false,
+    "description": "Detective Dan is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "dino-bros",
+    "title": "Dino Bros",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "dino-bros",
+    "gamePath": "https://inkyedu118.github.io/g3/class-321",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-321",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-321",
+    "thumbnail": "images/dino-bros.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 388038,
+    "featured": false,
+    "description": "Dino Bros is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "merge-party",
+    "title": "Merge Party",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "merge-party",
+    "gamePath": "https://inkyedu118.github.io/g3/class-322",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-322",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-322",
+    "thumbnail": "images/merge-party.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 694300,
+    "featured": false,
+    "description": "Merge Party is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "scrap-divers",
+    "title": "Scrap Divers",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "scrap-divers",
+    "gamePath": "https://inkyedu118.github.io/g3/class-323",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-323",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-323",
+    "thumbnail": "images/scrap-divers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 433264,
+    "featured": false,
+    "description": "Scrap Divers is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "izowave-build-and-defend",
+    "title": "IZOWAVE - Build and Defend",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "izowave-build-and-defend",
+    "gamePath": "https://inkyedu118.github.io/g3/class-325",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-325",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-325",
+    "thumbnail": "images/izowave-build-and-defend.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 644944,
+    "featured": false,
+    "description": "IZOWAVE - Build and Defend is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "pack-a-bag",
+    "title": "Pack a bag",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pack-a-bag",
+    "gamePath": "https://inkyedu118.github.io/g3/class-326",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-326",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-326",
+    "thumbnail": "images/pack-a-bag.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 830460,
+    "featured": false,
+    "description": "Pack a bag is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cozy-room-design",
+    "title": "Cozy Room Design",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cozy-room-design",
+    "gamePath": "https://inkyedu118.github.io/g3/class-327",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-327",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-327",
+    "thumbnail": "images/cozy-room-design.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 284257,
+    "featured": false,
+    "description": "Cozy Room Design is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "runman-race-around-the-world",
+    "title": "RunMan: Race Around the World",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "runman-race-around-the-world",
+    "gamePath": "https://inkyedu118.github.io/g3/class-328",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-328",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-328",
+    "thumbnail": "images/runman-race-around-the-world.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 499479,
+    "featured": false,
+    "description": "RunMan: Race Around the World is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "idle-zoo-safari-rescue",
+    "title": "Idle Zoo Safari Rescue",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-zoo-safari-rescue",
+    "gamePath": "https://inkyedu118.github.io/g3/class-329",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-329",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-329",
+    "thumbnail": "images/idle-zoo-safari-rescue.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 332687,
+    "featured": false,
+    "description": "Idle Zoo Safari Rescue is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blobby-clicker",
+    "title": "Blobby Clicker",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "blobby-clicker",
+    "gamePath": "https://inkyedu118.github.io/g3/class-330",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-330",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-330",
+    "thumbnail": "images/blobby-clicker.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 599930,
+    "featured": false,
+    "description": "Blobby Clicker is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "orange",
+    "title": "Orange",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "orange",
+    "gamePath": "https://inkyedu118.github.io/g3/class-331",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-331",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-331",
+    "thumbnail": "images/orange.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 635670,
+    "featured": false,
+    "description": "Orange is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "craftomation-1",
+    "title": "Craftomation 1",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "craftomation-1",
+    "gamePath": "https://inkyedu118.github.io/g3/class-332",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-332",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-332",
+    "thumbnail": "images/craftomation-1.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 657650,
+    "featured": false,
+    "description": "Craftomation 1 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "basketball-frvr",
+    "title": "Basketball Frvr",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "basketball-frvr",
+    "gamePath": "https://inkyedu118.github.io/g177/class-333",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-333",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-333",
+    "thumbnail": "images/basketball-frvr.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 790406,
+    "featured": false,
+    "description": "Basketball Frvr is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "bacon-may-die",
+    "title": "Bacon May Die",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bacon-may-die",
+    "gamePath": "https://inkyedu118.github.io/g177/class-334",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-334",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-334",
+    "thumbnail": "images/bacon-may-die.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 893761,
+    "featured": false,
+    "description": "Bacon May Die is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "flip-runner",
+    "title": "Flip Runner",
+    "categories": [
+      "Platformer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "flip-runner",
+    "gamePath": "https://inkyedu118.github.io/g177/class-335",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-335",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-335",
+    "thumbnail": "images/flip-runner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 886900,
+    "featured": false,
+    "description": "Flip Runner is an exciting Platformer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "super-mx-the-champion",
+    "title": "Super Mx The Champion",
+    "categories": [
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "super-mx-the-champion",
+    "gamePath": "https://inkyedu118.github.io/g177/class-336",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-336",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-336",
+    "thumbnail": "images/super-mx-the-champion.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 494993,
+    "featured": false,
+    "description": "Super Mx The Champion is an exciting Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "slot-car-racing",
+    "title": "Slot Car Racing",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "slot-car-racing",
+    "gamePath": "https://inkyedu118.github.io/g177/class-337",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-337",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-337",
+    "thumbnail": "images/slot-car-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 847749,
+    "featured": false,
+    "description": "Slot Car Racing is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "dragon-simulator-3d",
+    "title": "Dragon Simulator 3D",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "dragon-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g177/class-338",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-338",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-338",
+    "thumbnail": "images/dragon-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 323380,
+    "featured": false,
+    "description": "Dragon Simulator 3D is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "fox-simulator-3d",
+    "title": "Fox Simulator 3D",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "fox-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g177/class-339",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-339",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-339",
+    "thumbnail": "images/fox-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 816436,
+    "featured": false,
+    "description": "Fox Simulator 3D is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "archer-master-3d-castle-defense",
+    "title": "Archer Master 3D Castle Defense",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "archer-master-3d-castle-defense",
+    "gamePath": "https://inkyedu118.github.io/g177/class-340",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-340",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-340",
+    "thumbnail": "images/archer-master-3d-castle-defense.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 522168,
+    "featured": false,
+    "description": "Archer Master 3D Castle Defense is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-6-fairy-tales",
+    "title": "Fireboy and Watergirl 6: Fairy Tales",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-6-fairy-tales",
+    "gamePath": "https://inkyedu118.github.io/g177/class-341",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-341",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-341",
+    "thumbnail": "images/fireboy-and-watergirl-6-fairy-tales.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 830636,
+    "featured": false,
+    "description": "Fireboy and Watergirl 6: Fairy Tales is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-5-elements",
+    "title": "Fireboy and Watergirl 5: Elements",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-5-elements",
+    "gamePath": "https://inkyedu118.github.io/g177/class-342",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-342",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-342",
+    "thumbnail": "images/fireboy-and-watergirl-5-elements.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 573129,
+    "featured": false,
+    "description": "Fireboy and Watergirl 5: Elements is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-4-crystal-temple",
+    "title": "Fireboy and Watergirl 4: Crystal Temple",
+    "categories": [
+      "Puzzle",
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-4-crystal-temple",
+    "gamePath": "https://inkyedu118.github.io/g177/class-343",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-343",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-343",
+    "thumbnail": "images/fireboy-and-watergirl-4-crystal-temple.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 343746,
+    "featured": false,
+    "description": "Fireboy and Watergirl 4: Crystal Temple is an exciting Puzzle, Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-3-ice-temple",
+    "title": "Fireboy and Watergirl 3: Ice Temple",
+    "categories": [
+      "Puzzle",
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-3-ice-temple",
+    "gamePath": "https://inkyedu118.github.io/g177/class-344",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-344",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-344",
+    "thumbnail": "images/fireboy-and-watergirl-3-ice-temple.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 659840,
+    "featured": false,
+    "description": "Fireboy and Watergirl 3: Ice Temple is an exciting Puzzle, Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-2-light-temple",
+    "title": "Fireboy and Watergirl 2: Light Temple",
+    "categories": [
+      "Puzzle",
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-2-light-temple",
+    "gamePath": "https://inkyedu118.github.io/g177/class-345",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-345",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-345",
+    "thumbnail": "images/fireboy-and-watergirl-2-light-temple.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 493003,
+    "featured": false,
+    "description": "Fireboy and Watergirl 2: Light Temple is an exciting Puzzle, Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "fireboy-and-watergirl-1-forest-temple",
+    "title": "Fireboy and Watergirl 1: Forest Temple",
+    "categories": [
+      "Puzzle",
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fireboy-and-watergirl-1-forest-temple",
+    "gamePath": "https://inkyedu118.github.io/g177/class-346",
+    "gameUrl": "https://inkyedu118.github.io/g177/class-346",
+    "remoteUrl": "https://inkyedu118.github.io/g177/class-346",
+    "thumbnail": "images/fireboy-and-watergirl-1-forest-temple.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 302632,
+    "featured": false,
+    "description": "Fireboy and Watergirl 1: Forest Temple is an exciting Puzzle, Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "friday-night-funkin-vs-shaggy-x-matt",
+    "title": "Friday Night Funkin vs Shaggy x Matt",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "friday-night-funkin-vs-shaggy-x-matt",
+    "gamePath": "https://inkyedu118.github.io/fnf3/class-347",
+    "gameUrl": "https://inkyedu118.github.io/fnf3/class-347",
+    "remoteUrl": "https://inkyedu118.github.io/fnf3/class-347",
+    "thumbnail": "images/friday-night-funkin-vs-shaggy-x-matt.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 281230,
+    "featured": false,
+    "description": "Friday Night Funkin vs Shaggy x Matt is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "friday-night-funkin-b-sides",
+    "title": "Friday Night Funkin B-Sides",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "friday-night-funkin-b-sides",
+    "gamePath": "https://inkyedu118.github.io/fnf3/class-348",
+    "gameUrl": "https://inkyedu118.github.io/fnf3/class-348",
+    "remoteUrl": "https://inkyedu118.github.io/fnf3/class-348",
+    "thumbnail": "images/friday-night-funkin-b-sides.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 284368,
+    "featured": false,
+    "description": "Friday Night Funkin B-Sides is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "friday-night-funkin-vs-hatsune-miku",
+    "title": "Friday Night Funkin vs Hatsune Miku",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "friday-night-funkin-vs-hatsune-miku",
+    "gamePath": "https://inkyedu118.github.io/fnf3/class-349",
+    "gameUrl": "https://inkyedu118.github.io/fnf3/class-349",
+    "remoteUrl": "https://inkyedu118.github.io/fnf3/class-349",
+    "thumbnail": "images/friday-night-funkin-vs-hatsune-miku.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 370488,
+    "featured": false,
+    "description": "Friday Night Funkin vs Hatsune Miku is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "friday-night-funkin-vs-xe",
+    "title": "Friday Night Funkin vs XE",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "friday-night-funkin-vs-xe",
+    "gamePath": "https://inkyedu118.github.io/fnf3/class-350",
+    "gameUrl": "https://inkyedu118.github.io/fnf3/class-350",
+    "remoteUrl": "https://inkyedu118.github.io/fnf3/class-350",
+    "thumbnail": "images/friday-night-funkin-vs-xe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 800848,
+    "featured": false,
+    "description": "Friday Night Funkin vs XE is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "zeepkist-crash-2d",
+    "title": "Zeepkist: Crash 2D",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "zeepkist-crash-2d",
+    "gamePath": "https://inkyedu118.github.io/g22/class-351",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-351",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-351",
+    "thumbnail": "images/zeepkist-crash-2d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 458646,
+    "featured": false,
+    "description": "Zeepkist: Crash 2D is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "avalanche",
+    "title": "Avalanche",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "avalanche",
+    "gamePath": "https://inkyedu118.github.io/g22/class-352",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-352",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-352",
+    "thumbnail": "images/avalanche.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 699440,
+    "featured": false,
+    "description": "Avalanche is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "slalom-hero",
+    "title": "Slalom Hero",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "slalom-hero",
+    "gamePath": "https://inkyedu118.github.io/g22/class-354",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-354",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-354",
+    "thumbnail": "images/slalom-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 469112,
+    "featured": false,
+    "description": "Slalom Hero is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "retro-highway",
+    "title": "Retro Highway",
+    "categories": [
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "retro-highway",
+    "gamePath": "https://inkyedu118.github.io/g22/class-355",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-355",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-355",
+    "thumbnail": "images/retro-highway.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 489168,
+    "featured": false,
+    "description": "Retro Highway is an exciting Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "level-devil",
+    "title": "Level Devil",
+    "categories": [
+      "Platformer",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "level-devil",
+    "gamePath": "https://inkyedu118.github.io/g22/class-356",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-356",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-356",
+    "thumbnail": "images/level-devil.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 688640,
+    "featured": false,
+    "description": "Level Devil is an exciting Platformer, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "traffic-escape",
+    "title": "Traffic Escape",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "traffic-escape",
+    "gamePath": "https://inkyedu118.github.io/g22/class-357",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-357",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-357",
+    "thumbnail": "images/traffic-escape.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 866414,
+    "featured": false,
+    "description": "Traffic Escape is an exciting Puzzle, Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "flip-bros",
+    "title": "Flip Bros",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "flip-bros",
+    "gamePath": "https://inkyedu118.github.io/g22/class-358",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-358",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-358",
+    "thumbnail": "images/flip-bros.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 743642,
+    "featured": false,
+    "description": "Flip Bros is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "hills-of-steel",
+    "title": "Hills Of Steel",
+    "categories": [
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "hills-of-steel",
+    "gamePath": "https://inkyedu118.github.io/g22/class-359",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-359",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-359",
+    "thumbnail": "images/hills-of-steel.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 308495,
+    "featured": false,
+    "description": "Hills Of Steel is an exciting Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "car-eats-car-winter-adventure",
+    "title": "Car Eats Car: Winter Adventure",
+    "categories": [
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "car-eats-car-winter-adventure",
+    "gamePath": "https://inkyedu118.github.io/g22/class-360",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-360",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-360",
+    "thumbnail": "images/car-eats-car-winter-adventure.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 716394,
+    "featured": false,
+    "description": "Car Eats Car: Winter Adventure is an exciting Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "supernova",
+    "title": "Supernova",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "supernova",
+    "gamePath": "https://inkyedu118.github.io/g22/class-361",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-361",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-361",
+    "thumbnail": "images/supernova.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 725561,
+    "featured": false,
+    "description": "Supernova is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "catpad",
+    "title": "Catpad",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "catpad",
+    "gamePath": "https://inkyedu118.github.io/g22/class-362",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-362",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-362",
+    "thumbnail": "images/catpad.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 789939,
+    "featured": false,
+    "description": "Catpad is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blumgi-dragon",
+    "title": "Blumgi Dragon",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-dragon",
+    "gamePath": "https://inkyedu118.github.io/g22/class-363",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-363",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-363",
+    "thumbnail": "images/blumgi-dragon.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 606730,
+    "featured": false,
+    "description": "Blumgi Dragon is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "tag-2",
+    "title": "Tag 2",
+    "categories": [
+      "Platformer",
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "tag-2",
+    "gamePath": "https://inkyedu118.github.io/g22/class-364",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-364",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-364",
+    "thumbnail": "images/tag-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 379600,
+    "featured": false,
+    "description": "Tag 2 is an exciting Platformer, Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stickman-crazy-box",
+    "title": "Stickman crazy box",
+    "categories": [
+      "Multiplayer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-crazy-box",
+    "gamePath": "https://inkyedu118.github.io/g22/class-365",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-365",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-365",
+    "thumbnail": "images/stickman-crazy-box.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 789338,
+    "featured": false,
+    "description": "Stickman crazy box is an exciting Multiplayer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "g-switch-4",
+    "title": "G-switch 4",
+    "categories": [
+      "Platformer",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "g-switch-4",
+    "gamePath": "https://inkyedu118.github.io/g22/class-366",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-366",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-366",
+    "thumbnail": "images/g-switch-4.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 440581,
+    "featured": false,
+    "description": "G-switch 4 is an exciting Platformer, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "superbrawl",
+    "title": "Superbrawl",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "superbrawl",
+    "gamePath": "https://inkyedu118.github.io/g22/class-367",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-367",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-367",
+    "thumbnail": "images/superbrawl.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 366346,
+    "featured": false,
+    "description": "Superbrawl is an exciting Action, Multiplayer, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "make-it-meme",
+    "title": "Make it meme",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "make-it-meme",
+    "gamePath": "https://inkyedu118.github.io/g22/class-368",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-368",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-368",
+    "thumbnail": "images/make-it-meme.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 585039,
+    "featured": false,
+    "description": "Make it meme is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "dunk-perfect",
+    "title": "Dunk perfect",
+    "categories": [
+      "Action",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "dunk-perfect",
+    "gamePath": "https://inkyedu118.github.io/g22/class-369",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-369",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-369",
+    "thumbnail": "images/dunk-perfect.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 730986,
+    "featured": false,
+    "description": "Dunk perfect is an exciting Action, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "2-minute-football",
+    "title": "2 minute football",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "2-minute-football",
+    "gamePath": "https://inkyedu118.github.io/g22/class-370",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-370",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-370",
+    "thumbnail": "images/2-minute-football.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 616687,
+    "featured": false,
+    "description": "2 minute football is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "sharkio",
+    "title": "Sharkio",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sharkio",
+    "gamePath": "https://inkyedu118.github.io/g22/class-372",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-372",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-372",
+    "thumbnail": "images/sharkio.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 837709,
+    "featured": false,
+    "description": "Sharkio is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "tetra-blocks",
+    "title": "Tetra Blocks",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "tetra-blocks",
+    "gamePath": "https://inkyedu118.github.io/g22/class-373",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-373",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-373",
+    "thumbnail": "images/tetra-blocks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 397304,
+    "featured": false,
+    "description": "Tetra Blocks is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "mystical-birdlink",
+    "title": "Mystical Birdlink",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "mystical-birdlink",
+    "gamePath": "https://inkyedu118.github.io/g22/class-374",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-374",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-374",
+    "thumbnail": "images/mystical-birdlink.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 378310,
+    "featured": false,
+    "description": "Mystical Birdlink is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "bubbles-cool",
+    "title": "Bubbles cool",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bubbles-cool",
+    "gamePath": "https://inkyedu118.github.io/g22/class-375",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-375",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-375",
+    "thumbnail": "images/bubbles-cool.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 781109,
+    "featured": false,
+    "description": "Bubbles cool is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "james-gun",
+    "title": "James Gun",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "james-gun",
+    "gamePath": "https://inkyedu118.github.io/g22/class-376",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-376",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-376",
+    "thumbnail": "images/james-gun.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 586858,
+    "featured": false,
+    "description": "James Gun is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "descent",
+    "title": "Descent",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "descent",
+    "gamePath": "https://inkyedu118.github.io/g22/class-377",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-377",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-377",
+    "thumbnail": "images/descent.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 296516,
+    "featured": false,
+    "description": "Descent is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "fury-wars",
+    "title": "Fury wars",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fury-wars",
+    "gamePath": "https://inkyedu118.github.io/g22/class-378",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-378",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-378",
+    "thumbnail": "images/fury-wars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 571335,
+    "featured": false,
+    "description": "Fury wars is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "shady-bears",
+    "title": "Shady Bears",
+    "categories": [
+      "Multiplayer",
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "shady-bears",
+    "gamePath": "https://inkyedu118.github.io/g22/class-379",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-379",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-379",
+    "thumbnail": "images/shady-bears.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 715389,
+    "featured": false,
+    "description": "Shady Bears is an exciting Multiplayer, Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "football-blitz",
+    "title": "Football Blitz",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "football-blitz",
+    "gamePath": "https://inkyedu118.github.io/g22/class-380",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-380",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-380",
+    "thumbnail": "images/football-blitz.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 544994,
+    "featured": false,
+    "description": "Football Blitz is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "touchdowners",
+    "title": "Touchdowners",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "touchdowners",
+    "gamePath": "https://inkyedu118.github.io/g22/class-381",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-381",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-381",
+    "thumbnail": "images/touchdowners.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 403954,
+    "featured": false,
+    "description": "Touchdowners is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "slime-laboratory",
+    "title": "Slime Laboratory",
+    "categories": [
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "slime-laboratory",
+    "gamePath": "https://inkyedu118.github.io/g22/class-382",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-382",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-382",
+    "thumbnail": "images/slime-laboratory.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 413198,
+    "featured": false,
+    "description": "Slime Laboratory is an exciting Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "battle-golf",
+    "title": "Battle golf",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "battle-golf",
+    "gamePath": "https://inkyedu118.github.io/g22/class-383",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-383",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-383",
+    "thumbnail": "images/battle-golf.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 592856,
+    "featured": false,
+    "description": "Battle golf is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "four-in-a-row",
+    "title": "Four in a Row",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "four-in-a-row",
+    "gamePath": "https://inkyedu118.github.io/g22/class-384",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-384",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-384",
+    "thumbnail": "images/four-in-a-row.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 928370,
+    "featured": false,
+    "description": "Four in a Row is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "two-button-bounce",
+    "title": "Two Button Bounce",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "two-button-bounce",
+    "gamePath": "https://inkyedu118.github.io/g22/class-385",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-385",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-385",
+    "thumbnail": "images/two-button-bounce.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 850287,
+    "featured": false,
+    "description": "Two Button Bounce is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "little-master-cricket",
+    "title": "Little Master Cricket",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "little-master-cricket",
+    "gamePath": "https://inkyedu118.github.io/g22/class-386",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-386",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-386",
+    "thumbnail": "images/little-master-cricket.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 564261,
+    "featured": false,
+    "description": "Little Master Cricket is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "snakeis-mlg-edition",
+    "title": "Snake.is MLG Edition",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "snakeis-mlg-edition",
+    "gamePath": "https://inkyedu118.github.io/g22/class-387",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-387",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-387",
+    "thumbnail": "images/snakeis-mlg-edition.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 428067,
+    "featured": false,
+    "description": "Snake.is MLG Edition is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "misland",
+    "title": "Misland",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "misland",
+    "gamePath": "https://inkyedu118.github.io/g22/class-388",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-388",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-388",
+    "thumbnail": "images/misland.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 317283,
+    "featured": false,
+    "description": "Misland is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "village-craft",
+    "title": "Village Craft",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "village-craft",
+    "gamePath": "https://inkyedu118.github.io/g22/class-389",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-389",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-389",
+    "thumbnail": "images/village-craft.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 321795,
+    "featured": false,
+    "description": "Village Craft is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "odd-bot-out",
+    "title": "Odd Bot Out",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "odd-bot-out",
+    "gamePath": "https://inkyedu118.github.io/g22/class-390",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-390",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-390",
+    "thumbnail": "images/odd-bot-out.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 557633,
+    "featured": false,
+    "description": "Odd Bot Out is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "hide-and-smash",
+    "title": "Hide and Smash",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "hide-and-smash",
+    "gamePath": "https://inkyedu118.github.io/g22/class-391",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-391",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-391",
+    "thumbnail": "images/hide-and-smash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 631667,
+    "featured": false,
+    "description": "Hide and Smash is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "skibidi-shooter",
+    "title": "Skibidi Shooter",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "skibidi-shooter",
+    "gamePath": "https://inkyedu118.github.io/g22/class-392",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-392",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-392",
+    "thumbnail": "images/skibidi-shooter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 564272,
+    "featured": false,
+    "description": "Skibidi Shooter is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "traffic-rush",
+    "title": "Traffic Rush",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "traffic-rush",
+    "gamePath": "https://inkyedu118.github.io/g22/class-393",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-393",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-393",
+    "thumbnail": "images/traffic-rush.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 708315,
+    "featured": false,
+    "description": "Traffic Rush is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "shootz",
+    "title": "Shootz",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "shootz",
+    "gamePath": "https://inkyedu118.github.io/g22/class-394",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-394",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-394",
+    "thumbnail": "images/shootz.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 607446,
+    "featured": false,
+    "description": "Shootz is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "kart-wars",
+    "title": "Kart Wars",
+    "categories": [
+      "Multiplayer",
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "kart-wars",
+    "gamePath": "https://inkyedu118.github.io/g22/class-395",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-395",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-395",
+    "thumbnail": "images/kart-wars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 577851,
+    "featured": false,
+    "description": "Kart Wars is an exciting Multiplayer, Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "noob-hook",
+    "title": "Noob Hook",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "noob-hook",
+    "gamePath": "https://inkyedu118.github.io/g22/class-396",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-396",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-396",
+    "thumbnail": "images/noob-hook.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 812775,
+    "featured": false,
+    "description": "Noob Hook is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "hypersnake",
+    "title": "Hypersnake",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "hypersnake",
+    "gamePath": "https://inkyedu118.github.io/g22/class-398",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-398",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-398",
+    "thumbnail": "images/hypersnake.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 338961,
+    "featured": false,
+    "description": "Hypersnake is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "slopey",
+    "title": "Slopey",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "slopey",
+    "gamePath": "https://inkyedu118.github.io/g22/class-399",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-399",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-399",
+    "thumbnail": "images/slopey.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 865512,
+    "featured": false,
+    "description": "Slopey is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "g-switch-3",
+    "title": "G Switch 3",
+    "categories": [
+      "Platformer",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "g-switch-3",
+    "gamePath": "https://inkyedu118.github.io/g9/class-403",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-403",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-403",
+    "thumbnail": "images/g-switch-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 857959,
+    "featured": false,
+    "description": "G Switch 3 is an exciting Platformer, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "stick-merge",
+    "title": "Stick Merge",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "stick-merge",
+    "gamePath": "https://inkyedu118.github.io/g69/class-410",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-410",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-410",
+    "thumbnail": "images/stick-merge.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 376231,
+    "featured": false,
+    "description": "Stick Merge is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "temple-of-boom",
+    "title": "Temple Of Boom",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "temple-of-boom",
+    "gamePath": "https://inkyedu118.github.io/g69/class-411",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-411",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-411",
+    "thumbnail": "images/temple-of-boom.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 432952,
+    "featured": false,
+    "description": "Temple Of Boom is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "dreadhead-parkour",
+    "title": "Dreadhead Parkour",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "dreadhead-parkour",
+    "gamePath": "https://inkyedu118.github.io/g97/class-412",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-412",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-412",
+    "thumbnail": "images/dreadhead-parkour.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 761427,
+    "featured": false,
+    "description": "Dreadhead Parkour is an exciting Platformer, Casual & Strategy, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "blumgi-rocket",
+    "title": "Blumgi Rocket",
+    "categories": [
+      "Platformer",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-rocket",
+    "gamePath": "https://inkyedu118.github.io/g16/class-413",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-413",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-413",
+    "thumbnail": "images/blumgi-rocket.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 480879,
+    "featured": false,
+    "description": "Blumgi Rocket is an exciting Platformer, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "monster-tracks",
+    "title": "Monster Tracks",
+    "categories": [
+      "Action",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "monster-tracks",
+    "gamePath": "https://inkyedu118.github.io/g72/class-414",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-414",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-414",
+    "thumbnail": "images/monster-tracks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 500689,
+    "featured": false,
+    "description": "Monster Tracks is an exciting Action, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "sausage-flip",
+    "title": "Sausage Flip",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sausage-flip",
+    "gamePath": "https://inkyedu118.github.io/g2/class-415",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-415",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-415",
+    "thumbnail": "images/sausage-flip.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 351686,
+    "featured": false,
+    "description": "Sausage Flip is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stick-defenders",
+    "title": "Stick Defenders",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "stick-defenders",
+    "gamePath": "https://inkyedu118.github.io/g2/class-416",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-416",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-416",
+    "thumbnail": "images/stick-defenders.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 818921,
+    "featured": false,
+    "description": "Stick Defenders is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stacktris",
+    "title": "Stacktris",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stacktris",
+    "gamePath": "https://inkyedu118.github.io/g2/class-417",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-417",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-417",
+    "thumbnail": "images/stacktris.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 546079,
+    "featured": false,
+    "description": "Stacktris is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "brain-test-3-tricky-quests",
+    "title": "Brain Test 3: Tricky Quests",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "brain-test-3-tricky-quests",
+    "gamePath": "https://inkyedu118.github.io/g16/class-418",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-418",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-418",
+    "thumbnail": "images/brain-test-3-tricky-quests.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 779506,
+    "featured": false,
+    "description": "Brain Test 3: Tricky Quests is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blumgi-ball",
+    "title": "Blumgi Ball",
+    "categories": [
+      "Platformer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-ball",
+    "gamePath": "https://inkyedu118.github.io/g16/class-419",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-419",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-419",
+    "thumbnail": "images/blumgi-ball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 393954,
+    "featured": false,
+    "description": "Blumgi Ball is an exciting Platformer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "gobble",
+    "title": "Gobble",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "gobble",
+    "gamePath": "https://inkyedu118.github.io/g9/class-420",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-420",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-420",
+    "thumbnail": "images/gobble.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 872705,
+    "featured": false,
+    "description": "Gobble is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "blumgi-slime",
+    "title": "Blumgi Slime",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-slime",
+    "gamePath": "https://inkyedu118.github.io/g16/class-421",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-421",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-421",
+    "thumbnail": "images/blumgi-slime.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 617408,
+    "featured": false,
+    "description": "Blumgi Slime is an exciting Platformer, Casual & Strategy, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "brain-test-tricky-puzzles",
+    "title": "Brain Test: Tricky Puzzles",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "brain-test-tricky-puzzles",
+    "gamePath": "https://inkyedu118.github.io/g16/class-422",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-422",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-422",
+    "thumbnail": "images/brain-test-tricky-puzzles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 380127,
+    "featured": false,
+    "description": "Brain Test: Tricky Puzzles is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "soccer-skills-world-cup",
+    "title": "Soccer Skills World Cup",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-skills-world-cup",
+    "gamePath": "https://inkyedu118.github.io/g2/class-423",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-423",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-423",
+    "thumbnail": "images/soccer-skills-world-cup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 438392,
+    "featured": false,
+    "description": "Soccer Skills World Cup is an exciting Action, Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "rooftop-snipers-2",
+    "title": "Rooftop Snipers 2",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "rooftop-snipers-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-424",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-424",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-424",
+    "thumbnail": "images/rooftop-snipers-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 697654,
+    "featured": false,
+    "description": "Rooftop Snipers 2 is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "burger-bounty",
+    "title": "Burger Bounty",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "burger-bounty",
+    "gamePath": "https://inkyedu118.github.io/g16/class-425",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-425",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-425",
+    "thumbnail": "images/burger-bounty.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 849572,
+    "featured": false,
+    "description": "Burger Bounty is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stickman-climb-2",
+    "title": "Stickman Climb 2",
+    "categories": [
+      "Multiplayer",
+      "Action",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-climb-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-426",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-426",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-426",
+    "thumbnail": "images/stickman-climb-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 380887,
+    "featured": false,
+    "description": "Stickman Climb 2 is an exciting Multiplayer, Action, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "blumgi-castle",
+    "title": "Blumgi Castle",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "blumgi-castle",
+    "gamePath": "https://inkyedu118.github.io/g16/class-427",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-427",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-427",
+    "thumbnail": "images/blumgi-castle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 395937,
+    "featured": false,
+    "description": "Blumgi Castle is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "thumb-fighter-christmas",
+    "title": "Thumb Fighter Christmas",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "thumb-fighter-christmas",
+    "gamePath": "https://inkyedu118.github.io/g69/class-428",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-428",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-428",
+    "thumbnail": "images/thumb-fighter-christmas.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 547836,
+    "featured": false,
+    "description": "Thumb Fighter Christmas is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "soccer-skills-euro-cup",
+    "title": "Soccer Skills Euro Cup",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-skills-euro-cup",
+    "gamePath": "https://inkyedu118.github.io/g2/class-429",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-429",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-429",
+    "thumbnail": "images/soccer-skills-euro-cup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 789427,
+    "featured": false,
+    "description": "Soccer Skills Euro Cup is an exciting Action, Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "throw-it-higher",
+    "title": "Throw it higher",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "throw-it-higher",
+    "gamePath": "https://inkyedu118.github.io/g22/class-430",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-430",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-430",
+    "thumbnail": "images/throw-it-higher.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 417650,
+    "featured": false,
+    "description": "Throw it higher is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "vectaria-io",
+    "title": "Vectaria io",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "vectaria-io",
+    "gamePath": "https://inkyedu118.github.io/g22/class-431",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-431",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-431",
+    "thumbnail": "images/vectaria-io.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 722012,
+    "featured": false,
+    "description": "Vectaria io is an exciting Action, Multiplayer, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "narrow-one",
+    "title": "Narrow one",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "narrow-one",
+    "gamePath": "https://inkyedu118.github.io/g22/class-432",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-432",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-432",
+    "thumbnail": "images/narrow-one.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 695887,
+    "featured": false,
+    "description": "Narrow one is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "flappy-bird-origin",
+    "title": "Flappy Bird Origin",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "flappy-bird-origin",
+    "gamePath": "https://inkyedu118.github.io/g26/class-434",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-434",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-434",
+    "thumbnail": "images/flappy-bird-origin.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 763267,
+    "featured": false,
+    "description": "Flappy Bird Origin is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "flappy-bird",
+    "gamePath": "https://inkyedu118.github.io/g16/class-435",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-435",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-435",
+    "thumbnail": "images/flappy-bird.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 342079,
+    "featured": false,
+    "description": "Flappy Bird is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "slope-2",
+    "title": "Slope 2",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "slope-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-437",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-437",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-437",
+    "thumbnail": "images/slope-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 784426,
+    "featured": false,
+    "description": "Slope 2 is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "1v1-lol-offline",
+    "title": "1v1 LOL Offline",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "1v1-lol-offline",
+    "gamePath": "https://inkyedu118.github.io/g20/class-440",
+    "gameUrl": "https://inkyedu118.github.io/g20/class-440",
+    "remoteUrl": "https://inkyedu118.github.io/g20/class-440",
+    "thumbnail": "images/1v1-lol-offline.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 553324,
+    "featured": false,
+    "description": "1v1 LOL Offline is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "subway-surfers-sanfransisco",
+    "title": "Subway Surfers Sanfransisco",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-surfers-sanfransisco",
+    "gamePath": "https://inkyedu118.github.io/g8-san-francisco/class-442",
+    "gameUrl": "https://inkyedu118.github.io/g8-san-francisco/class-442",
+    "remoteUrl": "https://inkyedu118.github.io/g8-san-francisco/class-442",
+    "thumbnail": "images/subway-surfers-sanfransisco.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 868065,
+    "featured": false,
+    "description": "Subway Surfers Sanfransisco is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "subway-surfers-beijing",
+    "title": "Subway Surfers Beijing",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-surfers-beijing",
+    "gamePath": "https://inkyedu118.github.io/g26/class-443",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-443",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-443",
+    "thumbnail": "images/subway-surfers-beijing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 761400,
+    "featured": false,
+    "description": "Subway Surfers Beijing is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "subway-surfers-newyork",
+    "title": "Subway Surfers Newyork",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-surfers-newyork",
+    "gamePath": "https://inkyedu118.github.io/g26/class-444",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-444",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-444",
+    "thumbnail": "images/subway-surfers-newyork.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 899935,
+    "featured": false,
+    "description": "Subway Surfers Newyork is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "subway-surfers-houston",
+    "title": "Subway Surfers Houston",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-surfers-houston",
+    "gamePath": "https://inkyedu118.github.io/g26/class-445",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-445",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-445",
+    "thumbnail": "images/subway-surfers-houston.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 647105,
+    "featured": false,
+    "description": "Subway Surfers Houston is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "subway-surfers-monaco",
+    "title": "Subway Surfers Monaco",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-surfers-monaco",
+    "gamePath": "https://inkyedu118.github.io/g26/class-446",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-446",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-446",
+    "thumbnail": "images/subway-surfers-monaco.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 627786,
+    "featured": false,
+    "description": "Subway Surfers Monaco is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "drift-hunters",
+    "gamePath": "https://inkyedu118.github.io/g5/class-447",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-447",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-447",
+    "thumbnail": "images/drift-hunters.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 303386,
+    "featured": false,
+    "description": "Drift Hunters is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "basketball-stars",
+    "gamePath": "https://inkyedu118.github.io/g5/class-449",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-449",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-449",
+    "thumbnail": "images/basketball-stars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 514242,
+    "featured": false,
+    "description": "Basketball Stars is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "geometry-dash",
+    "gamePath": "https://inkyedu118.github.io/g26/class-453",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-453",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-453",
+    "thumbnail": "images/geometry-dash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 361234,
+    "featured": false,
+    "description": "Geometry Dash is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "moto-road-rash-3d",
+    "title": "Moto Road Rash 3D",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "moto-road-rash-3d",
+    "gamePath": "https://inkyedu118.github.io/g97/class-464",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-464",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-464",
+    "thumbnail": "images/moto-road-rash-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 363312,
+    "featured": false,
+    "description": "Moto Road Rash 3D is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "minesweeper",
+    "gamePath": "https://inkyedu118.github.io/g97/class-465",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-465",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-465",
+    "thumbnail": "images/minesweeper.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 655704,
+    "featured": false,
+    "description": "Minesweeper is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "solitaire",
+    "title": "Solitaire",
+    "categories": [
+      "Puzzle",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "solitaire",
+    "gamePath": "https://inkyedu118.github.io/g97/class-466",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-466",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-466",
+    "thumbnail": "images/solitaire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 713320,
+    "featured": false,
+    "description": "Solitaire is an exciting Puzzle, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "dinosaur-game",
+    "title": "Dinosaur Game",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "dinosaur-game",
+    "gamePath": "https://inkyedu118.github.io/g97/class-467",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-467",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-467",
+    "thumbnail": "images/dinosaur-game.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 374258,
+    "featured": false,
+    "description": "Dinosaur Game is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "wordle-unlimited",
+    "title": "Wordle Unlimited",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "wordle-unlimited",
+    "gamePath": "https://inkyedu118.github.io/g/class-469",
+    "gameUrl": "https://inkyedu118.github.io/g/class-469",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-469",
+    "thumbnail": "images/wordle-unlimited.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 695056,
+    "featured": false,
+    "description": "Wordle Unlimited is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "google-feud",
+    "title": "Google Feud",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "google-feud",
+    "gamePath": "https://inkyedu118.github.io/g97/class-473",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-473",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-473",
+    "thumbnail": "images/google-feud.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 798446,
+    "featured": false,
+    "description": "Google Feud is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "basketball-legends",
+    "title": "Basketball Legends",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "basketball-legends",
+    "gamePath": "https://inkyedu118.github.io/g5/class-474",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-474",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-474",
+    "thumbnail": "images/basketball-legends.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 821980,
+    "featured": false,
+    "description": "Basketball Legends is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "doge-miner",
+    "title": "Doge Miner",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "doge-miner",
+    "gamePath": "https://inkyedu118.github.io/g97/class-476",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-476",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-476",
+    "thumbnail": "images/doge-miner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 444242,
+    "featured": false,
+    "description": "Doge Miner is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "jetpack-joyride",
+    "title": "Jetpack Joyride",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "jetpack-joyride",
+    "gamePath": "https://inkyedu118.github.io/g97/class-483",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-483",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-483",
+    "thumbnail": "images/jetpack-joyride.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 846294,
+    "featured": false,
+    "description": "Jetpack Joyride is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "rolly-vortex",
+    "title": "Rolly Vortex",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rolly-vortex",
+    "gamePath": "https://inkyedu118.github.io/g/class-484",
+    "gameUrl": "https://inkyedu118.github.io/g/class-484",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-484",
+    "thumbnail": "images/rolly-vortex.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 317478,
+    "featured": false,
+    "description": "Rolly Vortex is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "we-become-what-we-behold",
+    "title": "We Become What We Behold",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "we-become-what-we-behold",
+    "gamePath": "https://inkyedu118.github.io/g69/class-485",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-485",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-485",
+    "thumbnail": "images/we-become-what-we-behold.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 671177,
+    "featured": false,
+    "description": "We Become What We Behold is an exciting Platformer, Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "bullet-force",
+    "title": "Bullet Force",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bullet-force",
+    "gamePath": "https://inkyedu118.github.io/g97/class-489",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-489",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-489",
+    "thumbnail": "images/bullet-force.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 794776,
+    "featured": false,
+    "description": "Bullet Force is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "house-of-hazards",
+    "title": "House Of Hazards",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "house-of-hazards",
+    "gamePath": "https://inkyedu118.github.io/g5/class-490",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-490",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-490",
+    "thumbnail": "images/house-of-hazards.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 357791,
+    "featured": false,
+    "description": "House Of Hazards is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "red-ball-4",
+    "title": "Red Ball 4",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "red-ball-4",
+    "gamePath": "https://inkyedu118.github.io/g22/class-491",
+    "gameUrl": "https://inkyedu118.github.io/g22/class-491",
+    "remoteUrl": "https://inkyedu118.github.io/g22/class-491",
+    "thumbnail": "images/red-ball-4.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 866624,
+    "featured": false,
+    "description": "Red Ball 4 is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "cat-trap",
+    "title": "Cat Trap",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cat-trap",
+    "gamePath": "https://inkyedu118.github.io/g26/class-494",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-494",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-494",
+    "thumbnail": "images/cat-trap.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 846791,
+    "featured": false,
+    "description": "Cat Trap is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "fancy-pants",
+    "title": "Fancy Pants",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "fancy-pants",
+    "gamePath": "https://inkyedu118.github.io/g9/class-495",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-495",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-495",
+    "thumbnail": "images/fancy-pants.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 463607,
+    "featured": false,
+    "description": "Fancy Pants is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "super-hot",
+    "title": "Super Hot",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "super-hot",
+    "gamePath": "https://inkyedu118.github.io/g26/class-496",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-496",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-496",
+    "thumbnail": "images/super-hot.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 591088,
+    "featured": false,
+    "description": "Super Hot is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "curve-ball-3d",
+    "title": "Curve Ball 3D",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "curve-ball-3d",
+    "gamePath": "https://inkyedu118.github.io/g5/class-497",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-497",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-497",
+    "thumbnail": "images/curve-ball-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 311396,
+    "featured": false,
+    "description": "Curve Ball 3D is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "a-dance-of-fire-and-ice",
+    "title": "A Dance Of Fire And Ice",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "a-dance-of-fire-and-ice",
+    "gamePath": "https://inkyedu118.github.io/g26/class-498",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-498",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-498",
+    "thumbnail": "images/a-dance-of-fire-and-ice.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 658683,
+    "featured": false,
+    "description": "A Dance Of Fire And Ice is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "elastic-man",
+    "title": "Elastic Man",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "elastic-man",
+    "gamePath": "https://inkyedu118.github.io/g97/class-500",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-500",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-500",
+    "thumbnail": "images/elastic-man.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 337298,
+    "featured": false,
+    "description": "Elastic Man is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "slope-3",
+    "title": "Slope 3",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "slope-3",
+    "gamePath": "https://inkyedu118.github.io/g5/class-501",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-501",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-501",
+    "thumbnail": "images/slope-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 450001,
+    "featured": false,
+    "description": "Slope 3 is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "deepest-sword",
+    "title": "Deepest Sword",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "deepest-sword",
+    "gamePath": "https://inkyedu118.github.io/g26/class-502",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-502",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-502",
+    "thumbnail": "images/deepest-sword.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 823900,
+    "featured": false,
+    "description": "Deepest Sword is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "scrap-metal",
+    "title": "Scrap Metal",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "scrap-metal",
+    "gamePath": "https://inkyedu118.github.io/g26/class-504",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-504",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-504",
+    "thumbnail": "images/scrap-metal.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 296769,
+    "featured": false,
+    "description": "Scrap Metal is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper Io 2",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "paper-io-2",
+    "gamePath": "https://inkyedu118.github.io/g/class-505",
+    "gameUrl": "https://inkyedu118.github.io/g/class-505",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-505",
+    "thumbnail": "images/paper-io-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 293348,
+    "featured": false,
+    "description": "Paper Io 2 is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "master-chess",
+    "title": "Master Chess",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "master-chess",
+    "gamePath": "https://inkyedu118.github.io/g97/class-506",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-506",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-506",
+    "thumbnail": "images/master-chess.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 456840,
+    "featured": false,
+    "description": "Master Chess is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "worlds-hardest-game-2",
+    "title": "Worlds Hardest Game 2",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "worlds-hardest-game-2",
+    "gamePath": "https://inkyedu118.github.io/g5/class-508",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-508",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-508",
+    "thumbnail": "images/worlds-hardest-game-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 455535,
+    "featured": false,
+    "description": "Worlds Hardest Game 2 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "car-rush",
+    "title": "Car Rush",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "car-rush",
+    "gamePath": "https://inkyedu118.github.io/g5/class-509",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-509",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-509",
+    "thumbnail": "images/car-rush.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 602669,
+    "featured": false,
+    "description": "Car Rush is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "parking-fury",
+    "title": "Parking Fury",
+    "categories": [
+      "Action",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury",
+    "gamePath": "https://inkyedu118.github.io/g5/class-515",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-515",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-515",
+    "thumbnail": "images/parking-fury.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 653592,
+    "featured": false,
+    "description": "Parking Fury is an exciting Action, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "electron-dash",
+    "title": "Electron Dash",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "electron-dash",
+    "gamePath": "https://inkyedu118.github.io/g97/class-516",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-516",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-516",
+    "thumbnail": "images/electron-dash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 701160,
+    "featured": false,
+    "description": "Electron Dash is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "iron-snout",
+    "title": "Iron Snout",
+    "categories": [
+      "Multiplayer",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "iron-snout",
+    "gamePath": "https://inkyedu118.github.io/g5/class-517",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-517",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-517",
+    "thumbnail": "images/iron-snout.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 778905,
+    "featured": false,
+    "description": "Iron Snout is an exciting Multiplayer, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "penalty-kick",
+    "title": "Penalty Kick",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "penalty-kick",
+    "gamePath": "https://inkyedu118.github.io/g5/class-519",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-519",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-519",
+    "thumbnail": "images/penalty-kick.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 533479,
+    "featured": false,
+    "description": "Penalty Kick is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "short-life",
+    "title": "Short Life",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "short-life",
+    "gamePath": "https://inkyedu118.github.io/g2/class-520",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-520",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-520",
+    "thumbnail": "images/short-life.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 658099,
+    "featured": false,
+    "description": "Short Life is an exciting Platformer, Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "color-switch",
+    "title": "Color Switch",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "color-switch",
+    "gamePath": "https://inkyedu118.github.io/g26/class-521",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-521",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-521",
+    "thumbnail": "images/color-switch.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 673608,
+    "featured": false,
+    "description": "Color Switch is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "highway-traffic",
+    "title": "Highway Traffic",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "highway-traffic",
+    "gamePath": "https://inkyedu118.github.io/g97/class-522",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-522",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-522",
+    "thumbnail": "images/highway-traffic.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 533464,
+    "featured": false,
+    "description": "Highway Traffic is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "earn-to-die",
+    "title": "Earn To Die",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "earn-to-die",
+    "gamePath": "https://inkyedu118.github.io/g26/class-523",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-523",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-523",
+    "thumbnail": "images/earn-to-die.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 495836,
+    "featured": false,
+    "description": "Earn To Die is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "doodle-champion-island",
+    "title": "Doodle Champion Island",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "doodle-champion-island",
+    "gamePath": "https://inkyedu118.github.io/g97/class-524",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-524",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-524",
+    "thumbnail": "images/doodle-champion-island.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 655628,
+    "featured": false,
+    "description": "Doodle Champion Island is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "masked-forces",
+    "title": "Masked Forces",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "masked-forces",
+    "gamePath": "https://inkyedu118.github.io/g26/class-525",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-525",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-525",
+    "thumbnail": "images/masked-forces.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 514278,
+    "featured": false,
+    "description": "Masked Forces is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "cluster-rush",
+    "title": "Cluster Rush",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "cluster-rush",
+    "gamePath": "https://inkyedu118.github.io/g26/class-526",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-526",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-526",
+    "thumbnail": "images/cluster-rush.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 765864,
+    "featured": false,
+    "description": "Cluster Rush is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "rocket-soccer-derby",
+    "title": "Rocket Soccer Derby",
+    "categories": [
+      "Casual & Strategy",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "rocket-soccer-derby",
+    "gamePath": "https://inkyedu118.github.io/g2/class-527",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-527",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-527",
+    "thumbnail": "images/rocket-soccer-derby.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 583392,
+    "featured": false,
+    "description": "Rocket Soccer Derby is an exciting Casual & Strategy, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "big-shot-boxing",
+    "title": "Big Shot Boxing",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "big-shot-boxing",
+    "gamePath": "https://inkyedu118.github.io/g16/class-529",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-529",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-529",
+    "thumbnail": "images/big-shot-boxing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 326402,
+    "featured": false,
+    "description": "Big Shot Boxing is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "idle-miner",
+    "title": "Idle Miner",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-miner",
+    "gamePath": "https://inkyedu118.github.io/g72/class-530",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-530",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-530",
+    "thumbnail": "images/idle-miner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 670085,
+    "featured": false,
+    "description": "Idle Miner is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "10-minutes-till-dawn",
+    "title": "10 Minutes Till Dawn",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "10-minutes-till-dawn",
+    "gamePath": "https://inkyedu118.github.io/g97/class-531",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-531",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-531",
+    "thumbnail": "images/10-minutes-till-dawn.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 571903,
+    "featured": false,
+    "description": "10 Minutes Till Dawn is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "draw-the-hill",
+    "title": "Draw The Hill",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "draw-the-hill",
+    "gamePath": "https://inkyedu118.github.io/g97/class-532",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-532",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-532",
+    "thumbnail": "images/draw-the-hill.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 620478,
+    "featured": false,
+    "description": "Draw The Hill is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "gunspin",
+    "title": "Gunspin",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "gunspin",
+    "gamePath": "https://inkyedu118.github.io/g5/class-533",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-533",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-533",
+    "thumbnail": "images/gunspin.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 634648,
+    "featured": false,
+    "description": "Gunspin is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "funny-shooter-2",
+    "title": "Funny Shooter 2",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "funny-shooter-2",
+    "gamePath": "https://inkyedu118.github.io/g9/class-534",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-534",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-534",
+    "thumbnail": "images/funny-shooter-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 523443,
+    "featured": false,
+    "description": "Funny Shooter 2 is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "death-run-3d",
+    "title": "Death Run 3d",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "death-run-3d",
+    "gamePath": "https://inkyedu118.github.io/g97/class-535",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-535",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-535",
+    "thumbnail": "images/death-run-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 663620,
+    "featured": false,
+    "description": "Death Run 3d is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "stack-ball",
+    "title": "Stack Ball",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stack-ball",
+    "gamePath": "https://inkyedu118.github.io/g/class-536",
+    "gameUrl": "https://inkyedu118.github.io/g/class-536",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-536",
+    "thumbnail": "images/stack-ball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 499009,
+    "featured": false,
+    "description": "Stack Ball is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "orbital-survival",
+    "title": "Orbital Survival",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "orbital-survival",
+    "gamePath": "https://inkyedu118.github.io/g26/class-538",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-538",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-538",
+    "thumbnail": "images/orbital-survival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 346315,
+    "featured": false,
+    "description": "Orbital Survival is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "big-tall-small",
+    "title": "Big Tall Small",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "big-tall-small",
+    "gamePath": "https://inkyedu118.github.io/g26/class-539",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-539",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-539",
+    "thumbnail": "images/big-tall-small.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 786614,
+    "featured": false,
+    "description": "Big Tall Small is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "slope-city",
+    "title": "Slope City",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "slope-city",
+    "gamePath": "https://inkyedu118.github.io/g97/class-540",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-540",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-540",
+    "thumbnail": "images/slope-city.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 464855,
+    "featured": false,
+    "description": "Slope City is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "slope-tunnel",
+    "title": "Slope Tunnel",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "slope-tunnel",
+    "gamePath": "https://inkyedu118.github.io/g2/class-541",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-541",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-541",
+    "thumbnail": "images/slope-tunnel.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 578167,
+    "featured": false,
+    "description": "Slope Tunnel is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "leader-strike",
+    "title": "Leader Strike",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "leader-strike",
+    "gamePath": "https://inkyedu118.github.io/g97/class-542",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-542",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-542",
+    "thumbnail": "images/leader-strike.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 351226,
+    "featured": false,
+    "description": "Leader Strike is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "top-speed-racing-3d",
+    "title": "Top Speed Racing 3d",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "top-speed-racing-3d",
+    "gamePath": "https://inkyedu118.github.io/g5/class-543",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-543",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-543",
+    "thumbnail": "images/top-speed-racing-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 622719,
+    "featured": false,
+    "description": "Top Speed Racing 3d is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "death-chase",
+    "title": "Death Chase",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "death-chase",
+    "gamePath": "https://inkyedu118.github.io/g9/class-544",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-544",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-544",
+    "thumbnail": "images/death-chase.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 324641,
+    "featured": false,
+    "description": "Death Chase is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "adventure-drivers",
+    "title": "Adventure Drivers",
+    "categories": [
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "adventure-drivers",
+    "gamePath": "https://inkyedu118.github.io/g97/class-546",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-546",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-546",
+    "thumbnail": "images/adventure-drivers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 685686,
+    "featured": false,
+    "description": "Adventure Drivers is an exciting Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "turbo-moto-racer",
+    "title": "Turbo Moto Racer",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "turbo-moto-racer",
+    "gamePath": "https://inkyedu118.github.io/g/class-547",
+    "gameUrl": "https://inkyedu118.github.io/g/class-547",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-547",
+    "thumbnail": "images/turbo-moto-racer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 686862,
+    "featured": false,
+    "description": "Turbo Moto Racer is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "poor-bunny",
+    "title": "Poor Bunny",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "poor-bunny",
+    "gamePath": "https://inkyedu118.github.io/g2/class-548",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-548",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-548",
+    "thumbnail": "images/poor-bunny.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 638984,
+    "featured": false,
+    "description": "Poor Bunny is an exciting Platformer, Casual & Strategy, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "highway-rider-extreme",
+    "title": "Highway Rider Extreme",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "highway-rider-extreme",
+    "gamePath": "https://inkyedu118.github.io/g97/class-549",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-549",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-549",
+    "thumbnail": "images/highway-rider-extreme.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 687755,
+    "featured": false,
+    "description": "Highway Rider Extreme is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "traffic-mania",
+    "title": "Traffic Mania",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "traffic-mania",
+    "gamePath": "https://inkyedu118.github.io/g69/class-550",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-550",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-550",
+    "thumbnail": "images/traffic-mania.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 317258,
+    "featured": false,
+    "description": "Traffic Mania is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "merge-round-racers",
+    "title": "Merge Round Racers",
+    "categories": [
+      "Driving",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "merge-round-racers",
+    "gamePath": "https://inkyedu118.github.io/g97/class-551",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-551",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-551",
+    "thumbnail": "images/merge-round-racers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 511114,
+    "featured": false,
+    "description": "Merge Round Racers is an exciting Driving, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "pixel-gun-survival",
+    "title": "Pixel Gun Survival",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "pixel-gun-survival",
+    "gamePath": "https://inkyedu118.github.io/g/class-552",
+    "gameUrl": "https://inkyedu118.github.io/g/class-552",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-552",
+    "thumbnail": "images/pixel-gun-survival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 576123,
+    "featured": false,
+    "description": "Pixel Gun Survival is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "cubito-mayhem",
+    "title": "Cubito Mayhem",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "cubito-mayhem",
+    "gamePath": "https://inkyedu118.github.io/g97/class-553",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-553",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-553",
+    "thumbnail": "images/cubito-mayhem.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 811252,
+    "featured": false,
+    "description": "Cubito Mayhem is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "archery-world-tour",
+    "title": "Archery World Tour",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "archery-world-tour",
+    "gamePath": "https://inkyedu118.github.io/g5/class-554",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-554",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-554",
+    "thumbnail": "images/archery-world-tour.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 361771,
+    "featured": false,
+    "description": "Archery World Tour is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "evo-city-driving",
+    "title": "Evo City Driving",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "evo-city-driving",
+    "gamePath": "https://inkyedu118.github.io/g5/class-555",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-555",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-555",
+    "thumbnail": "images/evo-city-driving.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 670063,
+    "featured": false,
+    "description": "Evo City Driving is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "hover-racer",
+    "title": "Hover Racer",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "hover-racer",
+    "gamePath": "https://inkyedu118.github.io/g5/class-556",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-556",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-556",
+    "thumbnail": "images/hover-racer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 539321,
+    "featured": false,
+    "description": "Hover Racer is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "pre-civilization-bronze-age",
+    "title": "Pre Civilization Bronze Age",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pre-civilization-bronze-age",
+    "gamePath": "https://inkyedu118.github.io/g5/class-557",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-557",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-557",
+    "thumbnail": "images/pre-civilization-bronze-age.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 618493,
+    "featured": false,
+    "description": "Pre Civilization Bronze Age is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "coffee-shop",
+    "title": "Coffee Shop",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "coffee-shop",
+    "gamePath": "https://inkyedu118.github.io/g5/class-558",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-558",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-558",
+    "thumbnail": "images/coffee-shop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 867382,
+    "featured": false,
+    "description": "Coffee Shop is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "riddle-school",
+    "title": "Riddle School",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "riddle-school",
+    "gamePath": "https://inkyedu118.github.io/g/class-559",
+    "gameUrl": "https://inkyedu118.github.io/g/class-559",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-559",
+    "thumbnail": "images/riddle-school.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 539594,
+    "featured": false,
+    "description": "Riddle School is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "duck-life-3-evolution",
+    "title": "Duck Life 3 Evolution",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "duck-life-3-evolution",
+    "gamePath": "https://inkyedu118.github.io/g5/class-561",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-561",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-561",
+    "thumbnail": "images/duck-life-3-evolution.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 484036,
+    "featured": false,
+    "description": "Duck Life 3 Evolution is an exciting Platformer, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "worlds-hardest-game-3",
+    "title": "Worlds Hardest Game 3",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "worlds-hardest-game-3",
+    "gamePath": "https://inkyedu118.github.io/g5/class-562",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-562",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-562",
+    "thumbnail": "images/worlds-hardest-game-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 326976,
+    "featured": false,
+    "description": "Worlds Hardest Game 3 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "candy-jump",
+    "title": "Candy Jump",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "candy-jump",
+    "gamePath": "https://inkyedu118.github.io/g5/class-563",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-563",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-563",
+    "thumbnail": "images/candy-jump.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 494434,
+    "featured": false,
+    "description": "Candy Jump is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "factory-balls-forever",
+    "title": "Factory Balls Forever",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "factory-balls-forever",
+    "gamePath": "https://inkyedu118.github.io/g5/class-564",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-564",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-564",
+    "thumbnail": "images/factory-balls-forever.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 577449,
+    "featured": false,
+    "description": "Factory Balls Forever is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "madalin-stunt-cars-3",
+    "title": "Madalin Stunt Cars 3",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "madalin-stunt-cars-3",
+    "gamePath": "https://inkyedu118.github.io/g5/class-566",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-566",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-566",
+    "thumbnail": "images/madalin-stunt-cars-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 448530,
+    "featured": false,
+    "description": "Madalin Stunt Cars 3 is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "b-cubed",
+    "title": "B-Cubed",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "b-cubed",
+    "gamePath": "https://inkyedu118.github.io/g5/class-569",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-569",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-569",
+    "thumbnail": "images/b-cubed.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 321706,
+    "featured": false,
+    "description": "B-Cubed is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "color-tunnel-2",
+    "title": "Color Tunnel 2",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "color-tunnel-2",
+    "gamePath": "https://inkyedu118.github.io/g5/class-572",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-572",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-572",
+    "thumbnail": "images/color-tunnel-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 519893,
+    "featured": false,
+    "description": "Color Tunnel 2 is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "parking-fury-2",
+    "title": "Parking Fury 2",
+    "categories": [
+      "Action",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury-2",
+    "gamePath": "https://inkyedu118.github.io/g5/class-573",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-573",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-573",
+    "thumbnail": "images/parking-fury-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 695392,
+    "featured": false,
+    "description": "Parking Fury 2 is an exciting Action, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "block-the-pig",
+    "title": "Block The Pig",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "block-the-pig",
+    "gamePath": "https://inkyedu118.github.io/g5/class-574",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-574",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-574",
+    "thumbnail": "images/block-the-pig.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 393935,
+    "featured": false,
+    "description": "Block The Pig is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stickman-ragdoll-crash-fun",
+    "title": "Stickman Ragdoll Crash Fun",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-ragdoll-crash-fun",
+    "gamePath": "https://inkyedu118.github.io/g5/class-575",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-575",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-575",
+    "thumbnail": "images/stickman-ragdoll-crash-fun.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 356315,
+    "featured": false,
+    "description": "Stickman Ragdoll Crash Fun is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "parkour-block-3d",
+    "title": "Parkour Block 3d",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "parkour-block-3d",
+    "gamePath": "https://inkyedu118.github.io/g5/class-576",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-576",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-576",
+    "thumbnail": "images/parkour-block-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 474982,
+    "featured": false,
+    "description": "Parkour Block 3d is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "bunny-hop",
+    "title": "Bunny Hop",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bunny-hop",
+    "gamePath": "https://inkyedu118.github.io/g5/class-577",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-577",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-577",
+    "thumbnail": "images/bunny-hop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 659839,
+    "featured": false,
+    "description": "Bunny Hop is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "sketchbook-04",
+    "title": "Sketchbook 04",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "sketchbook-04",
+    "gamePath": "https://inkyedu118.github.io/g26/class-578",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-578",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-578",
+    "thumbnail": "images/sketchbook-04.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 630339,
+    "featured": false,
+    "description": "Sketchbook 04 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "short-ride",
+    "title": "Short Ride",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "short-ride",
+    "gamePath": "https://inkyedu118.github.io/g2/class-579",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-579",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-579",
+    "thumbnail": "images/short-ride.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 527578,
+    "featured": false,
+    "description": "Short Ride is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "murder",
+    "title": "Murder",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "murder",
+    "gamePath": "https://inkyedu118.github.io/g72/class-580",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-580",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-580",
+    "thumbnail": "images/murder.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 746712,
+    "featured": false,
+    "description": "Murder is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "idle-digging-tycoon",
+    "title": "Idle Digging Tycoon",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-digging-tycoon",
+    "gamePath": "https://inkyedu118.github.io/g72/class-581",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-581",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-581",
+    "thumbnail": "images/idle-digging-tycoon.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 417594,
+    "featured": false,
+    "description": "Idle Digging Tycoon is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "city-car-driving-stunt-master",
+    "title": "City Car Driving: Stunt Master",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "city-car-driving-stunt-master",
+    "gamePath": "https://inkyedu118.github.io/g9/class-582",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-582",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-582",
+    "thumbnail": "images/city-car-driving-stunt-master.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 804869,
+    "featured": false,
+    "description": "City Car Driving: Stunt Master is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "top-speed-3d",
+    "title": "Top Speed 3d",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "top-speed-3d",
+    "gamePath": "https://inkyedu118.github.io/g69/class-583",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-583",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-583",
+    "thumbnail": "images/top-speed-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 445671,
+    "featured": false,
+    "description": "Top Speed 3d is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "gold-digger-frvr",
+    "title": "Gold Digger Frvr",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "gold-digger-frvr",
+    "gamePath": "https://inkyedu118.github.io/g9/class-584",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-584",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-584",
+    "thumbnail": "images/gold-digger-frvr.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 712786,
+    "featured": false,
+    "description": "Gold Digger Frvr is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "brain-test-2-tricky-stories",
+    "title": "Brain Test 2: Tricky Stories",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "brain-test-2-tricky-stories",
+    "gamePath": "https://inkyedu118.github.io/g16/class-585",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-585",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-585",
+    "thumbnail": "images/brain-test-2-tricky-stories.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 511141,
+    "featured": false,
+    "description": "Brain Test 2: Tricky Stories is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "idle-lumber-inc",
+    "title": "Idle Lumber Inc",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-lumber-inc",
+    "gamePath": "https://inkyedu118.github.io/g72/class-586",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-586",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-586",
+    "thumbnail": "images/idle-lumber-inc.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 359781,
+    "featured": false,
+    "description": "Idle Lumber Inc is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "tiger-simulator-3d",
+    "title": "Tiger Simulator 3d",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "tiger-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g69/class-587",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-587",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-587",
+    "thumbnail": "images/tiger-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 430112,
+    "featured": false,
+    "description": "Tiger Simulator 3d is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "soccer-skills-champions-league",
+    "title": "Soccer Skills Champions League",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-skills-champions-league",
+    "gamePath": "https://inkyedu118.github.io/g2/class-588",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-588",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-588",
+    "thumbnail": "images/soccer-skills-champions-league.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 669847,
+    "featured": false,
+    "description": "Soccer Skills Champions League is an exciting Action, Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "eugenes-life",
+    "title": "Eugenes Life",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "eugenes-life",
+    "gamePath": "https://inkyedu118.github.io/g9/class-589",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-589",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-589",
+    "thumbnail": "images/eugenes-life.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 626729,
+    "featured": false,
+    "description": "Eugenes Life is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "stickman-bike",
+    "title": "Stickman Bike",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-bike",
+    "gamePath": "https://inkyedu118.github.io/g2/class-590",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-590",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-590",
+    "thumbnail": "images/stickman-bike.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 409227,
+    "featured": false,
+    "description": "Stickman Bike is an exciting Action, Platformer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "who-is",
+    "title": "Who Is",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "who-is",
+    "gamePath": "https://inkyedu118.github.io/g69/class-591",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-591",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-591",
+    "thumbnail": "images/who-is.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 746446,
+    "featured": false,
+    "description": "Who Is is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pop-it-master",
+    "title": "Pop It Master",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "pop-it-master",
+    "gamePath": "https://inkyedu118.github.io/g2/class-592",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-592",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-592",
+    "thumbnail": "images/pop-it-master.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 696074,
+    "featured": false,
+    "description": "Pop It Master is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stunt-car-challenge-3",
+    "title": "Stunt Car Challenge 3",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "stunt-car-challenge-3",
+    "gamePath": "https://inkyedu118.github.io/g69/class-593",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-593",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-593",
+    "thumbnail": "images/stunt-car-challenge-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 548382,
+    "featured": false,
+    "description": "Stunt Car Challenge 3 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "cyber-cars-punk-racing",
+    "title": "Cyber Cars Punk Racing",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "cyber-cars-punk-racing",
+    "gamePath": "https://inkyedu118.github.io/g9/class-594",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-594",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-594",
+    "thumbnail": "images/cyber-cars-punk-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 450674,
+    "featured": false,
+    "description": "Cyber Cars Punk Racing is an exciting Action, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "merge-cyber-racers",
+    "title": "Merge Cyber Racers",
+    "categories": [
+      "Driving",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "merge-cyber-racers",
+    "gamePath": "https://inkyedu118.github.io/g72/class-595",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-595",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-595",
+    "thumbnail": "images/merge-cyber-racers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 460147,
+    "featured": false,
+    "description": "Merge Cyber Racers is an exciting Driving, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "basket-and-ball",
+    "title": "Basket And Ball",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "basket-and-ball",
+    "gamePath": "https://inkyedu118.github.io/g16/class-597",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-597",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-597",
+    "thumbnail": "images/basket-and-ball.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 367792,
+    "featured": false,
+    "description": "Basket And Ball is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "3d-moto-simulator-2",
+    "title": "3d Moto Simulator 2",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "3d-moto-simulator-2",
+    "gamePath": "https://inkyedu118.github.io/g16/class-598",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-598",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-598",
+    "thumbnail": "images/3d-moto-simulator-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 366966,
+    "featured": false,
+    "description": "3d Moto Simulator 2 is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "bike-trials-winter-2",
+    "title": "Bike Trials Winter 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "bike-trials-winter-2",
+    "gamePath": "https://inkyedu118.github.io/g16/class-599",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-599",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-599",
+    "thumbnail": "images/bike-trials-winter-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 573771,
+    "featured": false,
+    "description": "Bike Trials Winter 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "merge-cakes",
+    "title": "Merge Cakes",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "merge-cakes",
+    "gamePath": "https://inkyedu118.github.io/g72/class-600",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-600",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-600",
+    "thumbnail": "images/merge-cakes.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 789664,
+    "featured": false,
+    "description": "Merge Cakes is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "car-drift-racers-2",
+    "title": "Car Drift Racers 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "car-drift-racers-2",
+    "gamePath": "https://inkyedu118.github.io/g3/class-601",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-601",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-601",
+    "thumbnail": "images/car-drift-racers-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 637077,
+    "featured": false,
+    "description": "Car Drift Racers 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "running-fred",
+    "title": "Running Fred",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "running-fred",
+    "gamePath": "https://inkyedu118.github.io/g2/class-602",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-602",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-602",
+    "thumbnail": "images/running-fred.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 922272,
+    "featured": false,
+    "description": "Running Fred is an exciting Platformer, Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "go-kart-go-ultra",
+    "title": "Go Kart Go Ultra",
+    "categories": [
+      "Driving",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "go-kart-go-ultra",
+    "gamePath": "https://inkyedu118.github.io/g9/class-604",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-604",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-604",
+    "thumbnail": "images/go-kart-go-ultra.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 770173,
+    "featured": false,
+    "description": "Go Kart Go Ultra is an exciting Driving, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "demolition-derby-crash-racing",
+    "title": "Demolition Derby Crash Racing",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "demolition-derby-crash-racing",
+    "gamePath": "https://inkyedu118.github.io/g9/class-605",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-605",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-605",
+    "thumbnail": "images/demolition-derby-crash-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 704023,
+    "featured": false,
+    "description": "Demolition Derby Crash Racing is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "3d-car-simulator",
+    "title": "3d Car Simulator",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "3d-car-simulator",
+    "gamePath": "https://inkyedu118.github.io/g16/class-606",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-606",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-606",
+    "thumbnail": "images/3d-car-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 505625,
+    "featured": false,
+    "description": "3d Car Simulator is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "fortride-open-world",
+    "title": "Fortride: Open World",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "fortride-open-world",
+    "gamePath": "https://inkyedu118.github.io/g3/class-607",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-607",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-607",
+    "thumbnail": "images/fortride-open-world.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 778268,
+    "featured": false,
+    "description": "Fortride: Open World is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "impossible-monster-truck-race",
+    "title": "Impossible Monster Truck Race",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "impossible-monster-truck-race",
+    "gamePath": "https://inkyedu118.github.io/g72/class-608",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-608",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-608",
+    "thumbnail": "images/impossible-monster-truck-race.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 880667,
+    "featured": false,
+    "description": "Impossible Monster Truck Race is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "super-hexbee-merger",
+    "title": "Super Hexbee Merger",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "super-hexbee-merger",
+    "gamePath": "https://inkyedu118.github.io/g69/class-610",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-610",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-610",
+    "thumbnail": "images/super-hexbee-merger.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 714765,
+    "featured": false,
+    "description": "Super Hexbee Merger is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "marble-dash",
+    "title": "Marble Dash",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "marble-dash",
+    "gamePath": "https://inkyedu118.github.io/g72/class-611",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-611",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-611",
+    "thumbnail": "images/marble-dash.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 691308,
+    "featured": false,
+    "description": "Marble Dash is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "wizard-mike",
+    "title": "Wizard Mike",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "wizard-mike",
+    "gamePath": "https://inkyedu118.github.io/g69/class-612",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-612",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-612",
+    "thumbnail": "images/wizard-mike.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 828304,
+    "featured": false,
+    "description": "Wizard Mike is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "survivor-in-rainbow-monster",
+    "title": "Survivor In Rainbow Monster",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "survivor-in-rainbow-monster",
+    "gamePath": "https://inkyedu118.github.io/g69/class-613",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-613",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-613",
+    "thumbnail": "images/survivor-in-rainbow-monster.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 344908,
+    "featured": false,
+    "description": "Survivor In Rainbow Monster is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "crazy-tunnel-3d",
+    "title": "Crazy Tunnel 3d",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "crazy-tunnel-3d",
+    "gamePath": "https://inkyedu118.github.io/g9/class-614",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-614",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-614",
+    "thumbnail": "images/crazy-tunnel-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 488812,
+    "featured": false,
+    "description": "Crazy Tunnel 3d is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "grindcraft",
+    "title": "Grindcraft",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "grindcraft",
+    "gamePath": "https://inkyedu118.github.io/g9/class-615",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-615",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-615",
+    "thumbnail": "images/grindcraft.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 321246,
+    "featured": false,
+    "description": "Grindcraft is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "head-soccer-2023",
+    "title": "Head Soccer 2023",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "head-soccer-2023",
+    "gamePath": "https://inkyedu118.github.io/g9/class-616",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-616",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-616",
+    "thumbnail": "images/head-soccer-2023.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 485598,
+    "featured": false,
+    "description": "Head Soccer 2023 is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "rolling-sky",
+    "title": "Rolling Sky",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rolling-sky",
+    "gamePath": "https://inkyedu118.github.io/g2/class-617",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-617",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-617",
+    "thumbnail": "images/rolling-sky.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 915099,
+    "featured": false,
+    "description": "Rolling Sky is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stair-race-3d",
+    "title": "Stair Race 3d",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "stair-race-3d",
+    "gamePath": "https://inkyedu118.github.io/g2/class-619",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-619",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-619",
+    "thumbnail": "images/stair-race-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 869115,
+    "featured": false,
+    "description": "Stair Race 3d is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "ape-sling",
+    "title": "Ape Sling",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "ape-sling",
+    "gamePath": "https://inkyedu118.github.io/g16/class-620",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-620",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-620",
+    "thumbnail": "images/ape-sling.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 751214,
+    "featured": false,
+    "description": "Ape Sling is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "icy-purple-head-3",
+    "title": "Icy Purple Head 3",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "icy-purple-head-3",
+    "gamePath": "https://inkyedu118.github.io/g72/class-621",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-621",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-621",
+    "thumbnail": "images/icy-purple-head-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 847772,
+    "featured": false,
+    "description": "Icy Purple Head 3 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "idle-mining-empire",
+    "title": "Idle Mining Empire",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-mining-empire",
+    "gamePath": "https://inkyedu118.github.io/g72/class-622",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-622",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-622",
+    "thumbnail": "images/idle-mining-empire.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 410312,
+    "featured": false,
+    "description": "Idle Mining Empire is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "two-ball-3d-dark",
+    "title": "Two Ball 3d Dark",
+    "categories": [
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "two-ball-3d-dark",
+    "gamePath": "https://inkyedu118.github.io/g/class-623",
+    "gameUrl": "https://inkyedu118.github.io/g/class-623",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-623",
+    "thumbnail": "images/two-ball-3d-dark.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 428374,
+    "featured": false,
+    "description": "Two Ball 3d Dark is an exciting Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "stickman-fighter-mega-brawl",
+    "title": "Stickman Fighter Mega Brawl",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-fighter-mega-brawl",
+    "gamePath": "https://inkyedu118.github.io/g69/class-624",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-624",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-624",
+    "thumbnail": "images/stickman-fighter-mega-brawl.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 653175,
+    "featured": false,
+    "description": "Stickman Fighter Mega Brawl is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "highway-racer-3d",
+    "title": "Highway Racer 3d",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "highway-racer-3d",
+    "gamePath": "https://inkyedu118.github.io/g72/class-625",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-625",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-625",
+    "thumbnail": "images/highway-racer-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 477109,
+    "featured": false,
+    "description": "Highway Racer 3d is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "real-cars-in-city",
+    "title": "Real Cars In City",
+    "categories": [
+      "Action",
+      "Driving",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "real-cars-in-city",
+    "gamePath": "https://inkyedu118.github.io/g2/class-626",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-626",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-626",
+    "thumbnail": "images/real-cars-in-city.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 846281,
+    "featured": false,
+    "description": "Real Cars In City is an exciting Action, Driving, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "penalty-shooters-2",
+    "title": "Penalty Shooters 2",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "penalty-shooters-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-627",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-627",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-627",
+    "thumbnail": "images/penalty-shooters-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 718077,
+    "featured": false,
+    "description": "Penalty Shooters 2 is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "super-liquid-soccer",
+    "title": "Super Liquid Soccer",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "super-liquid-soccer",
+    "gamePath": "https://inkyedu118.github.io/g69/class-628",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-628",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-628",
+    "thumbnail": "images/super-liquid-soccer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 852273,
+    "featured": false,
+    "description": "Super Liquid Soccer is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stick-fighter",
+    "title": "Stick Fighter",
+    "categories": [
+      "Multiplayer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stick-fighter",
+    "gamePath": "https://inkyedu118.github.io/g2/class-629",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-629",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-629",
+    "thumbnail": "images/stick-fighter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 810953,
+    "featured": false,
+    "description": "Stick Fighter is an exciting Multiplayer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "super-star-car",
+    "title": "Super Star Car",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "super-star-car",
+    "gamePath": "https://inkyedu118.github.io/g69/class-630",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-630",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-630",
+    "thumbnail": "images/super-star-car.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 400108,
+    "featured": false,
+    "description": "Super Star Car is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "idle-ants",
+    "title": "Idle Ants",
+    "categories": [
+      "Action",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-ants",
+    "gamePath": "https://inkyedu118.github.io/g72/class-631",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-631",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-631",
+    "thumbnail": "images/idle-ants.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 861612,
+    "featured": false,
+    "description": "Idle Ants is an exciting Action, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "burnin-rubber-crash-n-burn",
+    "title": "Burnin' Rubber Crash n' Burn",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "burnin-rubber-crash-n-burn",
+    "gamePath": "https://inkyedu118.github.io/g16/class-632",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-632",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-632",
+    "thumbnail": "images/burnin-rubber-crash-n-burn.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 318396,
+    "featured": false,
+    "description": "Burnin' Rubber Crash n' Burn is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "tag",
+    "title": "Tag",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "tag",
+    "gamePath": "https://inkyedu118.github.io/g69/class-633",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-633",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-633",
+    "thumbnail": "images/tag.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 615718,
+    "featured": false,
+    "description": "Tag is an exciting Platformer, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "maze-path-of-light",
+    "title": "Maze Path Of Light",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "maze-path-of-light",
+    "gamePath": "https://inkyedu118.github.io/g72/class-634",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-634",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-634",
+    "thumbnail": "images/maze-path-of-light.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 631927,
+    "featured": false,
+    "description": "Maze Path Of Light is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "water-color-sort",
+    "title": "Water Color Sort",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "water-color-sort",
+    "gamePath": "https://inkyedu118.github.io/g69/class-635",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-635",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-635",
+    "thumbnail": "images/water-color-sort.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 384536,
+    "featured": false,
+    "description": "Water Color Sort is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "swingo",
+    "title": "Swingo",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "swingo",
+    "gamePath": "https://inkyedu118.github.io/g69/class-636",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-636",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-636",
+    "thumbnail": "images/swingo.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 478105,
+    "featured": false,
+    "description": "Swingo is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "eliza-mall-mania",
+    "title": "Eliza Mall Mania",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "eliza-mall-mania",
+    "gamePath": "https://inkyedu118.github.io/g9/class-637",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-637",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-637",
+    "thumbnail": "images/eliza-mall-mania.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 777533,
+    "featured": false,
+    "description": "Eliza Mall Mania is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "jumping-shell",
+    "title": "Jumping Shell",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "jumping-shell",
+    "gamePath": "https://inkyedu118.github.io/g72/class-638",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-638",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-638",
+    "thumbnail": "images/jumping-shell.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 315636,
+    "featured": false,
+    "description": "Jumping Shell is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "fairy-dressup",
+    "title": "Fairy Dressup",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "fairy-dressup",
+    "gamePath": "https://inkyedu118.github.io/g9/class-639",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-639",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-639",
+    "thumbnail": "images/fairy-dressup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 787682,
+    "featured": false,
+    "description": "Fairy Dressup is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "roly-poly-monsters",
+    "title": "Roly Poly Monsters",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "roly-poly-monsters",
+    "gamePath": "https://inkyedu118.github.io/g2/class-640",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-640",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-640",
+    "thumbnail": "images/roly-poly-monsters.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 582193,
+    "featured": false,
+    "description": "Roly Poly Monsters is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "chicken-merge",
+    "title": "Chicken Merge",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "chicken-merge",
+    "gamePath": "https://inkyedu118.github.io/g9/class-641",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-641",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-641",
+    "thumbnail": "images/chicken-merge.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 635157,
+    "featured": false,
+    "description": "Chicken Merge is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "cats",
+    "title": "Cats",
+    "categories": [
+      "Platformer",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "cats",
+    "gamePath": "https://inkyedu118.github.io/g9/class-643",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-643",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-643",
+    "thumbnail": "images/cats.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 313756,
+    "featured": false,
+    "description": "Cats is an exciting Platformer, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "thumb-fighter",
+    "title": "Thumb Fighter",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "thumb-fighter",
+    "gamePath": "https://inkyedu118.github.io/g69/class-644",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-644",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-644",
+    "thumbnail": "images/thumb-fighter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 402641,
+    "featured": false,
+    "description": "Thumb Fighter is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "drunken-duel",
+    "title": "Drunken Duel",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "drunken-duel",
+    "gamePath": "https://inkyedu118.github.io/g5/class-645",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-645",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-645",
+    "thumbnail": "images/drunken-duel.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 421019,
+    "featured": false,
+    "description": "Drunken Duel is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "battle-wheels",
+    "title": "Battle Wheels",
+    "categories": [
+      "Puzzle",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "battle-wheels",
+    "gamePath": "https://inkyedu118.github.io/g16/class-647",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-647",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-647",
+    "thumbnail": "images/battle-wheels.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 451571,
+    "featured": false,
+    "description": "Battle Wheels is an exciting Puzzle, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "tictactoe",
+    "title": "Tictactoe",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "tictactoe",
+    "gamePath": "https://inkyedu118.github.io/g69/class-648",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-648",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-648",
+    "thumbnail": "images/tictactoe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 391626,
+    "featured": false,
+    "description": "Tictactoe is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "minibattles",
+    "title": "Minibattles",
+    "categories": [
+      "Multiplayer",
+      "Puzzle",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "minibattles",
+    "gamePath": "https://inkyedu118.github.io/g72/class-649",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-649",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-649",
+    "thumbnail": "images/minibattles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 314727,
+    "featured": false,
+    "description": "Minibattles is an exciting Multiplayer, Puzzle, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "fortz",
+    "title": "Fortz",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fortz",
+    "gamePath": "https://inkyedu118.github.io/g9/class-650",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-650",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-650",
+    "thumbnail": "images/fortz.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 597224,
+    "featured": false,
+    "description": "Fortz is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "wrassling",
+    "title": "Wrassling",
+    "categories": [
+      "Multiplayer",
+      "Puzzle",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "wrassling",
+    "gamePath": "https://inkyedu118.github.io/g69/class-651",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-651",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-651",
+    "thumbnail": "images/wrassling.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 875372,
+    "featured": false,
+    "description": "Wrassling is an exciting Multiplayer, Puzzle, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "super-tunnel-rush",
+    "title": "Super Tunnel Rush",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "super-tunnel-rush",
+    "gamePath": "https://inkyedu118.github.io/g69/class-653",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-653",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-653",
+    "thumbnail": "images/super-tunnel-rush.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 916360,
+    "featured": false,
+    "description": "Super Tunnel Rush is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "burnin-rubber-5-xs",
+    "title": "Burnin' Rubber 5 Xs",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "burnin-rubber-5-xs",
+    "gamePath": "https://inkyedu118.github.io/g16/class-654",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-654",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-654",
+    "thumbnail": "images/burnin-rubber-5-xs.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 371585,
+    "featured": false,
+    "description": "Burnin' Rubber 5 Xs is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "cars-thief",
+    "title": "Cars Thief",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "cars-thief",
+    "gamePath": "https://inkyedu118.github.io/g16/class-655",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-655",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-655",
+    "thumbnail": "images/cars-thief.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 492280,
+    "featured": false,
+    "description": "Cars Thief is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "lemonade-stand",
+    "title": "Lemonade Stand",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "lemonade-stand",
+    "gamePath": "https://inkyedu118.github.io/g5/class-657",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-657",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-657",
+    "thumbnail": "images/lemonade-stand.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 380030,
+    "featured": false,
+    "description": "Lemonade Stand is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "mob-city",
+    "title": "Mob City",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "mob-city",
+    "gamePath": "https://inkyedu118.github.io/g5/class-658",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-658",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-658",
+    "thumbnail": "images/mob-city.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 523536,
+    "featured": false,
+    "description": "Mob City is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "the-little-giant",
+    "title": "The Little Giant",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "the-little-giant",
+    "gamePath": "https://inkyedu118.github.io/g5/class-659",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-659",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-659",
+    "thumbnail": "images/the-little-giant.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 667552,
+    "featured": false,
+    "description": "The Little Giant is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "three-goblets",
+    "title": "Three Goblets",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "three-goblets",
+    "gamePath": "https://inkyedu118.github.io/g/class-660",
+    "gameUrl": "https://inkyedu118.github.io/g/class-660",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-660",
+    "thumbnail": "images/three-goblets.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 826937,
+    "featured": false,
+    "description": "Three Goblets is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "skiing-fred",
+    "title": "Skiing Fred",
+    "categories": [
+      "Action",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "skiing-fred",
+    "gamePath": "https://inkyedu118.github.io/g/class-662",
+    "gameUrl": "https://inkyedu118.github.io/g/class-662",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-662",
+    "thumbnail": "images/skiing-fred.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 746078,
+    "featured": false,
+    "description": "Skiing Fred is an exciting Action, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "ludo-multiplayer",
+    "title": "Ludo Multiplayer",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "ludo-multiplayer",
+    "gamePath": "https://inkyedu118.github.io/g72/class-663",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-663",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-663",
+    "thumbnail": "images/ludo-multiplayer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 497031,
+    "featured": false,
+    "description": "Ludo Multiplayer is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "squish-run",
+    "title": "Squish Run",
+    "categories": [
+      "Platformer",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "squish-run",
+    "gamePath": "https://inkyedu118.github.io/g2/class-664",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-664",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-664",
+    "thumbnail": "images/squish-run.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 355321,
+    "featured": false,
+    "description": "Squish Run is an exciting Platformer, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "bumper-cars-soccer",
+    "title": "Bumper Cars Soccer",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "bumper-cars-soccer",
+    "gamePath": "https://inkyedu118.github.io/g16/class-665",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-665",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-665",
+    "thumbnail": "images/bumper-cars-soccer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 639392,
+    "featured": false,
+    "description": "Bumper Cars Soccer is an exciting Action, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rowdy-wrestling",
+    "title": "Rowdy Wrestling",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "rowdy-wrestling",
+    "gamePath": "https://inkyedu118.github.io/g2/class-666",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-666",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-666",
+    "thumbnail": "images/rowdy-wrestling.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 509905,
+    "featured": false,
+    "description": "Rowdy Wrestling is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "bubble-trouble",
+    "title": "Bubble Trouble",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bubble-trouble",
+    "gamePath": "https://inkyedu118.github.io/g16/class-667",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-667",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-667",
+    "thumbnail": "images/bubble-trouble.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 549998,
+    "featured": false,
+    "description": "Bubble Trouble is an exciting Action, Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "dunkers",
+    "title": "Dunkers",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "dunkers",
+    "gamePath": "https://inkyedu118.github.io/g9/class-668",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-668",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-668",
+    "thumbnail": "images/dunkers.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 797622,
+    "featured": false,
+    "description": "Dunkers is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "boxing-physics-2",
+    "title": "Boxing Physics 2",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "boxing-physics-2",
+    "gamePath": "https://inkyedu118.github.io/g16/class-669",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-669",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-669",
+    "thumbnail": "images/boxing-physics-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 727752,
+    "featured": false,
+    "description": "Boxing Physics 2 is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "superbattle-2",
+    "title": "Superbattle 2",
+    "categories": [
+      "Multiplayer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "superbattle-2",
+    "gamePath": "https://inkyedu118.github.io/g69/class-671",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-671",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-671",
+    "thumbnail": "images/superbattle-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 858627,
+    "featured": false,
+    "description": "Superbattle 2 is an exciting Multiplayer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "bubble-trouble-3",
+    "title": "Bubble Trouble 3",
+    "categories": [
+      "Action",
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "bubble-trouble-3",
+    "gamePath": "https://inkyedu118.github.io/g16/class-672",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-672",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-672",
+    "thumbnail": "images/bubble-trouble-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 749301,
+    "featured": false,
+    "description": "Bubble Trouble 3 is an exciting Action, Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "tank-trouble-2",
+    "title": "Tank Trouble 2",
+    "categories": [
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "tank-trouble-2",
+    "gamePath": "https://inkyedu118.github.io/g26/class-674",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-674",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-674",
+    "thumbnail": "images/tank-trouble-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 743759,
+    "featured": false,
+    "description": "Tank Trouble 2 is an exciting Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "dunkbrush",
+    "title": "Dunkbrush",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "dunkbrush",
+    "gamePath": "https://inkyedu118.github.io/g9/class-675",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-675",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-675",
+    "thumbnail": "images/dunkbrush.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 891796,
+    "featured": false,
+    "description": "Dunkbrush is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "linebacker-alley-2",
+    "title": "Linebacker Alley 2",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "linebacker-alley-2",
+    "gamePath": "https://inkyedu118.github.io/g72/class-676",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-676",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-676",
+    "thumbnail": "images/linebacker-alley-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 895639,
+    "featured": false,
+    "description": "Linebacker Alley 2 is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "cricket-world-cup",
+    "title": "Cricket World Cup",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "cricket-world-cup",
+    "gamePath": "https://inkyedu118.github.io/g9/class-677",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-677",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-677",
+    "thumbnail": "images/cricket-world-cup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 537528,
+    "featured": false,
+    "description": "Cricket World Cup is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "pool-club",
+    "title": "Pool Club",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "pool-club",
+    "gamePath": "https://inkyedu118.github.io/g2/class-678",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-678",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-678",
+    "thumbnail": "images/pool-club.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 889511,
+    "featured": false,
+    "description": "Pool Club is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "a-small-world-cup",
+    "title": "A Small World Cup",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "a-small-world-cup",
+    "gamePath": "https://inkyedu118.github.io/g16/class-680",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-680",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-680",
+    "thumbnail": "images/a-small-world-cup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 629371,
+    "featured": false,
+    "description": "A Small World Cup is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "free-kick-shooter",
+    "title": "Free Kick Shooter",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "free-kick-shooter",
+    "gamePath": "https://inkyedu118.github.io/g9/class-681",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-681",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-681",
+    "thumbnail": "images/free-kick-shooter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 535799,
+    "featured": false,
+    "description": "Free Kick Shooter is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "air-hockey-championship-deluxe",
+    "title": "Air Hockey Championship Deluxe",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "air-hockey-championship-deluxe",
+    "gamePath": "https://inkyedu118.github.io/g16/class-682",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-682",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-682",
+    "thumbnail": "images/air-hockey-championship-deluxe.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 626347,
+    "featured": false,
+    "description": "Air Hockey Championship Deluxe is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "kix-dream-soccer",
+    "title": "Kix Dream Soccer",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "kix-dream-soccer",
+    "gamePath": "https://inkyedu118.github.io/g72/class-683",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-683",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-683",
+    "thumbnail": "images/kix-dream-soccer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 883024,
+    "featured": false,
+    "description": "Kix Dream Soccer is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "unicycle-hero",
+    "title": "Unicycle Hero",
+    "categories": [
+      "Action",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "unicycle-hero",
+    "gamePath": "https://inkyedu118.github.io/g69/class-684",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-684",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-684",
+    "thumbnail": "images/unicycle-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 907560,
+    "featured": false,
+    "description": "Unicycle Hero is an exciting Action, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "4th-and-goal-2022",
+    "title": "4th And Goal 2022",
+    "categories": [
+      "Casual & Strategy",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "4th-and-goal-2022",
+    "gamePath": "https://inkyedu118.github.io/g16/class-685",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-685",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-685",
+    "thumbnail": "images/4th-and-goal-2022.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 574870,
+    "featured": false,
+    "description": "4th And Goal 2022 is an exciting Casual & Strategy, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stock-car-hero",
+    "title": "Stock Car Hero",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stock-car-hero",
+    "gamePath": "https://inkyedu118.github.io/g69/class-686",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-686",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-686",
+    "thumbnail": "images/stock-car-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 410670,
+    "featured": false,
+    "description": "Stock Car Hero is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "athletics-hero",
+    "title": "Athletics Hero",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "athletics-hero",
+    "gamePath": "https://inkyedu118.github.io/g16/class-687",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-687",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-687",
+    "thumbnail": "images/athletics-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 288089,
+    "featured": false,
+    "description": "Athletics Hero is an exciting Platformer, Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "super-bike-the-champion",
+    "title": "Super Bike The Champion",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "super-bike-the-champion",
+    "gamePath": "https://inkyedu118.github.io/g69/class-688",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-688",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-688",
+    "thumbnail": "images/super-bike-the-champion.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 716160,
+    "featured": false,
+    "description": "Super Bike The Champion is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "bowling-stars",
+    "title": "Bowling Stars",
+    "categories": [
+      "Action",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "bowling-stars",
+    "gamePath": "https://inkyedu118.github.io/g16/class-689",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-689",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-689",
+    "thumbnail": "images/bowling-stars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 495715,
+    "featured": false,
+    "description": "Bowling Stars is an exciting Action, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "aqua-thrills",
+    "title": "Aqua Thrills",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "aqua-thrills",
+    "gamePath": "https://inkyedu118.github.io/g16/class-690",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-690",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-690",
+    "thumbnail": "images/aqua-thrills.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 840428,
+    "featured": false,
+    "description": "Aqua Thrills is an exciting Action, Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "basket-champs",
+    "title": "Basket Champs",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "basket-champs",
+    "gamePath": "https://inkyedu118.github.io/g16/class-691",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-691",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-691",
+    "thumbnail": "images/basket-champs.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 867701,
+    "featured": false,
+    "description": "Basket Champs is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "grand-prix-hero",
+    "title": "Grand Prix Hero",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "grand-prix-hero",
+    "gamePath": "https://inkyedu118.github.io/g9/class-692",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-692",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-692",
+    "thumbnail": "images/grand-prix-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 704843,
+    "featured": false,
+    "description": "Grand Prix Hero is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "stickman-school-run",
+    "title": "Stickman School Run",
+    "categories": [
+      "Platformer",
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-school-run",
+    "gamePath": "https://inkyedu118.github.io/g69/class-693",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-693",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-693",
+    "thumbnail": "images/stickman-school-run.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 461735,
+    "featured": false,
+    "description": "Stickman School Run is an exciting Platformer, Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stickman-bike-pr",
+    "title": "Stickman Bike Pr",
+    "categories": [
+      "Driving",
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-bike-pr",
+    "gamePath": "https://inkyedu118.github.io/g2/class-694",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-694",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-694",
+    "thumbnail": "images/stickman-bike-pr.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 610868,
+    "featured": false,
+    "description": "Stickman Bike Pr is an exciting Driving, Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "heads-arena-soccer-all-stars",
+    "title": "Heads Arena Soccer All Stars",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "heads-arena-soccer-all-stars",
+    "gamePath": "https://inkyedu118.github.io/g9/class-695",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-695",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-695",
+    "thumbnail": "images/heads-arena-soccer-all-stars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 325228,
+    "featured": false,
+    "description": "Heads Arena Soccer All Stars is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "power-badminton",
+    "title": "Power Badminton",
+    "categories": [
+      "Multiplayer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "power-badminton",
+    "gamePath": "https://inkyedu118.github.io/g2/class-696",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-696",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-696",
+    "thumbnail": "images/power-badminton.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 720604,
+    "featured": false,
+    "description": "Power Badminton is an exciting Multiplayer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "foot-chinko",
+    "title": "Foot Chinko",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "foot-chinko",
+    "gamePath": "https://inkyedu118.github.io/g9/class-697",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-697",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-697",
+    "thumbnail": "images/foot-chinko.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 686024,
+    "featured": false,
+    "description": "Foot Chinko is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "rowdy-city-wrestling",
+    "title": "Rowdy City Wrestling",
+    "categories": [
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "rowdy-city-wrestling",
+    "gamePath": "https://inkyedu118.github.io/g2/class-698",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-698",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-698",
+    "thumbnail": "images/rowdy-city-wrestling.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 354939,
+    "featured": false,
+    "description": "Rowdy City Wrestling is an exciting Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "my-pony-my-little-race",
+    "title": "My Pony My Little Race",
+    "categories": [
+      "Driving",
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "my-pony-my-little-race",
+    "gamePath": "https://inkyedu118.github.io/g72/class-699",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-699",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-699",
+    "thumbnail": "images/my-pony-my-little-race.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 493784,
+    "featured": false,
+    "description": "My Pony My Little Race is an exciting Driving, Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "jollyworld",
+    "title": "Jollyworld",
+    "categories": [
+      "Driving",
+      "Platformer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "jollyworld",
+    "gamePath": "https://inkyedu118.github.io/g72/class-700",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-700",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-700",
+    "thumbnail": "images/jollyworld.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 719474,
+    "featured": false,
+    "description": "Jollyworld is an exciting Driving, Platformer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "superbike-hero",
+    "title": "Superbike Hero",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "superbike-hero",
+    "gamePath": "https://inkyedu118.github.io/g69/class-701",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-701",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-701",
+    "thumbnail": "images/superbike-hero.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 454905,
+    "featured": false,
+    "description": "Superbike Hero is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "street-ball-jam",
+    "title": "Street Ball Jam",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "street-ball-jam",
+    "gamePath": "https://inkyedu118.github.io/g69/class-702",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-702",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-702",
+    "thumbnail": "images/street-ball-jam.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 824805,
+    "featured": false,
+    "description": "Street Ball Jam is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "golf-champions",
+    "title": "Golf Champions",
+    "categories": [
+      "Action",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "golf-champions",
+    "gamePath": "https://inkyedu118.github.io/g9/class-703",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-703",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-703",
+    "thumbnail": "images/golf-champions.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 530020,
+    "featured": false,
+    "description": "Golf Champions is an exciting Action, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "slime-road",
+    "title": "Slime Road",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "slime-road",
+    "gamePath": "https://inkyedu118.github.io/g2/class-704",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-704",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-704",
+    "thumbnail": "images/slime-road.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 841559,
+    "featured": false,
+    "description": "Slime Road is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "super-racing-gt-drag-pro",
+    "title": "Super Racing Gt Drag Pro",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "super-racing-gt-drag-pro",
+    "gamePath": "https://inkyedu118.github.io/g69/class-705",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-705",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-705",
+    "thumbnail": "images/super-racing-gt-drag-pro.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 833491,
+    "featured": false,
+    "description": "Super Racing Gt Drag Pro is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "car-simulator-arena",
+    "title": "Car Simulator Arena",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "car-simulator-arena",
+    "gamePath": "https://inkyedu118.github.io/g3/class-706",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-706",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-706",
+    "thumbnail": "images/car-simulator-arena.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 536676,
+    "featured": false,
+    "description": "Car Simulator Arena is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "mad-day",
+    "title": "Mad Day",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "mad-day",
+    "gamePath": "https://inkyedu118.github.io/g16/class-707",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-707",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-707",
+    "thumbnail": "images/mad-day.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 673097,
+    "featured": false,
+    "description": "Mad Day is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "monsters-wheels-special",
+    "title": "Monsters Wheels Special",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "monsters-wheels-special",
+    "gamePath": "https://inkyedu118.github.io/g72/class-708",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-708",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-708",
+    "thumbnail": "images/monsters-wheels-special.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 612097,
+    "featured": false,
+    "description": "Monsters Wheels Special is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "real-simulator-monster-truck",
+    "title": "Real Simulator Monster Truck",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "real-simulator-monster-truck",
+    "gamePath": "https://inkyedu118.github.io/g2/class-709",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-709",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-709",
+    "thumbnail": "images/real-simulator-monster-truck.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 907218,
+    "featured": false,
+    "description": "Real Simulator Monster Truck is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "burnout-drift-seaport-max",
+    "title": "Burnout Drift Seaport Max",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "burnout-drift-seaport-max",
+    "gamePath": "https://inkyedu118.github.io/g16/class-710",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-710",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-710",
+    "thumbnail": "images/burnout-drift-seaport-max.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 775377,
+    "featured": false,
+    "description": "Burnout Drift Seaport Max is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "mad-truck-challenge-special",
+    "title": "Mad Truck Challenge Special",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "mad-truck-challenge-special",
+    "gamePath": "https://inkyedu118.github.io/g72/class-711",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-711",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-711",
+    "thumbnail": "images/mad-truck-challenge-special.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 364816,
+    "featured": false,
+    "description": "Mad Truck Challenge Special is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "just-park-it-11",
+    "title": "Just Park It 11",
+    "categories": [
+      "Casual & Strategy",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "just-park-it-11",
+    "gamePath": "https://inkyedu118.github.io/g3/class-712",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-712",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-712",
+    "thumbnail": "images/just-park-it-11.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 671534,
+    "featured": false,
+    "description": "Just Park It 11 is an exciting Casual & Strategy, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "18-wheeler-cargo-simulator",
+    "title": "18 Wheeler Cargo Simulator",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "18-wheeler-cargo-simulator",
+    "gamePath": "https://inkyedu118.github.io/g3/class-713",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-713",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-713",
+    "thumbnail": "images/18-wheeler-cargo-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 531192,
+    "featured": false,
+    "description": "18 Wheeler Cargo Simulator is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "extreme-off-road-cars-3-cargo",
+    "title": "Extreme Off Road Cars 3: Cargo",
+    "categories": [
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "extreme-off-road-cars-3-cargo",
+    "gamePath": "https://inkyedu118.github.io/g3/class-714",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-714",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-714",
+    "thumbnail": "images/extreme-off-road-cars-3-cargo.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 768963,
+    "featured": false,
+    "description": "Extreme Off Road Cars 3: Cargo is an exciting Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "extreme-off-road-cars",
+    "title": "Extreme Off Road Cars",
+    "categories": [
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "extreme-off-road-cars",
+    "gamePath": "https://inkyedu118.github.io/g3/class-715",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-715",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-715",
+    "thumbnail": "images/extreme-off-road-cars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 626626,
+    "featured": false,
+    "description": "Extreme Off Road Cars is an exciting Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "school-bus-demolition-derby",
+    "title": "School Bus Demolition Derby",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "school-bus-demolition-derby",
+    "gamePath": "https://inkyedu118.github.io/g2/class-716",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-716",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-716",
+    "thumbnail": "images/school-bus-demolition-derby.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 659221,
+    "featured": false,
+    "description": "School Bus Demolition Derby is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "noob-drive",
+    "title": "Noob Drive",
+    "categories": [
+      "Platformer",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "noob-drive",
+    "gamePath": "https://inkyedu118.github.io/g72/class-717",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-717",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-717",
+    "thumbnail": "images/noob-drive.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 846055,
+    "featured": false,
+    "description": "Noob Drive is an exciting Platformer, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "blocky-trials",
+    "title": "Blocky Trials",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "blocky-trials",
+    "gamePath": "https://inkyedu118.github.io/g16/class-718",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-718",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-718",
+    "thumbnail": "images/blocky-trials.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 489064,
+    "featured": false,
+    "description": "Blocky Trials is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "bike-trials-winter-1",
+    "title": "Bike Trials Winter 1",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "bike-trials-winter-1",
+    "gamePath": "https://inkyedu118.github.io/g16/class-719",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-719",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-719",
+    "thumbnail": "images/bike-trials-winter-1.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 867722,
+    "featured": false,
+    "description": "Bike Trials Winter 1 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "tricks",
+    "title": "Tricks",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "tricks",
+    "gamePath": "https://inkyedu118.github.io/g69/class-720",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-720",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-720",
+    "thumbnail": "images/tricks.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 632488,
+    "featured": false,
+    "description": "Tricks is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "moto-maniac",
+    "title": "Moto Maniac",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "moto-maniac",
+    "gamePath": "https://inkyedu118.github.io/g72/class-721",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-721",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-721",
+    "thumbnail": "images/moto-maniac.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 310479,
+    "featured": false,
+    "description": "Moto Maniac is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "moto-maniac-2",
+    "title": "Moto Maniac 2",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "moto-maniac-2",
+    "gamePath": "https://inkyedu118.github.io/g72/class-722",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-722",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-722",
+    "thumbnail": "images/moto-maniac-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 297805,
+    "featured": false,
+    "description": "Moto Maniac 2 is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "bike-trials-offroad-1",
+    "title": "Bike Trials Offroad 1",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "bike-trials-offroad-1",
+    "gamePath": "https://inkyedu118.github.io/g16/class-723",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-723",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-723",
+    "thumbnail": "images/bike-trials-offroad-1.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 502126,
+    "featured": false,
+    "description": "Bike Trials Offroad 1 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "parking-fury-3d-beach-city",
+    "title": "Parking Fury 3D Beach City",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury-3d-beach-city",
+    "gamePath": "https://inkyedu118.github.io/g3/class-724",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-724",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-724",
+    "thumbnail": "images/parking-fury-3d-beach-city.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 365324,
+    "featured": false,
+    "description": "Parking Fury 3D Beach City is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "parking-fury-3d-night-thief",
+    "title": "Parking Fury 3D: Night Thief",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury-3d-night-thief",
+    "gamePath": "https://inkyedu118.github.io/g3/class-725",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-725",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-725",
+    "thumbnail": "images/parking-fury-3d-night-thief.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 811410,
+    "featured": false,
+    "description": "Parking Fury 3D: Night Thief is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "cars-thief-tank-edition",
+    "title": "Cars Thief Tank Edition",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "cars-thief-tank-edition",
+    "gamePath": "https://inkyedu118.github.io/g9/class-726",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-726",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-726",
+    "thumbnail": "images/cars-thief-tank-edition.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 747154,
+    "featured": false,
+    "description": "Cars Thief Tank Edition is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "dubai-police-parking-2",
+    "title": "Dubai Police Parking 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "dubai-police-parking-2",
+    "gamePath": "https://inkyedu118.github.io/g3/class-727",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-727",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-727",
+    "thumbnail": "images/dubai-police-parking-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 531754,
+    "featured": false,
+    "description": "Dubai Police Parking 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "parking-fury-3d",
+    "title": "Parking Fury 3D",
+    "categories": [
+      "Action",
+      "Driving",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury-3d",
+    "gamePath": "https://inkyedu118.github.io/g3/class-728",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-728",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-728",
+    "thumbnail": "images/parking-fury-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 433927,
+    "featured": false,
+    "description": "Parking Fury 3D is an exciting Action, Driving, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "swatforce-vs-terrorists",
+    "title": "Swatforce vs Terrorists",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "swatforce-vs-terrorists",
+    "gamePath": "https://inkyedu118.github.io/g69/class-729",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-729",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-729",
+    "thumbnail": "images/swatforce-vs-terrorists.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 773004,
+    "featured": false,
+    "description": "Swatforce vs Terrorists is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "parking-fury-3d-bounty-hunter",
+    "title": "Parking Fury 3D Bounty Hunter",
+    "categories": [
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "parking-fury-3d-bounty-hunter",
+    "gamePath": "https://inkyedu118.github.io/g3/class-730",
+    "gameUrl": "https://inkyedu118.github.io/g3/class-730",
+    "remoteUrl": "https://inkyedu118.github.io/g3/class-730",
+    "thumbnail": "images/parking-fury-3d-bounty-hunter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 646041,
+    "featured": false,
+    "description": "Parking Fury 3D Bounty Hunter is an exciting Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "detective-loupe-puzzle",
+    "title": "Detective Loupe Puzzle",
+    "categories": [
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "detective-loupe-puzzle",
+    "gamePath": "https://inkyedu118.github.io/g9/class-731",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-731",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-731",
+    "thumbnail": "images/detective-loupe-puzzle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 612860,
+    "featured": false,
+    "description": "Detective Loupe Puzzle is an exciting Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "11-11",
+    "title": "11-11",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "11-11",
+    "gamePath": "https://inkyedu118.github.io/g16/class-732",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-732",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-732",
+    "thumbnail": "images/11-11.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 584813,
+    "featured": false,
+    "description": "11-11 is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "free-the-key",
+    "title": "Free The Key",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "free-the-key",
+    "gamePath": "https://inkyedu118.github.io/g9/class-733",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-733",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-733",
+    "thumbnail": "images/free-the-key.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 718769,
+    "featured": false,
+    "description": "Free The Key is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "word-city-crossed",
+    "title": "Word City Crossed",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "word-city-crossed",
+    "gamePath": "https://inkyedu118.github.io/g69/class-734",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-734",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-734",
+    "thumbnail": "images/word-city-crossed.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 375168,
+    "featured": false,
+    "description": "Word City Crossed is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "words-search-classic-edition",
+    "title": "Words Search Classic Edition",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "words-search-classic-edition",
+    "gamePath": "https://inkyedu118.github.io/g69/class-735",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-735",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-735",
+    "thumbnail": "images/words-search-classic-edition.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 609117,
+    "featured": false,
+    "description": "Words Search Classic Edition is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "pixwars-2",
+    "title": "Pixwars 2",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "pixwars-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-736",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-736",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-736",
+    "thumbnail": "images/pixwars-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 401178,
+    "featured": false,
+    "description": "Pixwars 2 is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "toon-off",
+    "title": "Toon Off",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "toon-off",
+    "gamePath": "https://inkyedu118.github.io/g69/class-737",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-737",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-737",
+    "thumbnail": "images/toon-off.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 542513,
+    "featured": false,
+    "description": "Toon Off is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "stickman-army-team-battle",
+    "title": "Stickman Army Team Battle",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-army-team-battle",
+    "gamePath": "https://inkyedu118.github.io/g2/class-738",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-738",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-738",
+    "thumbnail": "images/stickman-army-team-battle.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 331255,
+    "featured": false,
+    "description": "Stickman Army Team Battle is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stickman-fighter-epic-battle-2",
+    "title": "Stickman Fighter Epic Battle 2",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-fighter-epic-battle-2",
+    "gamePath": "https://inkyedu118.github.io/g2/class-739",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-739",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-739",
+    "thumbnail": "images/stickman-fighter-epic-battle-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 412521,
+    "featured": false,
+    "description": "Stickman Fighter Epic Battle 2 is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stickman-boxing-ko-champion",
+    "title": "Stickman Boxing KO Champion",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-boxing-ko-champion",
+    "gamePath": "https://inkyedu118.github.io/g2/class-740",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-740",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-740",
+    "thumbnail": "images/stickman-boxing-ko-champion.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 822236,
+    "featured": false,
+    "description": "Stickman Boxing KO Champion is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "stickman-bridge-constructor",
+    "title": "Stickman Bridge Constructor",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-bridge-constructor",
+    "gamePath": "https://inkyedu118.github.io/g2/class-741",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-741",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-741",
+    "thumbnail": "images/stickman-bridge-constructor.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 290334,
+    "featured": false,
+    "description": "Stickman Bridge Constructor is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "fancy-pants-3",
+    "title": "Fancy Pants 3",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "fancy-pants-3",
+    "gamePath": "https://inkyedu118.github.io/g9/class-742",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-742",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-742",
+    "thumbnail": "images/fancy-pants-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 324674,
+    "featured": false,
+    "description": "Fancy Pants 3 is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "fancy-pants-2",
+    "title": "Fancy Pants 2",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "fancy-pants-2",
+    "gamePath": "https://inkyedu118.github.io/g9/class-743",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-743",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-743",
+    "thumbnail": "images/fancy-pants-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 853682,
+    "featured": false,
+    "description": "Fancy Pants 2 is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "stickman-army-the-resistance",
+    "title": "Stickman Army The Resistance",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-army-the-resistance",
+    "gamePath": "https://inkyedu118.github.io/g2/class-744",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-744",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-744",
+    "thumbnail": "images/stickman-army-the-resistance.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 750851,
+    "featured": false,
+    "description": "Stickman Army The Resistance is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "perfect-peel",
+    "title": "Perfect Peel",
+    "categories": [
+      "Action",
+      "Casual & Strategy",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "perfect-peel",
+    "gamePath": "https://inkyedu118.github.io/g2/class-745",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-745",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-745",
+    "thumbnail": "images/perfect-peel.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 598419,
+    "featured": false,
+    "description": "Perfect Peel is an exciting Action, Casual & Strategy, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "dog-simulator-3d",
+    "title": "Dog Simulator 3D",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "dog-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g9/class-746",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-746",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-746",
+    "thumbnail": "images/dog-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 901061,
+    "featured": false,
+    "description": "Dog Simulator 3D is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "zombie-derby-pixel-survival",
+    "title": "Zombie Derby Pixel Survival",
+    "categories": [
+      "Action",
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "zombie-derby-pixel-survival",
+    "gamePath": "https://inkyedu118.github.io/g69/class-747",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-747",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-747",
+    "thumbnail": "images/zombie-derby-pixel-survival.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 831730,
+    "featured": false,
+    "description": "Zombie Derby Pixel Survival is an exciting Action, Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "hammer-2-reloaded",
+    "title": "Hammer 2 Reloaded",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "hammer-2-reloaded",
+    "gamePath": "https://inkyedu118.github.io/g9/class-748",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-748",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-748",
+    "thumbnail": "images/hammer-2-reloaded.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 879659,
+    "featured": false,
+    "description": "Hammer 2 Reloaded is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "striker-dummies",
+    "title": "Striker Dummies",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "striker-dummies",
+    "gamePath": "https://inkyedu118.github.io/g69/class-749",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-749",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-749",
+    "thumbnail": "images/striker-dummies.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 693760,
+    "featured": false,
+    "description": "Striker Dummies is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "puppet-master",
+    "title": "Puppet Master",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "puppet-master",
+    "gamePath": "https://inkyedu118.github.io/g2/class-750",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-750",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-750",
+    "thumbnail": "images/puppet-master.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 381791,
+    "featured": false,
+    "description": "Puppet Master is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "offroader-v5",
+    "title": "Offroader V5",
+    "categories": [
+      "Action",
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "offroader-v5",
+    "gamePath": "https://inkyedu118.github.io/g72/class-751",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-751",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-751",
+    "thumbnail": "images/offroader-v5.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 674375,
+    "featured": false,
+    "description": "Offroader V5 is an exciting Action, Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "horse-simulator-3d",
+    "title": "Horse Simulator 3D",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "horse-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g72/class-752",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-752",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-752",
+    "thumbnail": "images/horse-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 401028,
+    "featured": false,
+    "description": "Horse Simulator 3D is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "panda-simulator-3d",
+    "title": "Panda Simulator 3D",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "panda-simulator-3d",
+    "gamePath": "https://inkyedu118.github.io/g72/class-753",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-753",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-753",
+    "thumbnail": "images/panda-simulator-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 496391,
+    "featured": false,
+    "description": "Panda Simulator 3D is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "blocky-cars",
+    "title": "Blocky Cars",
+    "categories": [
+      "Action",
+      "Multiplayer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "blocky-cars",
+    "gamePath": "https://inkyedu118.github.io/g16/class-754",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-754",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-754",
+    "thumbnail": "images/blocky-cars.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 817259,
+    "featured": false,
+    "description": "Blocky Cars is an exciting Action, Multiplayer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "horse-shoeing",
+    "title": "Horse Shoeing",
+    "categories": [
+      "Action",
+      "Driving",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "horse-shoeing",
+    "gamePath": "https://inkyedu118.github.io/g72/class-755",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-755",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-755",
+    "thumbnail": "images/horse-shoeing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 343964,
+    "featured": false,
+    "description": "Horse Shoeing is an exciting Action, Driving, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "deer-simulator",
+    "title": "Deer Simulator",
+    "categories": [
+      "Action",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "deer-simulator",
+    "gamePath": "https://inkyedu118.github.io/g9/class-756",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-756",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-756",
+    "thumbnail": "images/deer-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 845949,
+    "featured": false,
+    "description": "Deer Simulator is an exciting Action, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "wood-blocks-3d",
+    "title": "Wood Blocks 3D",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "wood-blocks-3d",
+    "gamePath": "https://inkyedu118.github.io/g69/class-757",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-757",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-757",
+    "thumbnail": "images/wood-blocks-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 838087,
+    "featured": false,
+    "description": "Wood Blocks 3D is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "plactions",
+    "title": "Plactions",
+    "categories": [
+      "Puzzle",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "plactions",
+    "gamePath": "https://inkyedu118.github.io/g2/class-758",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-758",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-758",
+    "thumbnail": "images/plactions.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 411354,
+    "featured": false,
+    "description": "Plactions is an exciting Puzzle, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "basket-swooshes",
+    "title": "Basket Swooshes",
+    "categories": [
+      "Multiplayer",
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "basket-swooshes",
+    "gamePath": "https://inkyedu118.github.io/g16/class-759",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-759",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-759",
+    "thumbnail": "images/basket-swooshes.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 417968,
+    "featured": false,
+    "description": "Basket Swooshes is an exciting Multiplayer, Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "where-is-my-cat",
+    "title": "Where Is My Cat",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "where-is-my-cat",
+    "gamePath": "https://inkyedu118.github.io/g69/class-761",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-761",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-761",
+    "thumbnail": "images/where-is-my-cat.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 352706,
+    "featured": false,
+    "description": "Where Is My Cat is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "word-city-uncrossed",
+    "title": "Word City Uncrossed",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "word-city-uncrossed",
+    "gamePath": "https://inkyedu118.github.io/g69/class-762",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-762",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-762",
+    "thumbnail": "images/word-city-uncrossed.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 421839,
+    "featured": false,
+    "description": "Word City Uncrossed is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "heart-star",
+    "title": "Heart Star",
+    "categories": [
+      "Puzzle",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "heart-star",
+    "gamePath": "https://inkyedu118.github.io/g9/class-763",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-763",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-763",
+    "thumbnail": "images/heart-star.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 391482,
+    "featured": false,
+    "description": "Heart Star is an exciting Puzzle, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "panda-bubble-shooter",
+    "title": "Panda Bubble Shooter",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "panda-bubble-shooter",
+    "gamePath": "https://inkyedu118.github.io/g72/class-764",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-764",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-764",
+    "thumbnail": "images/panda-bubble-shooter.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 913728,
+    "featured": false,
+    "description": "Panda Bubble Shooter is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "tiny-town-racing",
+    "title": "Tiny Town Racing",
+    "categories": [
+      "Action",
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "tiny-town-racing",
+    "gamePath": "https://inkyedu118.github.io/g69/class-765",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-765",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-765",
+    "thumbnail": "images/tiny-town-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 426478,
+    "featured": false,
+    "description": "Tiny Town Racing is an exciting Action, Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "12-minibattles",
+    "title": "12 Minibattles",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "12-minibattles",
+    "gamePath": "https://inkyedu118.github.io/g16/class-766",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-766",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-766",
+    "thumbnail": "images/12-minibattles.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 530223,
+    "featured": false,
+    "description": "12 Minibattles is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "arithmetica",
+    "title": "Arithmetica",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "arithmetica",
+    "gamePath": "https://inkyedu118.github.io/g16/class-767",
+    "gameUrl": "https://inkyedu118.github.io/g16/class-767",
+    "remoteUrl": "https://inkyedu118.github.io/g16/class-767",
+    "thumbnail": "images/arithmetica.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 792349,
+    "featured": false,
+    "description": "Arithmetica is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "cat-gunner-super-zombie-shoot",
+    "title": "Cat Gunner: Super Zombie Shoot",
+    "categories": [
+      "Action",
+      "Platformer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cat-gunner-super-zombie-shoot",
+    "gamePath": "https://inkyedu118.github.io/g9/class-768",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-768",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-768",
+    "thumbnail": "images/cat-gunner-super-zombie-shoot.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 803876,
+    "featured": false,
+    "description": "Cat Gunner: Super Zombie Shoot is an exciting Action, Platformer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "city-rider",
+    "title": "City Rider",
+    "categories": [
+      "Action",
+      "Casual & Strategy",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "city-rider",
+    "gamePath": "https://inkyedu118.github.io/g9/class-769",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-769",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-769",
+    "thumbnail": "images/city-rider.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 604662,
+    "featured": false,
+    "description": "City Rider is an exciting Action, Casual & Strategy, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "soccar",
+    "title": "Soccar",
+    "categories": [
+      "Driving",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "soccar",
+    "gamePath": "https://inkyedu118.github.io/g2/class-770",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-770",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-770",
+    "thumbnail": "images/soccar.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 749189,
+    "featured": false,
+    "description": "Soccar is an exciting Driving, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rio-rex",
+    "title": "Rio Rex",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rio-rex",
+    "gamePath": "https://inkyedu118.github.io/g2/class-771",
+    "gameUrl": "https://inkyedu118.github.io/g2/class-771",
+    "remoteUrl": "https://inkyedu118.github.io/g2/class-771",
+    "thumbnail": "images/rio-rex.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 530553,
+    "featured": false,
+    "description": "Rio Rex is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "life-the-game",
+    "title": "Life The Game",
+    "categories": [
+      "Platformer",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "life-the-game",
+    "gamePath": "https://inkyedu118.github.io/g72/class-773",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-773",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-773",
+    "thumbnail": "images/life-the-game.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 795025,
+    "featured": false,
+    "description": "Life The Game is an exciting Platformer, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "kawaii-dressup",
+    "title": "Kawaii Dressup",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "kawaii-dressup",
+    "gamePath": "https://inkyedu118.github.io/g72/class-774",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-774",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-774",
+    "thumbnail": "images/kawaii-dressup.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 454773,
+    "featured": false,
+    "description": "Kawaii Dressup is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "stupid-zombies",
+    "title": "Stupid Zombies",
+    "categories": [
+      "Action",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "stupid-zombies",
+    "gamePath": "https://inkyedu118.github.io/g69/class-776",
+    "gameUrl": "https://inkyedu118.github.io/g69/class-776",
+    "remoteUrl": "https://inkyedu118.github.io/g69/class-776",
+    "thumbnail": "images/stupid-zombies.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 293171,
+    "featured": false,
+    "description": "Stupid Zombies is an exciting Action, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "golfinity",
+    "title": "Golfinity",
+    "categories": [
+      "Sports",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "golfinity",
+    "gamePath": "https://inkyedu118.github.io/g9/class-777",
+    "gameUrl": "https://inkyedu118.github.io/g9/class-777",
+    "remoteUrl": "https://inkyedu118.github.io/g9/class-777",
+    "thumbnail": "images/golfinity.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 394840,
+    "featured": false,
+    "description": "Golfinity is an exciting Sports, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "idle-startup-tycoon",
+    "title": "Idle Startup Tycoon",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "idle-startup-tycoon",
+    "gamePath": "https://inkyedu118.github.io/g72/class-778",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-778",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-778",
+    "thumbnail": "images/idle-startup-tycoon.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 775539,
+    "featured": false,
+    "description": "Idle Startup Tycoon is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "infinity-loop",
+    "title": "Infinity Loop",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "infinity-loop",
+    "gamePath": "https://inkyedu118.github.io/g72/class-779",
+    "gameUrl": "https://inkyedu118.github.io/g72/class-779",
+    "remoteUrl": "https://inkyedu118.github.io/g72/class-779",
+    "thumbnail": "images/infinity-loop.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 851874,
+    "featured": false,
+    "description": "Infinity Loop is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "bloons-tower-defense-1",
+    "title": "Bloons Tower Defense 1",
+    "categories": [
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "bloons-tower-defense-1",
+    "gamePath": "https://inkyedu118.github.io/g97/class-784",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-784",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-784",
+    "thumbnail": "images/bloons-tower-defense-1.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 642786,
+    "featured": false,
+    "description": "Bloons Tower Defense 1 is an exciting Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "car-climb-racing",
+    "title": "Car Climb Racing",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "car-climb-racing",
+    "gamePath": "https://inkyedu118.github.io/g97/class-785",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-785",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-785",
+    "thumbnail": "images/car-climb-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 899171,
+    "featured": false,
+    "description": "Car Climb Racing is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "city-bike-stunt-2",
+    "title": "City Bike Stunt 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "city-bike-stunt-2",
+    "gamePath": "https://inkyedu118.github.io/g97/class-787",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-787",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-787",
+    "thumbnail": "images/city-bike-stunt-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 442812,
+    "featured": false,
+    "description": "City Bike Stunt 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "cubes-king",
+    "title": "Cubes King",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "cubes-king",
+    "gamePath": "https://inkyedu118.github.io/g97/class-788",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-788",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-788",
+    "thumbnail": "images/cubes-king.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 350213,
+    "featured": false,
+    "description": "Cubes King is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "hover-racer-drive",
+    "title": "Hover Racer Drive",
+    "categories": [
+      "Action",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "hover-racer-drive",
+    "gamePath": "https://inkyedu118.github.io/g97/class-789",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-789",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-789",
+    "thumbnail": "images/hover-racer-drive.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 417782,
+    "featured": false,
+    "description": "Hover Racer Drive is an exciting Action, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "2048-multitask",
+    "title": "2048 Multitask",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "2048-multitask",
+    "gamePath": "https://inkyedu118.github.io/g97/class-790",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-790",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-790",
+    "thumbnail": "images/2048-multitask.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 784926,
+    "featured": false,
+    "description": "2048 Multitask is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "4x4-drive-offroad",
+    "title": "4x4 Drive Offroad",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "4x4-drive-offroad",
+    "gamePath": "https://inkyedu118.github.io/g97/class-791",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-791",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-791",
+    "thumbnail": "images/4x4-drive-offroad.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 339386,
+    "featured": false,
+    "description": "4x4 Drive Offroad is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "extreme-car-driving-simulator",
+    "title": "Extreme Car Driving Simulator",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "extreme-car-driving-simulator",
+    "gamePath": "https://inkyedu118.github.io/g97/class-792",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-792",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-792",
+    "thumbnail": "images/extreme-car-driving-simulator.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 556581,
+    "featured": false,
+    "description": "Extreme Car Driving Simulator is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "furious-racing-3d",
+    "title": "Furious Racing 3D",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "furious-racing-3d",
+    "gamePath": "https://inkyedu118.github.io/g97/class-793",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-793",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-793",
+    "thumbnail": "images/furious-racing-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 780470,
+    "featured": false,
+    "description": "Furious Racing 3D is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "gun-mayhem-3",
+    "title": "Gun Mayhem 3",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "gun-mayhem-3",
+    "gamePath": "https://inkyedu118.github.io/g97/class-795",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-795",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-795",
+    "thumbnail": "images/gun-mayhem-3.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 530423,
+    "featured": false,
+    "description": "Gun Mayhem 3 is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "jet-boy",
+    "title": "Jet Boy",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "jet-boy",
+    "gamePath": "https://inkyedu118.github.io/g5/class-796",
+    "gameUrl": "https://inkyedu118.github.io/g5/class-796",
+    "remoteUrl": "https://inkyedu118.github.io/g5/class-796",
+    "thumbnail": "images/jet-boy.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 527580,
+    "featured": false,
+    "description": "Jet Boy is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "kart-race-3d",
+    "title": "Kart Race 3D",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "kart-race-3d",
+    "gamePath": "https://inkyedu118.github.io/g97/class-797",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-797",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-797",
+    "thumbnail": "images/kart-race-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 567370,
+    "featured": false,
+    "description": "Kart Race 3D is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "maze-planet-3d",
+    "title": "Maze Planet 3D",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "maze-planet-3d",
+    "gamePath": "https://inkyedu118.github.io/g97/class-798",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-798",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-798",
+    "thumbnail": "images/maze-planet-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 635675,
+    "featured": false,
+    "description": "Maze Planet 3D is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "minecraft-builder",
+    "title": "Minecraft Builder",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "minecraft-builder",
+    "gamePath": "https://inkyedu118.github.io/g97/class-799",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-799",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-799",
+    "thumbnail": "images/minecraft-builder.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 726776,
+    "featured": false,
+    "description": "Minecraft Builder is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "slope-2-multiplayer",
+    "title": "Slope 2 Multiplayer",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "slope-2-multiplayer",
+    "gamePath": "https://inkyedu118.github.io/g97/class-800",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-800",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-800",
+    "thumbnail": "images/slope-2-multiplayer.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 551059,
+    "featured": false,
+    "description": "Slope 2 Multiplayer is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "sniper-gun-shooting",
+    "title": "Sniper Gun Shooting",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "sniper-gun-shooting",
+    "gamePath": "https://inkyedu118.github.io/g97/class-801",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-801",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-801",
+    "thumbnail": "images/sniper-gun-shooting.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 644086,
+    "featured": false,
+    "description": "Sniper Gun Shooting is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "speed-boat-extreme-racing",
+    "title": "Speed Boat Extreme Racing",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "speed-boat-extreme-racing",
+    "gamePath": "https://inkyedu118.github.io/g/class-802",
+    "gameUrl": "https://inkyedu118.github.io/g/class-802",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-802",
+    "thumbnail": "images/speed-boat-extreme-racing.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 449539,
+    "featured": false,
+    "description": "Speed Boat Extreme Racing is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "stack-bump-3d",
+    "title": "Stack Bump 3D",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "stack-bump-3d",
+    "gamePath": "https://inkyedu118.github.io/g/class-803",
+    "gameUrl": "https://inkyedu118.github.io/g/class-803",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-803",
+    "thumbnail": "images/stack-bump-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 388612,
+    "featured": false,
+    "description": "Stack Bump 3D is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "subway-runner",
+    "title": "Subway Runner",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "subway-runner",
+    "gamePath": "https://inkyedu118.github.io/g97/class-804",
+    "gameUrl": "https://inkyedu118.github.io/g97/class-804",
+    "remoteUrl": "https://inkyedu118.github.io/g97/class-804",
+    "thumbnail": "images/subway-runner.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 851909,
+    "featured": false,
+    "description": "Subway Runner is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "traffic-rider",
+    "title": "Traffic Rider",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "traffic-rider",
+    "gamePath": "https://inkyedu118.github.io/g/class-806",
+    "gameUrl": "https://inkyedu118.github.io/g/class-806",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-806",
+    "thumbnail": "images/traffic-rider.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 706622,
+    "featured": false,
+    "description": "Traffic Rider is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "two-neon-boxes",
+    "title": "Two Neon Boxes",
+    "categories": [
+      "Multiplayer",
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "two-neon-boxes",
+    "gamePath": "https://inkyedu118.github.io/g/class-807",
+    "gameUrl": "https://inkyedu118.github.io/g/class-807",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-807",
+    "thumbnail": "images/two-neon-boxes.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 661802,
+    "featured": false,
+    "description": "Two Neon Boxes is an exciting Multiplayer, Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "ultimate-car-driving",
+    "title": "Ultimate Car Driving",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "ultimate-car-driving",
+    "gamePath": "https://inkyedu118.github.io/g/class-808",
+    "gameUrl": "https://inkyedu118.github.io/g/class-808",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-808",
+    "thumbnail": "images/ultimate-car-driving.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 697091,
+    "featured": false,
+    "description": "Ultimate Car Driving is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "volleyball-challenge",
+    "title": "Volleyball Challenge",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "volleyball-challenge",
+    "gamePath": "https://inkyedu118.github.io/g/class-810",
+    "gameUrl": "https://inkyedu118.github.io/g/class-810",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-810",
+    "thumbnail": "images/volleyball-challenge.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 686866,
+    "featured": false,
+    "description": "Volleyball Challenge is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "volley-random",
+    "title": "Volley Random",
+    "categories": [
+      "Multiplayer",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "volley-random",
+    "gamePath": "https://inkyedu118.github.io/g/class-811",
+    "gameUrl": "https://inkyedu118.github.io/g/class-811",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-811",
+    "thumbnail": "images/volley-random.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 910209,
+    "featured": false,
+    "description": "Volley Random is an exciting Multiplayer, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "paper-fighter-3d",
+    "title": "Paper Fighter 3D",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "paper-fighter-3d",
+    "gamePath": "https://inkyedu118.github.io/g/class-812",
+    "gameUrl": "https://inkyedu118.github.io/g/class-812",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-812",
+    "thumbnail": "images/paper-fighter-3d.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.4,
+    "plays": 303117,
+    "featured": false,
+    "description": "Paper Fighter 3D is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "real-city-driving-2",
+    "title": "Real City Driving 2",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "real-city-driving-2",
+    "gamePath": "https://inkyedu118.github.io/g/class-813",
+    "gameUrl": "https://inkyedu118.github.io/g/class-813",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-813",
+    "thumbnail": "images/real-city-driving-2.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 858003,
+    "featured": false,
+    "description": "Real City Driving 2 is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "rocket-pult",
+    "title": "Rocket Pult",
+    "categories": [
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "rocket-pult",
+    "gamePath": "https://inkyedu118.github.io/g/class-814",
+    "gameUrl": "https://inkyedu118.github.io/g/class-814",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-814",
+    "thumbnail": "images/rocket-pult.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 726597,
+    "featured": false,
+    "description": "Rocket Pult is an exciting Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "shoot-stickman",
+    "title": "Shoot Stickman",
+    "categories": [
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "shoot-stickman",
+    "gamePath": "https://inkyedu118.github.io/g/class-815",
+    "gameUrl": "https://inkyedu118.github.io/g/class-815",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-815",
+    "thumbnail": "images/shoot-stickman.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 681896,
+    "featured": false,
+    "description": "Shoot Stickman is an exciting Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to interact."
+    }
+  },
+  {
+    "id": "shortcut-race",
+    "title": "Shortcut Race",
+    "categories": [
+      "Platformer",
+      "Driving"
+    ],
+    "fileType": "html",
+    "fileName": "shortcut-race",
+    "gamePath": "https://inkyedu118.github.io/g/class-816",
+    "gameUrl": "https://inkyedu118.github.io/g/class-816",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-816",
+    "thumbnail": "images/shortcut-race.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 482064,
+    "featured": false,
+    "description": "Shortcut Race is an exciting Platformer, Driving game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to steer and accelerate, Spacebar for handbrake, Shift for boost."
+    }
+  },
+  {
+    "id": "run-3-editor",
+    "title": "Run 3 Editor",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "run-3-editor",
+    "gamePath": "https://inkyedu118.github.io/g/class-819",
+    "gameUrl": "https://inkyedu118.github.io/g/class-819",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-819",
+    "thumbnail": "images/run-3-editor.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 796190,
+    "featured": false,
+    "description": "Run 3 Editor is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "tomb-of-the-mask-color",
+    "title": "Tomb of The Mask Color",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "tomb-of-the-mask-color",
+    "gamePath": "https://inkyedu118.github.io/g26/class-820",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-820",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-820",
+    "thumbnail": "images/tomb-of-the-mask-color.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 526946,
+    "featured": false,
+    "description": "Tomb of The Mask Color is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "onion-boy",
+    "title": "Onion Boy",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "onion-boy",
+    "gamePath": "https://inkyedu118.github.io/g26/class-821",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-821",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-821",
+    "thumbnail": "images/onion-boy.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 609668,
+    "featured": false,
+    "description": "Onion Boy is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "rabbit-samurai",
+    "title": "Rabbit Samurai",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "rabbit-samurai",
+    "gamePath": "https://inkyedu118.github.io/g26/class-822",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-822",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-822",
+    "thumbnail": "images/rabbit-samurai.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 360512,
+    "featured": false,
+    "description": "Rabbit Samurai is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "stickman-golf",
+    "title": "Stickman Golf",
+    "categories": [
+      "Action",
+      "Sports"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-golf",
+    "gamePath": "https://inkyedu118.github.io/g26/class-823",
+    "gameUrl": "https://inkyedu118.github.io/g26/class-823",
+    "remoteUrl": "https://inkyedu118.github.io/g26/class-823",
+    "thumbnail": "images/stickman-golf.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 783356,
+    "featured": false,
+    "description": "Stickman Golf is an exciting Action, Sports game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar",
+        "Mouse"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to move, Spacebar or Mouse click to pass and shoot."
+    }
+  },
+  {
+    "id": "super-mario-bros",
+    "title": "Super Mario Bros",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "super-mario-bros",
+    "gamePath": "https://inkyedu118.github.io/g/class-826",
+    "gameUrl": "https://inkyedu118.github.io/g/class-826",
+    "remoteUrl": "https://inkyedu118.github.io/g/class-826",
+    "thumbnail": "images/super-mario-bros.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 686202,
+    "featured": false,
+    "description": "Super Mario Bros is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
+    }
+  },
+  {
+    "id": "paper-minecraft",
+    "title": "Paper Minecraft",
+    "categories": [
+      "Puzzle"
+    ],
+    "fileType": "html",
+    "fileName": "paper-minecraft",
+    "gamePath": "https://inkyedu118.github.io/g20/class-827",
+    "gameUrl": "https://inkyedu118.github.io/g20/class-827",
+    "remoteUrl": "https://inkyedu118.github.io/g20/class-827",
+    "thumbnail": "images/paper-minecraft.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 637877,
+    "featured": false,
+    "description": "Paper Minecraft is an exciting Puzzle game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "yohohoio",
+    "title": "Yohoho.io",
+    "categories": [
+      "Multiplayer",
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "yohohoio",
+    "gamePath": "https://inkyedu118.github.io/g77/class-828",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-828",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-828",
+    "thumbnail": "images/yohohoio.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 416674,
+    "featured": false,
+    "description": "Yohoho.io is an exciting Multiplayer, Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "P1: W / A / S / D",
+        "P2: Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Player 1 controls with W/A/S/D, Player 2 controls with Arrow Keys. Compete or cooperate!"
+    }
+  },
+  {
+    "id": "monkey-mart",
+    "title": "Monkey Mart",
+    "categories": [
+      "Puzzle",
+      "Casual & Strategy"
+    ],
+    "fileType": "html",
+    "fileName": "monkey-mart",
+    "gamePath": "https://inkyedu118.github.io/g77/class-829",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-829",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-829",
+    "thumbnail": "images/monkey-mart.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 775270,
+    "featured": false,
+    "description": "Monkey Mart is an exciting Puzzle, Casual & Strategy game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Left Click",
+        "Drag & Drop",
+        "Touch Controls"
+      ],
+      "instructions": "Click and drag with mouse or touch to interact with tiles, solve puzzles, and clear stages."
+    }
+  },
+  {
+    "id": "parkour-race",
+    "title": "Parkour Race",
+    "categories": [
+      "Platformer"
+    ],
+    "fileType": "html",
+    "fileName": "parkour-race",
+    "gamePath": "https://inkyedu118.github.io/g77/class-830",
+    "gameUrl": "https://inkyedu118.github.io/g77/class-830",
+    "remoteUrl": "https://inkyedu118.github.io/g77/class-830",
+    "thumbnail": "images/parkour-race.webp",
+    "author": "Unblocked Games",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 372282,
+    "featured": false,
+    "description": "Parkour Race is an exciting Platformer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Arrow Keys",
+        "W / A / S / D",
+        "Spacebar"
+      ],
+      "instructions": "Use Arrow keys or W/A/S/D to run and jump, Spacebar for special action or double-jump."
     }
   }
 ];

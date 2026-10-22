@@ -373,8 +373,8 @@ document.addEventListener('DOMContentLoaded', () => {
       return `${prefix}games/retro-bowl-college/game.html`;
     }
 
-    if (game.remoteUrl) {
-      return game.remoteUrl;
+    if (game.remoteUrl || game.gameUrl || (game.gamePath && game.gamePath.startsWith('http'))) {
+      return game.remoteUrl || game.gameUrl || game.gamePath;
     }
 
     // Check if game exists locally
