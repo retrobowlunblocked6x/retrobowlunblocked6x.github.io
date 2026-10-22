@@ -7620,9 +7620,2785 @@ const GAMES_DATA = [
       ],
       "instructions": "Navigate through levels with arrow keys or WASD. Use Spacebar to leap across obstacles and mouse/action keys to interact."
     }
+  },
+  {
+    "id": "bottle-flip",
+    "title": "Bottle Flip",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "bottle-flip",
+    "gamePath": "games/bottle-flip/index.html",
+    "thumbnail": "images/bottle-flip.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 497299,
+    "featured": false,
+    "description": "Bottle Flip is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "basketball-stars-new",
+    "title": "Basketball Stars New",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "basketball-stars-new",
+    "gamePath": "games/basketball-stars-new/index.html",
+    "thumbnail": "images/basketball-stars-new.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 614293,
+    "featured": false,
+    "description": "Basketball Stars New is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "kart-bros",
+    "title": "Kart Bros",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "kart-bros",
+    "gamePath": "games/kart-bros/index.html",
+    "thumbnail": "images/kart-bros.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 658628,
+    "featured": false,
+    "description": "Kart Bros is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "pickaxe-escape",
+    "title": "Pickaxe Escape",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "pickaxe-escape",
+    "gamePath": "games/pickaxe-escape/index.html",
+    "thumbnail": "images/pickaxe-escape.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 596431,
+    "featured": false,
+    "description": "Pickaxe Escape is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "steal-and-catch-obby",
+    "title": "Steal & Catch Obby",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "steal-and-catch-obby",
+    "gamePath": "games/steal-and-catch-obby/index.html",
+    "thumbnail": "images/steal-and-catch-obby.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 510560,
+    "featured": false,
+    "description": "Steal & Catch Obby is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "obby-climb-and-slide-2",
+    "title": "Obby Climb & Slide 2",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "obby-climb-and-slide-2",
+    "gamePath": "games/obby-climb-and-slide-2/index.html",
+    "thumbnail": "images/obby-climb-and-slide-2.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 779182,
+    "featured": false,
+    "description": "Obby Climb & Slide 2 is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "save-my-pet",
+    "title": "Save My Pet",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "save-my-pet",
+    "gamePath": "games/save-my-pet/index.html",
+    "thumbnail": "images/save-my-pet.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 633820,
+    "featured": false,
+    "description": "Save My Pet is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "snow-rush-3d",
+    "title": "Snow Rush 3D",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "snow-rush-3d",
+    "gamePath": "games/snow-rush-3d/index.html",
+    "thumbnail": "images/snow-rush-3d.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 413192,
+    "featured": false,
+    "description": "Snow Rush 3D is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "car-destruction-king",
+    "title": "Car Destruction King",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "car-destruction-king",
+    "gamePath": "games/car-destruction-king/index.html",
+    "thumbnail": "images/car-destruction-king.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 661207,
+    "featured": false,
+    "description": "Car Destruction King is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "island-expander",
+    "title": "Island Expander",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "island-expander",
+    "gamePath": "games/island-expander/index.html",
+    "thumbnail": "images/island-expander.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 503427,
+    "featured": false,
+    "description": "Island Expander is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "mr-racer",
+    "title": "Mr. Racer",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "mr-racer",
+    "gamePath": "games/mr-racer/index.html",
+    "thumbnail": "images/mr-racer.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 663980,
+    "featured": false,
+    "description": "Mr. Racer is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "soccer-lat",
+    "title": "Soccer Lat",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-lat",
+    "gamePath": "games/soccer-lat/index.html",
+    "thumbnail": "images/soccer-lat.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 561528,
+    "featured": false,
+    "description": "Soccer Lat is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "the-machinegg",
+    "title": "The Machinegg",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "the-machinegg",
+    "gamePath": "games/the-machinegg/index.html",
+    "thumbnail": "images/the-machinegg.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 661869,
+    "featured": false,
+    "description": "The Machinegg is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "zombies-sandbox",
+    "title": "Zombies Sandbox",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zombies-sandbox",
+    "gamePath": "games/zombies-sandbox/index.html",
+    "thumbnail": "images/zombies-sandbox.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 688517,
+    "featured": false,
+    "description": "Zombies Sandbox is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "dune-dash",
+    "title": "Dune Dash",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "dune-dash",
+    "gamePath": "games/dune-dash/index.html",
+    "thumbnail": "images/dune-dash.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 467760,
+    "featured": false,
+    "description": "Dune Dash is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "smash-karts",
+    "gamePath": "games/smash-karts/index.html",
+    "thumbnail": "images/smash-karts.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 579728,
+    "featured": false,
+    "description": "Smash Karts is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "soccer-bros-2",
+    "title": "Soccer Bros 2",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-bros-2",
+    "gamePath": "games/soccer-bros-2/index.html",
+    "thumbnail": "images/soccer-bros-2.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 442110,
+    "featured": false,
+    "description": "Soccer Bros 2 is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "worldguessr",
+    "title": "Worldguessr",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "worldguessr",
+    "gamePath": "games/worldguessr/index.html",
+    "thumbnail": "images/worldguessr.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 595167,
+    "featured": false,
+    "description": "Worldguessr is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "basket-bros",
+    "title": "Basket Bros",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "basket-bros",
+    "gamePath": "games/basket-bros/index.html",
+    "thumbnail": "images/basket-bros.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 589057,
+    "featured": false,
+    "description": "Basket Bros is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "body-drop-3d",
+    "title": "Body Drop 3d",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "body-drop-3d",
+    "gamePath": "games/body-drop-3d/index.html",
+    "thumbnail": "images/body-drop-3d.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 359995,
+    "featured": false,
+    "description": "Body Drop 3d is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "the-tall-man",
+    "title": "The Tall Man",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "the-tall-man",
+    "gamePath": "games/the-tall-man/index.html",
+    "thumbnail": "images/the-tall-man.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 745416,
+    "featured": false,
+    "description": "The Tall Man is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "knights-arena",
+    "title": "Knights Arena",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "knights-arena",
+    "gamePath": "games/knights-arena/index.html",
+    "thumbnail": "images/knights-arena.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 565033,
+    "featured": false,
+    "description": "Knights Arena is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "rblx-obby-parkour",
+    "title": "Rblx Obby Parkour",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "rblx-obby-parkour",
+    "gamePath": "games/rblx-obby-parkour/index.html",
+    "thumbnail": "images/rblx-obby-parkour.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 443552,
+    "featured": false,
+    "description": "Rblx Obby Parkour is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "obby-ragdoll-boxing",
+    "title": "Obby Ragdoll Boxing",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "obby-ragdoll-boxing",
+    "gamePath": "games/obby-ragdoll-boxing/index.html",
+    "thumbnail": "images/obby-ragdoll-boxing.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 530748,
+    "featured": false,
+    "description": "Obby Ragdoll Boxing is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "chick-end",
+    "title": "Chick End",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "chick-end",
+    "gamePath": "games/chick-end/index.html",
+    "thumbnail": "images/chick-end.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 504318,
+    "featured": false,
+    "description": "Chick End is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "playground-man-ragdoll-show",
+    "title": "Playground Man Ragdoll Show",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "playground-man-ragdoll-show",
+    "gamePath": "games/playground-man-ragdoll-show/index.html",
+    "thumbnail": "images/playground-man-ragdoll-show.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 488464,
+    "featured": false,
+    "description": "Playground Man Ragdoll Show is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "2-minute-football-qb-legend",
+    "title": "2 Minute Football Qb Legend",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "2-minute-football-qb-legend",
+    "gamePath": "games/2-minute-football-qb-legend/index.html",
+    "thumbnail": "images/2-minute-football-qb-legend.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 772763,
+    "featured": false,
+    "description": "2 Minute Football Qb Legend is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "tall-io",
+    "title": "Tall Io",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "tall-io",
+    "gamePath": "games/tall-io/index.html",
+    "thumbnail": "images/tall-io.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 391613,
+    "featured": false,
+    "description": "Tall Io is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "skyblock-survival-3d",
+    "title": "Skyblock Survival 3d",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "skyblock-survival-3d",
+    "gamePath": "games/skyblock-survival-3d/index.html",
+    "thumbnail": "images/skyblock-survival-3d.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 711295,
+    "featured": false,
+    "description": "Skyblock Survival 3d is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "r-a-c-e",
+    "title": "R.A.C.E",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "r-a-c-e",
+    "gamePath": "games/r-a-c-e/index.html",
+    "thumbnail": "images/r-a-c-e.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 552123,
+    "featured": false,
+    "description": "R.A.C.E is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "rocket-goal",
+    "title": "Rocket Goal",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "rocket-goal",
+    "gamePath": "games/rocket-goal/index.html",
+    "thumbnail": "images/rocket-goal.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 645737,
+    "featured": false,
+    "description": "Rocket Goal is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "fun-ragdoll-arena",
+    "title": "Fun Ragdoll Arena",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fun-ragdoll-arena",
+    "gamePath": "games/fun-ragdoll-arena/index.html",
+    "thumbnail": "images/fun-ragdoll-arena.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 778841,
+    "featured": false,
+    "description": "Fun Ragdoll Arena is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "steal-the-egg",
+    "title": "Steal The Egg",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "steal-the-egg",
+    "gamePath": "games/steal-the-egg/index.html",
+    "thumbnail": "images/steal-the-egg.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 653227,
+    "featured": false,
+    "description": "Steal The Egg is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "stickman-duel",
+    "title": "Stickman Duel",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-duel",
+    "gamePath": "games/stickman-duel/index.html",
+    "thumbnail": "images/stickman-duel.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 548412,
+    "featured": false,
+    "description": "Stickman Duel is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "ragdoll-runner",
+    "title": "Ragdoll Runner",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "ragdoll-runner",
+    "gamePath": "games/ragdoll-runner/index.html",
+    "thumbnail": "images/ragdoll-runner.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 756755,
+    "featured": false,
+    "description": "Ragdoll Runner is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "car-driving",
+    "title": "Car Driving",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "car-driving",
+    "gamePath": "games/car-driving/index.html",
+    "thumbnail": "images/car-driving.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 614636,
+    "featured": false,
+    "description": "Car Driving is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "squid-gme",
+    "title": "Squid Game",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "squid-gme",
+    "gamePath": "games/squid-gme/index.html",
+    "thumbnail": "images/squid-gme.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 361352,
+    "featured": false,
+    "description": "Squid Game is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "fight-club-simulator",
+    "title": "Fight Club Simulator",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "fight-club-simulator",
+    "gamePath": "games/fight-club-simulator/index.html",
+    "thumbnail": "images/fight-club-simulator.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 369134,
+    "featured": false,
+    "description": "Fight Club Simulator is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "wonder-goal",
+    "title": "Wonder Goal",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "wonder-goal",
+    "gamePath": "games/wonder-goal/index.html",
+    "thumbnail": "images/wonder-goal.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 763213,
+    "featured": false,
+    "description": "Wonder Goal is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "cat-life-simulator-devil-cat",
+    "title": "Cat Life Simulator: Devil Cat",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "cat-life-simulator-devil-cat",
+    "gamePath": "games/cat-life-simulator-devil-cat/index.html",
+    "thumbnail": "images/cat-life-simulator-devil-cat.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 611228,
+    "featured": false,
+    "description": "Cat Life Simulator: Devil Cat is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "crazy-motorcycle",
+    "title": "Crazy Motorcycle",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "crazy-motorcycle",
+    "gamePath": "games/crazy-motorcycle/index.html",
+    "thumbnail": "images/crazy-motorcycle.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 457193,
+    "featured": false,
+    "description": "Crazy Motorcycle is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "capy-cafe",
+    "title": "Capy Cafe",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "capy-cafe",
+    "gamePath": "games/capy-cafe/index.html",
+    "thumbnail": "images/capy-cafe.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 673544,
+    "featured": false,
+    "description": "Capy Cafe is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "r-vs-b",
+    "title": "Red vs Blue",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "r-vs-b",
+    "gamePath": "games/r-vs-b/index.html",
+    "thumbnail": "images/r-vs-b.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 423988,
+    "featured": false,
+    "description": "Red vs Blue is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "zombie-space-episode-2",
+    "title": "Zombie Space: Episode 2",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zombie-space-episode-2",
+    "gamePath": "games/zombie-space-episode-2/index.html",
+    "thumbnail": "images/zombie-space-episode-2.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 428151,
+    "featured": false,
+    "description": "Zombie Space: Episode 2 is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "obby-run-star",
+    "title": "Obby Run Star",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "obby-run-star",
+    "gamePath": "games/obby-run-star/index.html",
+    "thumbnail": "images/obby-run-star.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 598375,
+    "featured": false,
+    "description": "Obby Run Star is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "ragdoll-crash-test",
+    "title": "Ragdoll Crash Test",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "ragdoll-crash-test",
+    "gamePath": "games/ragdoll-crash-test/index.html",
+    "thumbnail": "images/ragdoll-crash-test.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 462931,
+    "featured": false,
+    "description": "Ragdoll Crash Test is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "football-bros",
+    "title": "Football Bros",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "football-bros",
+    "gamePath": "games/football-bros/index.html",
+    "thumbnail": "images/football-bros.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 703409,
+    "featured": false,
+    "description": "Football Bros is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "box-simulator",
+    "title": "Box Simulator",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "box-simulator",
+    "gamePath": "games/box-simulator/index.html",
+    "thumbnail": "images/box-simulator.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 392158,
+    "featured": false,
+    "description": "Box Simulator is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "chicken-merge-2",
+    "title": "Chicken Merge 2",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "chicken-merge-2",
+    "gamePath": "games/chicken-merge-2/index.html",
+    "thumbnail": "images/chicken-merge-2.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 549943,
+    "featured": false,
+    "description": "Chicken Merge 2 is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "baseball-bros",
+    "title": "Baseball Bros",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "baseball-bros",
+    "gamePath": "games/baseball-bros/index.html",
+    "thumbnail": "images/baseball-bros.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 543710,
+    "featured": false,
+    "description": "Baseball Bros is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "nitro-car",
+    "title": "Nitro Car",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "nitro-car",
+    "gamePath": "games/nitro-car/index.html",
+    "thumbnail": "images/nitro-car.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 653831,
+    "featured": false,
+    "description": "Nitro Car is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "dude-life",
+    "title": "Dude Life",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "dude-life",
+    "gamePath": "games/dude-life/index.html",
+    "thumbnail": "images/dude-life.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 458624,
+    "featured": false,
+    "description": "Dude Life is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "snake-2048",
+    "title": "Snake 2048",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "snake-2048",
+    "gamePath": "games/snake-2048/index.html",
+    "thumbnail": "images/snake-2048.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 628271,
+    "featured": false,
+    "description": "Snake 2048 is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "gym-boss",
+    "title": "Gym Boss",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "gym-boss",
+    "gamePath": "games/gym-boss/index.html",
+    "thumbnail": "images/gym-boss.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 448030,
+    "featured": false,
+    "description": "Gym Boss is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "balls-and-bricks",
+    "title": "Balls And Bricks",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "balls-and-bricks",
+    "gamePath": "games/balls-and-bricks/index.html",
+    "thumbnail": "images/balls-and-bricks.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 523073,
+    "featured": false,
+    "description": "Balls And Bricks is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "dig-to-the-center-of-the-earth",
+    "title": "Dig To The Center Of The Earth",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "dig-to-the-center-of-the-earth",
+    "gamePath": "games/dig-to-the-center-of-the-earth/index.html",
+    "thumbnail": "images/dig-to-the-center-of-the-earth.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 443471,
+    "featured": false,
+    "description": "Dig To The Center Of The Earth is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "car-crash-test-simulator",
+    "title": "Car Crash Test Simulator",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "car-crash-test-simulator",
+    "gamePath": "games/car-crash-test-simulator/index.html",
+    "thumbnail": "images/car-crash-test-simulator.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 777424,
+    "featured": false,
+    "description": "Car Crash Test Simulator is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "be-like-a-lucky-block",
+    "title": "Be Like A Lucky Block",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "be-like-a-lucky-block",
+    "gamePath": "games/be-like-a-lucky-block/index.html",
+    "thumbnail": "images/be-like-a-lucky-block.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 608323,
+    "featured": false,
+    "description": "Be Like A Lucky Block is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "rooftop-run",
+    "title": "Rooftop Run",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "rooftop-run",
+    "gamePath": "games/rooftop-run/index.html",
+    "thumbnail": "images/rooftop-run.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 424097,
+    "featured": false,
+    "description": "Rooftop Run is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "melon-dismounting",
+    "title": "Melon Dismounting",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "melon-dismounting",
+    "gamePath": "games/melon-dismounting/index.html",
+    "thumbnail": "images/melon-dismounting.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 416938,
+    "featured": false,
+    "description": "Melon Dismounting is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "mine-clone",
+    "title": "Mine Clone",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "mine-clone",
+    "gamePath": "games/mine-clone/index.html",
+    "thumbnail": "images/mine-clone.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 767255,
+    "featured": false,
+    "description": "Mine Clone is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "melon-playground",
+    "title": "Melon Playground",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "melon-playground",
+    "gamePath": "games/melon-playground/index.html",
+    "thumbnail": "images/melon-playground.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 491309,
+    "featured": false,
+    "description": "Melon Playground is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "golf-orbit",
+    "title": "Golf Orbit",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "golf-orbit",
+    "gamePath": "games/golf-orbit/index.html",
+    "thumbnail": "images/golf-orbit.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 772898,
+    "featured": false,
+    "description": "Golf Orbit is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "dig-out-of-prison",
+    "title": "Dig Out Of Prison",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "dig-out-of-prison",
+    "gamePath": "games/dig-out-of-prison/index.html",
+    "thumbnail": "images/dig-out-of-prison.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 392282,
+    "featured": false,
+    "description": "Dig Out Of Prison is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "bounce-up",
+    "title": "Bounce Up",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "bounce-up",
+    "gamePath": "games/bounce-up/index.html",
+    "thumbnail": "images/bounce-up.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 540887,
+    "featured": false,
+    "description": "Bounce Up is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "ragdoll-car-race",
+    "title": "Ragdoll Car Race",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "ragdoll-car-race",
+    "gamePath": "games/ragdoll-car-race/index.html",
+    "thumbnail": "images/ragdoll-car-race.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 612800,
+    "featured": false,
+    "description": "Ragdoll Car Race is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "nsr-street-racing",
+    "title": "Nsr Street Racing",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "nsr-street-racing",
+    "gamePath": "games/nsr-street-racing/index.html",
+    "thumbnail": "images/nsr-street-racing.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 430352,
+    "featured": false,
+    "description": "Nsr Street Racing is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "space-wars",
+    "title": "Space Wars",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "space-wars",
+    "gamePath": "games/space-wars/index.html",
+    "thumbnail": "images/space-wars.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 799678,
+    "featured": false,
+    "description": "Space Wars is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "imposter-3d",
+    "title": "Imposter 3d",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "imposter-3d",
+    "gamePath": "games/imposter-3d/index.html",
+    "thumbnail": "images/imposter-3d.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 380573,
+    "featured": false,
+    "description": "Imposter 3d is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "snake-puzzle",
+    "title": "Snake Puzzle",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "snake-puzzle",
+    "gamePath": "games/snake-puzzle/index.html",
+    "thumbnail": "images/snake-puzzle.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 376719,
+    "featured": false,
+    "description": "Snake Puzzle is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "tap-egg-crack",
+    "title": "Tap Egg Crack",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "tap-egg-crack",
+    "gamePath": "games/tap-egg-crack/index.html",
+    "thumbnail": "images/tap-egg-crack.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 688299,
+    "featured": false,
+    "description": "Tap Egg Crack is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "geometry-rash",
+    "title": "Geometry Rash",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "geometry-rash",
+    "gamePath": "games/geometry-rash/index.html",
+    "thumbnail": "images/geometry-rash.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 472437,
+    "featured": false,
+    "description": "Geometry Rash is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "car-king-arena-2",
+    "title": "Car King Arena 2",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "car-king-arena-2",
+    "gamePath": "games/car-king-arena-2/index.html",
+    "thumbnail": "images/car-king-arena-2.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 372318,
+    "featured": false,
+    "description": "Car King Arena 2 is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "stickman-kombat-2d",
+    "title": "Stickman Kombat 2d",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-kombat-2d",
+    "gamePath": "games/stickman-kombat-2d/index.html",
+    "thumbnail": "images/stickman-kombat-2d.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 604869,
+    "featured": false,
+    "description": "Stickman Kombat 2d is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "bouncy-motors",
+    "title": "Bouncy Motors",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "bouncy-motors",
+    "gamePath": "games/bouncy-motors/index.html",
+    "thumbnail": "images/bouncy-motors.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 356728,
+    "featured": false,
+    "description": "Bouncy Motors is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "happy-bottle-flip",
+    "title": "Happy Bottle Flip",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "happy-bottle-flip",
+    "gamePath": "games/happy-bottle-flip/index.html",
+    "thumbnail": "images/happy-bottle-flip.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 651757,
+    "featured": false,
+    "description": "Happy Bottle Flip is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "digging-power-per-click",
+    "title": "Digging Power Per Click",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "digging-power-per-click",
+    "gamePath": "games/digging-power-per-click/index.html",
+    "thumbnail": "images/digging-power-per-click.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 633663,
+    "featured": false,
+    "description": "Digging Power Per Click is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "climb-up",
+    "title": "Climb Up",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "climb-up",
+    "gamePath": "games/climb-up/index.html",
+    "thumbnail": "images/climb-up.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 727542,
+    "featured": false,
+    "description": "Climb Up is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "slow-roads",
+    "title": "Slow Roads",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "slow-roads",
+    "gamePath": "games/slow-roads/index.html",
+    "thumbnail": "images/slow-roads.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 526740,
+    "featured": false,
+    "description": "Slow Roads is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "among-us",
+    "gamePath": "games/among-us/index.html",
+    "thumbnail": "images/among-us.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 506703,
+    "featured": false,
+    "description": "Among Us is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "soccer-legends-2026",
+    "title": "Soccer Legends 2026",
+    "categories": [
+      "Sports",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "soccer-legends-2026",
+    "gamePath": "games/soccer-legends-2026/index.html",
+    "thumbnail": "images/soccer-legends-2026.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 486033,
+    "featured": false,
+    "description": "Soccer Legends 2026 is an exciting Sports, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "Arrow Keys",
+        "Spacebar",
+        "W / S"
+      ],
+      "instructions": "Control player position with Arrow keys or Mouse, pass and shoot with Spacebar or Click."
+    }
+  },
+  {
+    "id": "needle-finder",
+    "title": "Needle Finder",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "needle-finder",
+    "gamePath": "games/needle-finder/index.html",
+    "thumbnail": "images/needle-finder.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 459405,
+    "featured": false,
+    "description": "Needle Finder is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "bullets-vs-blocks",
+    "title": "Bullets Vs Blocks",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "bullets-vs-blocks",
+    "gamePath": "games/bullets-vs-blocks/index.html",
+    "thumbnail": "images/bullets-vs-blocks.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 543138,
+    "featured": false,
+    "description": "Bullets Vs Blocks is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "drive-quest",
+    "title": "Drive Quest",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "drive-quest",
+    "gamePath": "games/drive-quest/index.html",
+    "thumbnail": "images/drive-quest.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 563827,
+    "featured": false,
+    "description": "Drive Quest is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
+  },
+  {
+    "id": "zombies-coming",
+    "title": "Zombies Coming",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "zombies-coming",
+    "gamePath": "games/zombies-coming/index.html",
+    "thumbnail": "images/zombies-coming.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 628918,
+    "featured": false,
+    "description": "Zombies Coming is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "mining-islands",
+    "title": "Mining Islands",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "mining-islands",
+    "gamePath": "games/mining-islands/index.html",
+    "thumbnail": "images/mining-islands.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 743314,
+    "featured": false,
+    "description": "Mining Islands is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "animal-clinic",
+    "title": "Animal Clinic",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "animal-clinic",
+    "gamePath": "games/animal-clinic/index.html",
+    "thumbnail": "images/animal-clinic.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 468316,
+    "featured": false,
+    "description": "Animal Clinic is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "robby-double-jump",
+    "title": "Robby Double Jump",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "robby-double-jump",
+    "gamePath": "games/robby-double-jump/index.html",
+    "thumbnail": "images/robby-double-jump.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 644799,
+    "featured": false,
+    "description": "Robby Double Jump is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "gym-simulator-online",
+    "title": "Gym Simulator Online",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "gym-simulator-online",
+    "gamePath": "games/gym-simulator-online/index.html",
+    "thumbnail": "images/gym-simulator-online.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 397989,
+    "featured": false,
+    "description": "Gym Simulator Online is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "fruit-merge",
+    "title": "Fruit Merge",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "fruit-merge",
+    "gamePath": "games/fruit-merge/index.html",
+    "thumbnail": "images/fruit-merge.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.8,
+    "plays": 729980,
+    "featured": false,
+    "description": "Fruit Merge is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "granny",
+    "title": "Granny",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "granny",
+    "gamePath": "games/granny/index.html",
+    "thumbnail": "images/granny.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 424094,
+    "featured": false,
+    "description": "Granny is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "duck-duck-clicker",
+    "title": "Duck Duck Clicker",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "duck-duck-clicker",
+    "gamePath": "games/duck-duck-clicker/index.html",
+    "thumbnail": "images/duck-duck-clicker.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 796271,
+    "featured": false,
+    "description": "Duck Duck Clicker is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "eat-blobs-simulator",
+    "title": "Eat Blobs Simulator",
+    "categories": [
+      "Puzzle",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "eat-blobs-simulator",
+    "gamePath": "games/eat-blobs-simulator/index.html",
+    "thumbnail": "images/eat-blobs-simulator.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.7,
+    "plays": 550746,
+    "featured": false,
+    "description": "Eat Blobs Simulator is an exciting Puzzle, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse Click",
+        "Touch / Drag"
+      ],
+      "instructions": "Click or tap on tiles and game objects to interact, solve challenges, and progress."
+    }
+  },
+  {
+    "id": "clawler-fight",
+    "title": "Clawler Fight",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "clawler-fight",
+    "gamePath": "games/clawler-fight/index.html",
+    "thumbnail": "images/clawler-fight.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 383509,
+    "featured": false,
+    "description": "Clawler Fight is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "deadly-descent",
+    "title": "Deadly Descent",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "deadly-descent",
+    "gamePath": "games/deadly-descent/index.html",
+    "thumbnail": "images/deadly-descent.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 443312,
+    "featured": false,
+    "description": "Deadly Descent is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "stickman-archero-fight",
+    "title": "Stickman Archero Fight",
+    "categories": [
+      "Action",
+      "Multiplayer"
+    ],
+    "fileType": "html",
+    "fileName": "stickman-archero-fight",
+    "gamePath": "games/stickman-archero-fight/index.html",
+    "thumbnail": "images/stickman-archero-fight.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.9,
+    "plays": 656630,
+    "featured": false,
+    "description": "Stickman Archero Fight is an exciting Action, Multiplayer game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "keyboard-escape",
+    "title": "Keyboard Escape",
+    "categories": [
+      "Platformer",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "keyboard-escape",
+    "gamePath": "games/keyboard-escape/index.html",
+    "thumbnail": "images/keyboard-escape.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 425047,
+    "featured": false,
+    "description": "Keyboard Escape is an exciting Platformer, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "ultimate-evolution",
+    "title": "Ultimate Evolution",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "ultimate-evolution",
+    "gamePath": "games/ultimate-evolution/index.html",
+    "thumbnail": "images/ultimate-evolution.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.6,
+    "plays": 754656,
+    "featured": false,
+    "description": "Ultimate Evolution is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "for-girls",
+    "title": "For Girls",
+    "categories": [
+      "Action",
+      "Retro"
+    ],
+    "fileType": "html",
+    "fileName": "for-girls",
+    "gamePath": "games/for-girls/index.html",
+    "thumbnail": "images/for-girls.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 630722,
+    "featured": false,
+    "description": "For Girls is an exciting Action, Retro game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "Mouse",
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar"
+      ],
+      "instructions": "Use W/A/S/D or Arrow keys to move, Spacebar to jump/action, and Mouse to look/interact."
+    }
+  },
+  {
+    "id": "card-solitaire-word",
+    "title": "Card Solitaire Word",
+    "categories": [
+      "Driving",
+      "Action"
+    ],
+    "fileType": "html",
+    "fileName": "card-solitaire-word",
+    "gamePath": "games/card-solitaire-word/index.html",
+    "thumbnail": "images/card-solitaire-word.png",
+    "author": "Classroom6x Unblocked",
+    "releaseDate": "2024",
+    "dateAdded": "22-10-2026",
+    "rating": 4.5,
+    "plays": 736552,
+    "featured": false,
+    "description": "Card Solitaire Word is an exciting Driving, Action game unblocked for school Chromebooks and PC. Play free online with high performance, smooth controls, and no restrictions on Retro Bowl Unblocked 6x!",
+    "controls": {
+      "keys": [
+        "W / A / S / D",
+        "Arrow Keys",
+        "Spacebar (Brake)",
+        "Shift (Nitro)"
+      ],
+      "instructions": "Accelerate with W or Up Arrow, steer with A/D or Left/Right, drift or brake with Spacebar."
+    }
   }
 ];
 
-if (typeof module !== "undefined" && module.exports) {
+if (typeof module !== 'undefined' && module.exports) {
   module.exports = GAMES_DATA;
 }

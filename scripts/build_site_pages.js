@@ -22,7 +22,7 @@ function escapeHtml(text) {
 }
 
 const CATEGORIES = [
-  { slug: 'all', title: 'All Unblocked Games', icon: '🎮', desc: 'Browse our complete catalog of 280+ free unblocked games playable instantly online at school or work on Chromebook.', filter: () => true },
+  { slug: 'all', title: 'All Unblocked Games', icon: '🎮', desc: 'Browse our complete catalog of 380+ free unblocked games playable instantly online at school or work on Chromebook.', filter: () => true },
   { slug: 'sports', title: 'Sports Games', icon: '🏈', desc: 'Play the best unblocked sports games including Retro Bowl, Retro Bowl College, Basket Random, Soccer Random, and more on Chromebook.', filter: g => g.categories.includes('Sports') },
   { slug: 'retro', title: 'Retro & Arcade Games', icon: '🕹️', desc: 'Relive classic 8-bit, 16-bit, and arcade nostalgia with Pac-Man, Asteroids, Super Mario, and classic retro gems unblocked.', filter: g => g.categories.includes('Retro') || g.categories.includes('Arcade') },
   { slug: 'action', title: 'Action & Shooter Games', icon: '⚔️', desc: 'Engage in fast-paced combat, tactical battles, and shooter thrills with 1v1.lol, Rooftop Snipers, Time Shooter, and more.', filter: g => g.categories.includes('Action') || g.categories.includes('Shooter') },
@@ -49,7 +49,7 @@ function getHeaderHtml(depth = 0) {
       <div class="search-container">
         <div class="search-input-wrapper">
           <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="Search 280+ unblocked games..." autocomplete="off">
+          <input type="text" id="searchInput" class="search-input" placeholder="Search 380+ unblocked games..." autocomplete="off">
           <button id="searchClear" class="search-clear" title="Clear search" style="display:none;">&times;</button>
         </div>
       </div>
@@ -59,7 +59,7 @@ function getHeaderHtml(depth = 0) {
         <a href="${rel}" class="btn-header" title="Home">
           <span>🏠</span> <span>Home</span>
         </a>
-        <a href="${rel}category/all.html" class="btn-header" title="All 280+ Unblocked Games">
+        <a href="${rel}category/all.html" class="btn-header" title="All 380+ Unblocked Games">
           <span>🎮</span> <span>All Games</span>
         </a>
 
@@ -78,7 +78,7 @@ function getHeaderHtml(depth = 0) {
             <a href="${rel}category/multiplayer.html">👥 2-Player & Multiplayer</a>
             <a href="${rel}category/flash.html">⚡ Flash Classics (Ruffle)</a>
             <div class="dropdown-divider"></div>
-            <a href="${rel}category/all.html">🔥 All 280+ Games</a>
+            <a href="${rel}category/all.html">🔥 All 380+ Games</a>
           </div>
         </div>
 
@@ -302,6 +302,19 @@ function generateCategoryPages() {
       }
     });
   </script>
+
+  <!-- Histats.com  START  (aync)-->
+  <script type="text/javascript">var _Hasync= _Hasync|| [];
+  _Hasync.push(['Histats.start', '1,5059845,4,0,0,0,00010000']);
+  _Hasync.push(['Histats.fasi', '1']);
+  _Hasync.push(['Histats.track_hits', '']);
+  (function() {
+  var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+  hs.src = ('//s10.histats.com/js15_as.js');
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+  })();</script>
+  <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5059845&101" alt="" border="0"></a></noscript>
+  <!-- Histats.com  END  -->
 </body>
 </html>`;
 
@@ -374,6 +387,19 @@ function generateLegalPages() {
       if (themeBtn) themeBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
     }
   </script>
+
+  <!-- Histats.com  START  (aync)-->
+  <script type="text/javascript">var _Hasync= _Hasync|| [];
+  _Hasync.push(['Histats.start', '1,5059845,4,0,0,0,00010000']);
+  _Hasync.push(['Histats.fasi', '1']);
+  _Hasync.push(['Histats.track_hits', '']);
+  (function() {
+  var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+  hs.src = ('//s10.histats.com/js15_as.js');
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+  })();</script>
+  <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5059845&101" alt="" border="0"></a></noscript>
+  <!-- Histats.com  END  -->
 </body>
 </html>`;
   }

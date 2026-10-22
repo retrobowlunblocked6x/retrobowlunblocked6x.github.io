@@ -1,0 +1,151 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Basket Bros</title>
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <script>
+    (function(){
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function(){ try{ window.dataLayer.push(arguments); }catch(e){} };
+      window.SendEvent = window.SendEvent || function(name, label, value){
+        try { if (window.gtag) gtag('event', name || 'event', { event_label: label, value: value }); } catch(e){}
+      };
+      window.RecordSession = window.RecordSession || function(){ /* no-op on Google Sites */ };
+      function safe(fn){ try{ fn && fn(); }catch(e){} }
+      function doneInterstitial(){ if (window.Main && typeof Main.DoneInterstitialAd === 'function') Main.DoneInterstitialAd(false); }
+      function doneRewarded(){ if (window.Main && typeof Main.DoneVideoAd === 'function') Main.DoneVideoAd(); }
+
+      window.ShowAdBreak = function(){ safe(doneInterstitial); };
+      window.ShowVideo = function(){ safe(doneRewarded); };
+      window.ShowAd = function(){ safe(doneInterstitial); };
+      window.ShowInterstitial = function(){ safe(doneInterstitial); };
+      window.ShowRewarded = function(){ safe(doneRewarded); };
+      for (var i=1;i<=10;i++){
+        window['ShowAd'+i] = function(){ safe(doneInterstitial); };
+        window['ShowVideo'+i] = function(){ safe(doneRewarded); };
+      }
+      window.adBreak = function(opts){ safe(opts && opts.before); safe(opts && opts.after); return Promise.resolve(); };
+      window.rewardedBreak = function(opts){ safe(opts && opts.before); safe(opts && opts.after); return Promise.resolve({completed:false}); };
+
+      window.PauseGame = window.PauseGame || function(){};
+      window.ResumeGame = window.ResumeGame || function(){};
+
+      var gpStarted = false;
+      function _gpStart(){ gpStarted = true; try{ if (window.CrazyGames && CrazyGames.SDK) { /* ignore */ } }catch(e){} }
+      function _gpStop(){ gpStarted = false; }
+      window.GamePlayStart = window.GamePlayStart || _gpStart;
+      window.GamePlayStop  = window.GamePlayStop  || _gpStop;
+      window.GameplayStart = window.GameplayStart || _gpStart;
+      window.GameplayStop  = window.GameplayStop  || _gpStop;
+      window.gameplayStart = window.gameplayStart || _gpStart;
+      window.gameplayStop  = window.gameplayStop  || _gpStop;
+      window.GameStart     = window.GameStart     || _gpStart;
+      window.GameStop      = window.GameStop      || _gpStop;
+    })();
+  </script>
+  <script src="https://cdn.jsdelivr.net/gh/brodeliver/bb@12/BasketBros.js?th=644"></script>
+  <script src="https://cdn.jsdelivr.net/gh/st39/sdk@main/api.js"></script>  
+  <script type="text/javascript">window.SDK_OPTIONS={gameId:"r2tzpy9cgrn2u4xgzc9z0zbtvxm16mby",onEvent:function(a){switch(a.name){case"SDK_GAME_PAUSE":break;case"SDK_GAME_START":break;case"SDK_READY":break}}};(function(a,b,c){var d=a.getElementsByTagName(b)[0];a.getElementById(c)||(a=a.createElement(b),a.id=c,a.src="https://cdn.jsdelivr.net/gh/st39/sdk@main/sdkjs.js",d.parentNode.insertBefore(a,d))})(document,"script","gamemonetize-sdk");</script><script type="text/javascript">let isAdShown=false;function onClick(e){if(!isAdShown&&typeof sdk!=='undefined'&&typeof sdk.showBanner==='function'){sdk.showBanner();isAdShown=true}window.removeEventListener("click",onClick)}window.addEventListener("click",onClick);</script>
+  <script>
+    window.addEventListener("touchmove", function (event) { event.preventDefault(); }, { capture: false, passive: false });
+    if (typeof window.devicePixelRatio !== "undefined" && window.devicePixelRatio > 2) {
+      var meta = document.getElementById("viewport");
+      meta.setAttribute("content", "width=device-width, initial-scale=" + (2 / window.devicePixelRatio) + ", user-scalable=no");
+    }
+    window.addEventListener("keydown", function (e) {
+      if ((e.keyCode === 32 || e.keyCode === 38 || e.keyCode === 40) && e.target === document.body) e.preventDefault();
+    });
+  </script>
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; width: 100%; background: #000; color: #ffa500; }
+    #openfl-content { background: #000; width: 100%; height: 100%; }
+    #loading { position: absolute; z-index: 15; top: 60%; left: 50%; transform: translate(-50%, 0); background: #000; }
+    #loading img { display: inline-block; }
+    footer { background: #000; padding: 16px 0; text-align: center; color: #ccc; font-size: 14px; border-top: 1px solid #222; }
+  </style>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDeQ1CV2ZfZg4SJlu9CEWfpHG3--xpt-oU",
+      authDomain: "basket-bros-43586.firebaseapp.com",
+      projectId: "basket-bros-43586",
+      storageBucket: "basket-bros-43586.appspot.com",
+      messagingSenderId: "179647849243",
+      appId: "1:179647849243:web:87b99f44ca23f8a11729be"
+    };
+    try {
+      firebase.initializeApp(firebaseConfig);
+      const auth = firebase.auth();
+      const db = firebase.firestore();
+      var userData = "";
+
+      function triggerSignIn() { var p = new firebase.auth.GoogleAuthProvider(); auth.signInWithPopup(p); }
+      function saveGameData(gameData) {
+        try {
+          var uid = auth.currentUser && auth.currentUser.uid; if (!uid) return;
+          userData = gameData;
+          db.collection('users').doc(uid).set({ gameData });
+        } catch (e) { /* ignore */ }
+      }
+      function loadGameData() { return userData; }
+      function loadGameDataAsync() {
+        var uid = auth.currentUser && auth.currentUser.uid; if (!uid) return;
+        db.collection('users').doc(uid).get().then(function (doc) {
+          if (doc.exists) { userData = doc.data().gameData; if (typeof Main !== 'undefined' && Main.LoadDataComplete) Main.LoadDataComplete(); }
+        });
+      }
+      auth.onAuthStateChanged(function (user) { if (user) { loadGameDataAsync(); } });
+      function signOut() { auth.signOut().then(() => { if (typeof Main !== 'undefined' && Main.SignOutComplete) Main.SignOutComplete(); }); }
+      function isUserLoggedIn() { return auth.currentUser !== null; }
+      window.triggerSignIn = triggerSignIn;
+      window.saveGameData = saveGameData;
+      window.loadGameData = loadGameData;
+      window.loadGameDataAsync = loadGameDataAsync;
+      window.signOut = signOut;
+      window.isUserLoggedIn = isUserLoggedIn;
+    } catch (e) { /* Firebase optional */ }
+  </script>
+</head>
+<body style="overflow:hidden;">
+  <noscript>Enable JavaScript bro!</noscript>
+  <div id="loading">
+    <center>
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@13/assets/loading4.png" alt="Loading" /><br />
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@3/assets/fbro.png" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@3/assets/sbro.png" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@3/assets/wbro.png" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/fb@1/assets/kbro.png" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@3/assets/bbro.png" alt="" />
+    </center>
+  </div>
+  <div id="openfl-content" onblur="window.focus();"></div>
+  <div id="preroll" style="display:none;width:0;height:0;overflow:hidden"></div>
+  <div id="more" style="display:none;width:0;height:0;overflow:hidden"></div>
+  <div id="signup" style="display:none;width:0;height:0;overflow:hidden"></div>
+  <div id="deleteme" style="display:none;width:0;height:0;overflow:hidden"></div>
+  <div id="basketbros-io_728x90" style="display:none"></div>
+  <div id="basketbros-io_728x90_m" style="display:none"></div>
+  <div id="basketbros-io_300x250" style="display:none"></div>
+  <div id="basketbros-io_300x250_2" style="display:none"></div>
+  <div id="basketbros-io_320x100" style="display:none"></div>
+  <div id="basketbros-io_970x250" style="display:none"></div>
+  <div id="basketbros-io_160x600" style="display:none"></div>
+  <div id="basketbros-io_160x600_2" style="display:none"></div>
+  <div id="basketbros-io_300x600_m" style="display:none"></div>
+  <div id="basketbros-io_player_300x600" style="display:none"></div>
+  <script>
+    try { lime.embed("BasketBros", "openfl-content", 0, 0, { parameters: {} }); } catch (e) {}
+  </script>
+  <footer>
+    <div class="footer-links">
+      <a href="https://bluewizard.com" target="_blank" rel="noopener">Blue Wizard Digital</a>
+    </div>
+  </footer>
+</body>
+</html>
+

@@ -1,0 +1,126 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>BASEBALL BROS!</title>
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <script src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/BaseballBros.js?th=101"></script>
+  <script>
+    window.scrollerMessage = " WELCOME TO BASEBALL BROS! GOOD LUCK IF YOUR FAVORITE TEAM IS IN...HAVE A GLITCH OR FEEDBACK, YOU CAN EMAIL INFO@BLUEWIZARD.COM!!! ";
+  </script>
+  <script>
+    function GamePlayStart(){} 
+    function GamePlayStop(){}
+    function HappyTime(){}
+    function gtag(){} function updateStatus(){} function recordSession(){} function SendEvent(){}
+    function ShowAdBreak(){ try{ Main?.DoneInterstitialAd?.(true); }catch(e){} }
+    function startVideoAd(){ try{ Main?.DoneVideoAd?.(true); }catch(e){} }
+    for (let i=0;i<=10;i++){ window["ShowAd"+i]=window["ShowAd"+i]||function(){}; }
+    window.hxOverrides = window.hxOverrides || {};
+    if (typeof hxOverrides.cca !== 'function') {
+      hxOverrides.cca = function (s,i){ if(s==null)return 0; s=String(s); return s.charCodeAt(i|0)||0; };
+    }
+    		function ShowVideo(theUnitName=null)
+		{
+			Main.DoneVideoAd(true);
+			return;
+		}
+  </script>
+  <script>
+  (function () {
+    const S = v => (v == null ? "" : "" + v);
+    const TS = window.titlescreen_TitleScreen;
+    if (TS && TS.prototype && typeof TS.prototype.AddScroller === "function" && !TS.prototype.AddScroller.__wrapped) {
+      const orig = TS.prototype.AddScroller;
+      TS.prototype.AddScroller = function (e) { return orig.call(this, S(e)); };
+      TS.prototype.AddScroller.__wrapped = true;
+    }
+    const T = window.TextSprite || window.text_TextSprite || window.Textsprite;
+    if (T && T.prototype && typeof T.prototype.SetText === "function" && !T.prototype.SetText.__wrapped) {
+      const o = T.prototype.SetText;
+      T.prototype.SetText = function (t) { return o.call(this, S(t)); };
+      T.prototype.SetText.__wrapped = true;
+    }
+  })();
+  </script>
+  <script src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@main/physics.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/st39/sdk@main/api.js"></script>
+  <script type="text/javascript">window.SDK_OPTIONS={gameId:"r2tzpy9cgrn2u4xgzc9z0zbtvxm16mby",onEvent:function(a){switch(a.name){case"SDK_GAME_PAUSE":break;case"SDK_GAME_START":break;case"SDK_READY":break}}};(function(a,b,c){var d=a.getElementsByTagName(b)[0];a.getElementById(c)||(a=a.createElement(b),a.id=c,a.src="https://cdn.jsdelivr.net/gh/st39/sdk@main/sdkjs.js",d.parentNode.insertBefore(a,d))})(document,"script","gamemonetize-sdk");</script><script type="text/javascript">let isAdShown=false;function onClick(e){if(!isAdShown&&typeof sdk!=='undefined'&&typeof sdk.showBanner==='function'){sdk.showBanner();isAdShown=true}window.removeEventListener("click",onClick)}window.addEventListener("click",onClick);</script>
+  <script>
+    addEventListener("touchmove", e => e.preventDefault(), {capture:false, passive:false});
+    if (typeof devicePixelRatio !== 'undefined' && devicePixelRatio > 2) {
+      const meta = document.getElementById("viewport");
+      meta.setAttribute('content','width=device-width, initial-scale='+(2/devicePixelRatio)+', user-scalable=no');
+    }
+    addEventListener('keydown', e=>{
+      if((e.keyCode===32||e.keyCode===38||e.keyCode===40||e.keyCode===9) && e.target===document.body) e.preventDefault();
+    });
+  </script>
+
+  <style>
+    html,body{margin:0;padding:0;height:100%;background:#000;width:100vw;height:100vh}
+    #openfl-content{background:#000;width:100%;height:100%}
+    #spinner{transform-origin:50% 50%;width:82px;height:81px;animation:spin1 2s infinite linear}
+    @keyframes spin1{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+  </style>
+</head>
+<body style="overflow:hidden;">
+  <noscript>Enable JavaScript bro!</noscript>
+    <div id="loading" style="position: absolute; z-index: 15; top: 60%; left: 50%; transform: translate(-50%, 0); background: black;">
+			<center><img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/loading4.png"><br/>
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/fbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/bbbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/sbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/wbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/kbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bbb@4/assets/bbro.png">
+			</center>
+	</div>
+  <div id="game2" style="width:100%;height:100%;">
+    <div id="openfl-content" style="width:100%;height:100%;" onblur="window.focus();window.scrollTo(0,0);">
+      <script>
+        lime.embed("BaseballBros","openfl-content",0,0,{parameters:{}});
+      </script>
+    </div>
+    <div id="preroll" style="display:none"></div>
+  </div>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyBuzj8XEP7-5kOFFhyuxylQ6P0B2G_ogsM",
+      authDomain: "baseball-bros-8dd7f.firebaseapp.com",
+      projectId: "baseball-bros-8dd7f",
+      storageBucket: "baseball-bros-8dd7f.appspot.com",
+      messagingSenderId: "618024516218",
+      appId: "1:618024516218:web:11efff2d4b092aefaf99c3"
+    };
+    firebase.initializeApp(firebaseConfig);
+    const auth = firebase.auth();
+    const db   = firebase.firestore();
+    var userData = "";
+
+    function triggerSignIn(){ const p=new firebase.auth.GoogleAuthProvider(); auth.signInWithPopup(p); }
+    function saveGameData(gameData){
+      try{ const uid=auth.currentUser.uid; userData=gameData; db.collection('users').doc(uid).set({gameData}); }catch(e){}
+    }
+    function loadGameData(){ return userData; }
+    function loadGameDataAsync(){
+      try{
+        const uid=auth.currentUser.uid;
+        db.collection('users').doc(uid).get().then(doc=>{
+          if(doc.exists){ userData=doc.data().gameData; try{ Main?.LoadDataComplete?.(); }catch(e){} }
+        });
+      }catch(e){}
+    }
+    auth.onAuthStateChanged(()=>{});
+    function signOut(){ auth.signOut().then(()=>{ try{ Main?.SignOutComplete?.(); }catch(e){} }); }
+    function isUserLoggedIn(){ return auth.currentUser; }
+  </script>
+</body>
+</html>
+
+

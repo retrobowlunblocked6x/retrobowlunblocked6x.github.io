@@ -350,12 +350,21 @@ document.addEventListener('DOMContentLoaded', () => {
       return `${prefix}games/retro-bowl-college/game.html`;
     }
 
+    if (game.remoteUrl) {
+      return game.remoteUrl;
+    }
+
     // Check if game exists locally
     if (KNOWN_LOCAL_GAMES.has(game.id)) {
       if (game.fileType === 'swf') {
         return `${prefix}games/${game.id}.swf`;
       }
       return `${prefix}games/${game.id}/index.html`;
+    }
+
+    // Check if game has local gamePath in repo
+    if (game.gamePath && (game.author === 'Classroom6x Unblocked' || game.gamePath.startsWith('games/'))) {
+      return `${prefix}${game.gamePath}`;
     }
 
     // Fallback for all other 200+ games so none ever fails with 404

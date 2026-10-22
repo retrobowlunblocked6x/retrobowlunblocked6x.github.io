@@ -1,0 +1,826 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>KART BROS!</title>
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/style.css">
+  <meta id="viewport" name="viewport" content="width=device-width,
+                     initial-scale=1,
+                     maximum-scale=1,
+                     user-scalable=no,
+                     viewport-fit=cover">
+  <script>
+    function fit() {
+      document.documentElement.style.setProperty('--vh', `${window.innerHeight * 0.01}px`);
+    }
+
+    // 1st run
+    fit();
+
+    // instant reaction to orientation / classic resizes
+    addEventListener('resize', fit, { passive: true });
+
+    // extra pass once the URL bar has fully hidden (iOS/Chrome-Android quirk)
+    addEventListener('orientationchange', () => {
+      setTimeout(fit, 450);           // tweak if you still see a gap
+    });
+
+    // visual-viewport change (iOS 15+ / Chrome 108+)
+    if (window.visualViewport) {
+      visualViewport.addEventListener('resize', fit, { passive: true });
+    }
+  </script>
+
+  <style>
+    /* Basic styling */
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000000;
+      color: #000;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      overflow: hidden;
+    }
+
+
+    /* Layout structure - main wrapper */
+    /* .page-wrapper {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    } */
+
+    /* Fix for scrolling when mouse is over canvas - removed pointer-events: none */
+    /* Game section - made to respect pointer events */
+    .game-section {
+      width: 100%;
+      height: 100%;
+      /* aspect-ratio: 16 / 9; */
+      background: #000;
+      position: relative;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Loading screen */
+    #unity-loading-bar {
+      background: #000;
+      position: absolute;
+      top: 60%;
+      align-items: center;
+      justify-content: center;
+      z-index: 15;
+    }
+
+    #unity-canvas {
+      background: #000;
+      width: calc(100%);
+      float: left;
+      /* display: block; */
+      /* Add object-fit-like behavior for canvas */
+      /* position: relative; */
+    }
+
+
+    #unity-warning {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fff;
+      pointer-events: none;
+      max-width: 90%;
+      text-align: center;
+      display: none;
+    }
+
+    html,
+    body,
+    .game-section,
+    #unity-canvas {
+      /* width: 100vw; */
+      height: calc(var(--vh, 1vh)*100);
+      /* replaces 100 vh */
+      overscroll-behavior: none;
+      /* avoids rubber-band scroll */
+    }
+
+    /* Content styling */
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+
+    h1 {
+      color: #d32f2f;
+      text-align: center;
+    }
+
+    h2 {
+      color: #1976d2;
+    }
+
+
+    #adContainerMainMenu {
+      position: absolute;
+      /* no longer fixed */
+      top: 50%;
+      /* center vertically in game-section */
+      left: 50%;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    #adContainerMainMenu>div {
+      pointer-events: auto;
+    }
+
+    /* Individual ad elements should receive clicks */
+    #kartbros-io_300x250,
+    #kartbros-io_300x250_2 {
+      pointer-events: auto;
+      /* Only the actual ad elements get clicks */
+    }
+
+    #adContainerBottom {
+      position: absolute;
+      bottom: 1px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      text-align: center;
+      display: none;
+      /* Initially hidden like other ad containers */
+      pointer-events: none;
+    }
+
+    #adContainerBottom>div {
+      pointer-events: auto;
+    }
+
+    #adContainerTop {
+      position: absolute;
+      top: 10px;
+      /* center vertically in game-section */
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      display: none;
+      /* Initially hidden like main menu ads */
+      pointer-events: none;
+    }
+
+    #adContainerTop>div {
+      pointer-events: auto;
+    }
+
+    /* Individual ad elements should receive clicks */
+    #kartbros-io_728x90 {
+      pointer-events: auto;
+    }
+
+    /* Pillar ad containers for character/track select screens */
+    #adContainerPillars {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1000;
+      pointer-events: none;
+      display: none;
+      /* Initially hidden */
+    }
+
+    #adContainerPillars>div {
+      pointer-events: auto;
+    }
+
+
+    /* Video ad overlay */
+    #videoAdOverlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.8);
+      z-index: 2000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #videoad {
+      width: 960px;
+      height: 540px;
+      background: #000;
+    }
+
+    /* Spinning wheel animation */
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .spinning-wheel {
+      display: inline-block;
+      transform-origin: center;
+      animation: spin 1s linear infinite;
+    }
+  </style>
+
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/sw.js')
+  }
+</script>
+
+  <!-- AdinPlay Ads Snippet Integration -->
+  <script>
+    window.aiptag = window.aiptag || { cmd: [] };
+    aiptag.cmd.display = aiptag.cmd.display || [];
+    aiptag.cmd.player = aiptag.cmd.player || [];
+
+    // CMP tool settings
+    aiptag.cmp = {
+      show: true,
+      button: true,
+      buttonText: "Privacy settings",
+      buttonPosition: "bottom-left"
+    };
+
+    // Initialize the video ad player
+    aiptag.cmd.player.push(function () {
+      aiptag.adplayer = new aipPlayer({
+        AD_WIDTH: 960,
+        AD_HEIGHT: 540,
+        AD_DISPLAY: 'default', // default, fullscreen, fill, center, modal-center
+        LOADING_TEXT: 'loading advertisement',
+        PREROLL_ELEM: function () { return document.getElementById('videoad'); },
+        AIP_COMPLETE: function (state) {
+          console.log("Video Ad Completed: " + state);
+          if (typeof SendEvent === "function") {
+            SendEvent("event", "aip_video_completed", { state: state });
+          }
+          if (typeof completeVideoAd === "function") {
+            completeVideoAd(false);
+          }
+        }
+      });
+    });
+
+  </script>
+  <script>
+    (function () {
+      function detectMsStart() {
+        var uri = window.location.pathname + window.location.search + window.location.hash;
+        var lowerUri = (uri || '').toLowerCase();
+        var params = new URLSearchParams(window.location.search || '');
+        if (params.has('ms') || params.has('msstart_sdk_init')) {
+          return true;
+        }
+        if (lowerUri.indexOf('msstart_sdk_init') !== -1) {
+          return true;
+        }
+        return lowerUri.indexOf('ms') !== -1;
+      }
+
+      window.isMsStart = detectMsStart();
+      if (window.isMsStart) {
+        window.msStart = true;
+        var msSdkScript = document.createElement('script');
+        msSdkScript.src = 'https://assets.msn.com/staticsb/statics/latest/msstart-games-sdk/msstart-v1.0.0-rc.19.min.js';
+        msSdkScript.async = true;
+        msSdkScript.addEventListener('load', function () {
+          if (typeof window.loadMsVideoAsync === 'function') {
+            window.loadMsVideoAsync();
+          }
+        });
+        document.head.appendChild(msSdkScript);
+      }
+    })();
+  </script>
+  <script async src="//api.adinplay.com/libs/aiptag/pub/SSK/kartbros.io/tag.min.js"></script>
+  <!-- End AdinPlay Snippet -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1BSXC3Y865"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-1BSXC3Y865', { cookie_flags: 'secure;samesite=none' });
+  </script>
+  
+  <!-- Analytics Functions -->
+  <script>
+    // Generate unique session ID
+    function generateSessionId() {
+      const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+      let result = '';
+      for (let i = 0; i < 25; i++) {
+        result += chars.charAt(Math.floor(Math.random() * chars.length));
+      }
+      return result;
+    }
+    
+    // Session ID for tracking
+    var sid = generateSessionId();
+    
+    // Status update function that records session activity
+    function updateStatus(fromEvent = false) {
+      const req = new XMLHttpRequest();
+      var aStr = "recordsession.php?s="+sid;
+      if(fromEvent == true)  aStr = aStr + "&e=1"
+      req.open("GET", aStr);
+      req.send();
+    }
+    
+    function SendEvent(theEvent, theAction, theParms = '') {
+      if(theParms == '') {
+        gtag(theEvent, theAction);
+      } else {
+        gtag(theEvent, theAction, theParms);
+      }
+      updateStatus(true);
+    }
+    
+    function GA4_SendEvent(eventName, paramsJson) {
+      // Parse parameters if provided
+      var parsedParams;
+      if (paramsJson && paramsJson.length > 0) {
+        try { 
+          parsedParams = JSON.parse(paramsJson); 
+        } catch (e) { 
+          parsedParams = undefined;
+        }
+      }
+      
+      // Call SendEvent function
+      if (parsedParams === undefined) {
+        SendEvent('event', eventName);
+      } else {
+        SendEvent('event', eventName, parsedParams);
+      }
+    }
+    
+  updateStatus(false);
+  </script>
+  <script>
+    var msVideoInstanceId = null;
+    var lastUnitPlayed = null;
+
+    function trackAdEvent(name, data) {
+      if (typeof SendEvent === "function") {
+        if (data && typeof data === "object") {
+          SendEvent("event", name, data);
+        } else {
+          SendEvent("event", name);
+        }
+      }
+    }
+
+    function focusGameCanvas() {
+      window.focus();
+      var contentElement = document.getElementById("openfl-content") || document.getElementById("unity-canvas");
+      if (contentElement && typeof contentElement.focus === "function") {
+        contentElement.focus();
+      }
+    }
+
+    function completeVideoAd(isBlocked) {
+      if (typeof window.Main !== "undefined" && typeof window.Main.DoneVideoAd === "function") {
+        try {
+          if (typeof isBlocked === "undefined") {
+            window.Main.DoneVideoAd();
+          } else {
+            window.Main.DoneVideoAd(isBlocked);
+          }
+        } catch (err) {
+          console.warn("Main.DoneVideoAd error", err);
+        }
+      }
+      focusGameCanvas();
+    }
+
+    function loadMsVideoAsync() {
+      if (!window.isMsStart || typeof window.$msstart === "undefined" || typeof window.$msstart.loadAdsAsync !== "function") {
+        msVideoInstanceId = null;
+        return;
+      }
+
+      window.$msstart.loadAdsAsync().then(function (adInstance) {
+        msVideoInstanceId = adInstance && adInstance.instanceId;
+      }).catch(function (error) {
+        console.log("MS loadAdsAsync error", error);
+        msVideoInstanceId = null;
+      });
+
+      if (typeof window.SetupMSNotification === "function") {
+        try {
+          window.SetupMSNotification();
+        } catch (notificationError) {
+          console.warn("SetupMSNotification error", notificationError);
+        }
+      }
+    }
+
+    function ShowVideo(theUnitName, forceAip) {
+      var unitName = theUnitName || "kartbros-io_preroll";
+      var forceFallback = !!forceAip;
+
+      console.log("SHOW_VIDEO", unitName, "forceAip:", forceFallback);
+
+      if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
+        var prerollElement = document.getElementById("preroll");
+        if (prerollElement) {
+          prerollElement.style.display = "none";
+          prerollElement.style.visibility = "hidden";
+        }
+        completeVideoAd(false);
+        return;
+      }
+
+      if (!forceFallback && window.isMsStart && typeof window.$msstart !== "undefined" && typeof window.$msstart.showAdsAsync === "function") {
+        if (!msVideoInstanceId) {
+          console.log("MSStart ad not ready, falling back to AIP");
+          loadMsVideoAsync();
+        } else {
+          window.$msstart.showAdsAsync(msVideoInstanceId).then(function (adInstance) {
+            var completion = adInstance && adInstance.showAdsCompletedAsync;
+            if (completion && typeof completion.then === "function") {
+              completion.then(function () {
+                console.log("MS Video Ad Complete");
+                trackAdEvent("ms_video_shown2");
+                completeVideoAd(false);
+                loadMsVideoAsync();
+              }).catch(function (err) {
+                console.log("MS video not completed", err);
+                trackAdEvent("ms_video_not_completed");
+                loadMsVideoAsync();
+                ShowVideo(unitName, true);
+              });
+            } else {
+              console.log("MS video completion promise missing");
+              trackAdEvent("ms_video_shown2");
+              completeVideoAd(false);
+              loadMsVideoAsync();
+            }
+          }).catch(function (err) {
+            console.log("MS Video Ad Error, showing AIP fallback", err);
+            trackAdEvent("ms_video_show_error2");
+            loadMsVideoAsync();
+            ShowVideo(unitName, true);
+          });
+          return;
+        }
+      }
+
+      if (typeof window.aiptag === "undefined" || !window.aiptag.cmd || !window.aiptag.cmd.player) {
+        console.log("VIDEO_ADBLOCKED");
+        trackAdEvent("video_adblocked");
+        completeVideoAd(true);
+        return;
+      }
+
+      lastUnitPlayed = unitName;
+      trackAdEvent("startvideo-" + unitName);
+
+      window.aiptag.cmd.player.push(function () {
+        var player = window.aiptag.adplayer || window.adplayer;
+        if (player && typeof player.startPreRoll === "function") {
+          player.startPreRoll(unitName);
+        } else {
+          console.log("AIP adplayer missing - marking video complete");
+          trackAdEvent("video_adplayer_missing");
+          completeVideoAd(true);
+        }
+      });
+    }
+
+    function LoadVideo() {
+      loadMsVideoAsync();
+    }
+
+    window.LoadVideo = LoadVideo;
+    window.ShowVideo = ShowVideo;
+
+    loadMsVideoAsync();
+  </script>
+</head>
+
+<body>
+  <noscript>
+    <div style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.4;z-index:9999;text-align:center;padding:24px">
+      Enable JavaScript bro!
+    </div>
+  </noscript>
+  <!-- Add a scroll helper that sits behind the game but allows scrolling -->
+  <!-- <div class="page-wrapper"> -->
+  <!-- Game section (full height of viewport) -->
+  <div class="game-section">
+    <canvas id="unity-canvas" tabindex="-1" onblur="window.focus(); window.scrollTo(0, 0);"></canvas>
+
+    <!-- <div id="unity-loading-bar">
+        <div id="loading-text">YOUR BROS GAME IS LOADING</div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div> -->
+
+    <div id="unity-loading-bar">
+      <center>
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/kart_wheel.png" class="spinning-wheel" alt="Spinning kart wheel loading indicator">
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/loading4.png" alt="Loading game">
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/fbro.png" alt="Football Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/bbbro.png" alt="Basket Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/sbro.png" alt="Soccer Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/wbro.png" alt="Wrestle Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/kbro.png" alt="Kart Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/bbro.png" alt="Baseball Bros character icon">
+        <img src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/kartbro.png" alt="Kart Bros character icon">
+      </center>
+    </div>
+    <div id="unity-warning"></div>
+  <!-- Video ad overlay -->
+  <div id="videoAdOverlay">
+    <div id="videoad">
+      <!-- The AdinPlay video ad will be injected here -->
+    </div>
+  </div>
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/TemplateData/pleaserotate.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/st39/sdk@main/api.js"></script>
+  <script type="text/javascript">window.SDK_OPTIONS={gameId:"r2tzpy9cgrn2u4xgzc9z0zbtvxm16mby",onEvent:function(a){switch(a.name){case"SDK_GAME_PAUSE":break;case"SDK_GAME_START":break;case"SDK_READY":break}}};(function(a,b,c){var d=a.getElementsByTagName(b)[0];a.getElementById(c)||(a=a.createElement(b),a.id=c,a.src="https://cdn.jsdelivr.net/gh/st39/sdk@main/sdkjs.js",d.parentNode.insertBefore(a,d))})(document,"script","gamemonetize-sdk");</script><script type="text/javascript">let isAdShown=false;function onClick(e){if(!isAdShown&&typeof sdk!=='undefined'&&typeof sdk.showBanner==='function'){sdk.showBanner();isAdShown=true}window.removeEventListener("click",onClick)}window.addEventListener("click",onClick);</script>
+  <script>
+    const AD_CONFIGS = {
+      ShowAd0: {
+        elementId: "kartbros-io_160x600",
+        msPlacementId: "left:160x600",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd0"
+      },
+      ShowAd1: {
+        elementId: "kartbros-io_160x600_2",
+        msPlacementId: "right:160x600",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd1"
+      },
+      ShowAd2: {
+        elementId: "kartbros-io_300x250_2",
+        msPlacementId: "left:300x250",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd2"
+      },
+      ShowAd3: {
+        elementId: "kartbros-io_728x90",
+        msPlacementId: "top:728x90",
+        minWidth: 0,
+        skipOnMobile: true,
+        logName: "ShowAd3"
+      },
+      ShowAd4: {
+        elementId: null,
+        msPlacementId: "bottom:728x90",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd4"
+      },
+      ShowAd6: {
+        elementId: "kartbros-io_300x250",
+        msPlacementId: "right:300x250",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd6"
+      },
+      ShowAd7: {
+        elementId: null,
+        msPlacementId: "right:300x600",
+        minWidth: 1200,
+        skipOnMobile: true,
+        logName: "ShowAd7"
+      },
+      ShowAd8: {
+        elementId: null,
+        msPlacementId: "bottom:728x90_m",
+        minWidth: 0,
+        skipOnMobile: true,
+        logName: "ShowAd8"
+      },
+      ShowAd9: {
+        elementId: "kartbros-io_970x250",
+        msPlacementId: "bottom:970x250",
+        minWidth: 0,
+        skipOnMobile: true,
+        logName: "ShowAd9"
+      },
+      ShowAd10: {
+        elementId: null,
+        msPlacementId: null,
+        minWidth: 0,
+        skipOnMobile: true,
+        logName: "ShowAd10"
+      }
+    };
+
+    function _displayBannerAd(config, forceAipParam) {
+      if (!config) {
+        console.warn("_displayBannerAd called without config");
+        return;
+      }
+      var logName = config.logName || config.elementId || "ShowAd";
+      //console.log(logName + (forceAipParam ? " (force AIP)" : ""));
+      if (config.skipOnMobile && /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
+        return;
+      }
+      if (config.minWidth && window.innerWidth < config.minWidth) {
+        return;
+      }
+      if (!config.elementId) {
+        console.warn(logName + " - no elementId configured");
+        return;
+      }
+      var adElement = document.getElementById(config.elementId);
+      if (!adElement) {
+        console.error("Ad element not found:", config.elementId);
+        return;
+      }
+      adElement.style.display = config.displayStyle || "";
+
+      var attemptMsStart = window.isMsStart && typeof window.$msstart !== "undefined" && typeof window.$msstart.showDisplayAdsAsync === "function" && config.msPlacementId && !forceAipParam && !config.internalForceAip;
+
+      if (attemptMsStart) {
+        adElement.style.visibility = "hidden";
+        window.$msstart.showDisplayAdsAsync(config.msPlacementId).then(function () {
+          console.log(config.msPlacementId + " requested via MSStart.");
+          trackAdEvent("ms_banner_shown", { placement: config.msPlacementId });
+          adElement.style.visibility = "visible";
+        }).catch(function (error) {
+          console.log(config.msPlacementId + " nofill via MSStart.", error);
+          trackAdEvent("ms_banner_nofill", { placement: config.msPlacementId });
+          adElement.style.visibility = "visible";
+          config.internalForceAip = true;
+          _displayBannerAd(config, true);
+        });
+        return;
+      }
+
+      adElement.style.visibility = "visible";
+
+      if (typeof window.aiptag !== "undefined" && window.aiptag.cmd && window.aiptag.cmd.display) {
+        window.aiptag.cmd.display.push(function () {
+          if (typeof window.aipDisplayTag !== "undefined" && typeof window.aipDisplayTag.refresh === "function") {
+            window.aipDisplayTag.refresh(config.elementId);
+          } else if (window.aiptag && window.aiptag.display && typeof window.aiptag.display.refresh === "function") {
+            window.aiptag.display.refresh(config.elementId);
+          }
+        });
+
+        var eventName = window.isMsStart && (forceAipParam || config.internalForceAip) ? "ms_aip_banner_requested" : "aip_banner_requested";
+        trackAdEvent(eventName, { tag: config.elementId });
+      } else {
+        console.log(logName + " - No ad SDK available or ad blocked for:", config.elementId);
+        trackAdEvent("banner_adblocked", { tag: config.elementId });
+      }
+    }
+    function createBannerFunction(key) {
+      return function (forceaip) {
+        var baseConfig = AD_CONFIGS[key];
+        if (!baseConfig) {
+          console.warn(key + " config missing");
+          return;
+        }
+        var cloned = Object.assign({}, baseConfig);
+        if (forceaip) {
+          cloned.internalForceAip = true;
+        }
+        _displayBannerAd(cloned, !!forceaip);
+      };
+    }
+    var ShowAd0 = createBannerFunction("ShowAd0");
+    var ShowAd1 = createBannerFunction("ShowAd1");
+    var ShowAd2 = createBannerFunction("ShowAd2");
+    var ShowAd3 = createBannerFunction("ShowAd3");
+    var ShowAd4 = createBannerFunction("ShowAd4");
+    var ShowAd6 = createBannerFunction("ShowAd6");
+    var ShowAd7 = createBannerFunction("ShowAd7");
+    var ShowAd8 = createBannerFunction("ShowAd8");
+    var ShowAd9 = createBannerFunction("ShowAd9");
+    var ShowAd10 = createBannerFunction("ShowAd10");
+    window.ShowAd0 = ShowAd0;
+    window.ShowAd1 = ShowAd1;
+    window.ShowAd2 = ShowAd2;
+    window.ShowAd3 = ShowAd3;
+    window.ShowAd4 = ShowAd4;
+    window.ShowAd6 = ShowAd6;
+    window.ShowAd7 = ShowAd7;
+    window.ShowAd8 = ShowAd8;
+    window.ShowAd9 = ShowAd9;
+    window.ShowAd10 = ShowAd10;
+    window.addEventListener("DOMContentLoaded", function () {
+      try { ShowAd6(); } catch (err) { console.error("ShowAd6 error", err); }
+      try { ShowAd2(); } catch (err) { console.error("ShowAd2 error", err); }
+      try { ShowAd3(); } catch (err) { console.error("ShowAd3 error", err); }
+      try { ShowAd9(); } catch (err) { console.error("ShowAd9 error", err); }
+      try { ShowAd0(); } catch (err) { console.error("ShowAd0 error", err); }
+      try { ShowAd1(); } catch (err) { console.error("ShowAd1 error", err); }
+    });
+  </script>
+  <script>
+    // Toggle pointer events for scrolling
+    document.addEventListener('wheel', onScroll, false);
+    document.addEventListener('mousemove', onMouse, false);
+    function onMouse() {
+      const gameSection = document.querySelector('.game-section');
+      if (gameSection) {
+        gameSection.style['pointer-events'] = 'auto';
+      }
+    }
+    function onScroll() {
+      const gameSection = document.querySelector('.game-section');
+      if (gameSection) {
+        gameSection.style['pointer-events'] = 'none';
+
+        // Re-enable pointer events after a short delay to allow for smooth scrolling
+        setTimeout(function () {
+          gameSection.style['pointer-events'] = 'auto';
+        }, 500);
+      }
+    }
+    // Force exit out off fullscreen mode when the device is rotated to portrait
+    window.addEventListener('orientationchange', () => {
+      if (window.screen.orientation && window.screen.orientation.type.startsWith('portrait')) {
+        if (document.fullscreenElement) {
+          document.exitFullscreen();
+        }
+      }
+    });
+    let canvas = document.getElementById("unity-canvas");
+    function unityShowBanner(msg, type) {
+      let warningBanner = document.getElementById("unity-warning");
+      function updateBannerVisibility() {
+        warningBanner.style.display = warningBanner.children.length ? "block" : "none";
+      }
+      let div = document.createElement("div");
+      div.innerHTML = msg;
+      warningBanner.appendChild(div);
+      if (type === "error") {
+        div.style = "background: red; padding: 10px;";
+      } else if (type === "warning") {
+        div.style = "background: yellow; padding: 10px;";
+        setTimeout(() => {
+          warningBanner.removeChild(div);
+          updateBannerVisibility();
+        }, 5000);
+      }
+      updateBannerVisibility();
+    }
+    var buildUrl = "https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/Build";
+    var loaderUrl = buildUrl + "/77aa2311d6862e6753a181896dfa2c12.loader.js";
+    var config = {
+      arguments: [],
+      dataUrl: buildUrl + "/102190d43e90efea26d753d85e616e22.data.unityweb",
+      frameworkUrl: buildUrl + "/3df40305caf9bde478d3aa8a67021399.framework.js.unityweb",
+        codeUrl: buildUrl + "/32e2077b8e7224301ebc457024a232dc.wasm.unityweb",
+        streamingAssetsUrl: "https://cdn.jsdelivr.net/gh/brodeliver/kb@e1dbd99cb84ed805b588971bb24918657b757850/StreamingAssets",
+      companyName: "BlueWizard",
+      productName: "KART BROS!",
+      productVersion: "1.49",
+      showBanner: unityShowBanner,
+    };
+    document.getElementById("unity-loading-bar").style.display = "block";
+    let script = document.createElement("script");
+    script.src = loaderUrl;
+    script.onload = () => {
+      createUnityInstance(canvas, config, (progress) => {
+        //document.getElementById("unity-progress-bar-full").style.width = (100 * progress) + "%";
+      }).then((unityInstance) => {
+        window.unityInstance = unityInstance;
+        document.getElementById("unity-loading-bar").style.display = "none";
+      }).catch((message) => {
+        alert(message);
+      });
+    };
+    document.body.appendChild(script);
+  </script>
+</body>
+</html>
+
