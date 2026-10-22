@@ -46,6 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
   init();
 
   function init() {
+    if (searchInput && Array.isArray(GAMES_DATA)) {
+      searchInput.placeholder = `Search ${GAMES_DATA.length}+ unblocked games...`;
+    }
     renderRecentlyPlayed();
     filterAndSortGames();
     setupEventListeners();

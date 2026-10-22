@@ -3,14 +3,14 @@
  * Fast offline shell caching & smooth game delivery
  */
 
-const CACHE_NAME = 'retrobowl6x-v1';
+const CACHE_NAME = 'retrobowl6x-v2';
 const CORE_ASSETS = [
   './',
-  'css/style.css',
-  'js/games-data.js',
-  'js/ads.js',
-  'js/app.js',
-  'js/player.js',
+  'css/style.css?v=2',
+  'js/games-data.js?v=2',
+  'js/ads.js?v=2',
+  'js/app.js?v=2',
+  'js/player.js?v=2',
   'manifest.json',
   'favicon.ico',
   'icons/icon-192.png',
@@ -54,17 +54,25 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // Network-first for HTML pages so fresh game updates are immediate
-  if (event.request.mode === 'navigate') {
+  // Network-first for HTML pages and js/data so fresh game updates are immediate
+  if (event.request.mode === 'navigate' || url.pathname.endsWith('.js') || url.pathname.endsWith('.html')) {
     event.respondWith(
-      fetch(event.request).catch(() => {
-        return caches.match('./') || caches.match(event.request);
+      fetch(event.request).then((networkResponse) => {
+        if (networkResponse && networkResponse.status === 200) {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseToCache);
+          });
+        }
+        return networkResponse;
+      }).catch(() => {
+        return caches.match(event.request) || caches.match('./');
       })
     );
     return;
   }
 
-  // Cache-first for images, css, js
+  // Cache-first for images, fonts, static media
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
       if (cachedResponse) {
