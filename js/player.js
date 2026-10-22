@@ -37,6 +37,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
   initPlayer(currentGame);
 
+  function updateSEO(game) {
+    const gameFullTitle = `${game.title} Unblocked Games`;
+    document.title = `${gameFullTitle} - Play Free Online`;
+
+    // Update meta description
+    const metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+      metaDesc.setAttribute('content', `Play ${gameFullTitle} for free on Chromebook, PC or mobile. Rated ${game.rating}/5. Best unblocked games at school without lag!`);
+    }
+
+    // Update meta keywords
+    const metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+      metaKeywords.setAttribute('content', `${game.title.toLowerCase()} unblocked games, play ${game.title.toLowerCase()} unblocked, retro bowl unblocked, unblocked games for school`);
+    }
+
+    // Update Open Graph and Twitter tags
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    if (ogTitle) ogTitle.setAttribute('content', gameFullTitle);
+    const twitterTitle = document.querySelector('meta[property="twitter:title"]');
+    if (twitterTitle) twitterTitle.setAttribute('content', gameFullTitle);
+  }
+
   function initPlayer(game) {
     // Save to recently played
     addToRecentlyPlayed(game.id);
@@ -68,32 +91,32 @@ document.addEventListener('DOMContentLoaded', () => {
     const relatedGamesGrid = document.getElementById('relatedGamesGrid');
 
     // Populate pre-game overlay
-    if (pregameGameTitle) pregameGameTitle.textContent = game.title;
+    if (pregameGameTitle) pregameGameTitle.textContent = `${game.title} Unblocked Games`;
     if (pregameCategory) pregameCategory.textContent = game.categories.join(' • ');
 
     // Populate Toolbar & Details
-    if (toolbarGameTitle) toolbarGameTitle.textContent = game.title;
-    if (gameTitleH1) gameTitleH1.textContent = `${game.title} Unblocked`;
+    if (toolbarGameTitle) toolbarGameTitle.textContent = `${game.title} Unblocked Games`;
+    if (gameTitleH1) gameTitleH1.textContent = `${game.title} Unblocked Games`;
 
     // Populate Tags
     if (gameTagsList) {
       gameTagsList.innerHTML = game.categories.map(c => `
         <span class="game-tag-pill">${escapeHtml(c)}</span>
-      `).join('') + `<span class="game-tag-pill" style="color:var(--accent-primary); font-weight:700;">Unblocked 6x</span>`;
+      `).join('') + `<span class="game-tag-pill" style="color:var(--accent-primary); font-weight:700;">Unblocked Games</span>`;
     }
 
     // Populate Description
     if (gameDescBody) {
       gameDescBody.innerHTML = `
         <p>${escapeHtml(game.description)}</p>
-        <h3>About ${escapeHtml(game.title)}</h3>
+        <h3>About ${escapeHtml(game.title)} Unblocked Games</h3>
         <p>
-          ${escapeHtml(game.title)} is one of the most popular unblocked games played by millions of students, gamers, and sports enthusiasts worldwide. 
-          Enjoy full unblocked access without lag or installation on any school Chromebook, Windows PC, Mac, or mobile device.
+          ${escapeHtml(game.title)} Unblocked Games is one of the most popular unblocked games played by millions of students, gamers, and sports enthusiasts worldwide. 
+          Enjoy full unblocked games access without lag or installation on any school Chromebook, Windows PC, Mac, or mobile device.
         </p>
         <h3>Features</h3>
         <ul style="margin-left: 1.5rem; margin-top: 0.5rem; display: flex; flex-direction: column; gap: 0.4rem;">
-          <li>⚡ <strong>Zero Restrictions:</strong> 100% unblocked on school Wi-Fi and Chromebooks.</li>
+          <li>⚡ <strong>Zero Restrictions:</strong> 100% free unblocked games on school Wi-Fi and Chromebooks.</li>
           <li>🎯 <strong>High Frame Rates:</strong> Optimized canvas and WebGL rendering for ultra-smooth gameplay.</li>
           <li>💾 <strong>Auto-Save Support:</strong> Your progress and high scores are saved locally in browser storage.</li>
           <li>🖥️ <strong>Fullscreen & Theater Modes:</strong> Play with maximum immersion on any display size.</li>
@@ -281,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const schemaData = {
         "@context": "https://schema.org",
         "@type": "VideoGame",
-        "name": game.title,
+        "name": `${game.title} Unblocked Games`,
         "url": pageUrl,
         "description": game.description,
         "genre": game.categories,

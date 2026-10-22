@@ -189,11 +189,11 @@ function generateCategoryPages() {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${escapeHtml(cat.title)} Unblocked - Play Free Online at School (Retro Bowl 6x)</title>
+  <title>${escapeHtml(cat.title)} Unblocked Games - Play Free Online</title>
 
   <!-- SEO Meta Tags -->
   <meta name="description" content="${escapeHtml(cat.desc)}">
-  <meta name="keywords" content="${cat.slug} unblocked, ${cat.title.toLowerCase()} classroom 6x, free unblocked games, retro bowl 6x ${cat.slug}">
+  <meta name="keywords" content="${cat.slug} unblocked, ${cat.title.toLowerCase()} unblocked games, free unblocked games, retro bowl unblocked">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${catUrl}">
 
@@ -205,7 +205,7 @@ function generateCategoryPages() {
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="${catUrl}">
-  <meta property="og:title" content="${escapeHtml(cat.title)} Unblocked - Retro Bowl 6x">
+  <meta property="og:title" content="${escapeHtml(cat.title)} Unblocked Games">
   <meta property="og:description" content="${escapeHtml(cat.desc)}">
   <meta property="og:image" content="https://retrobowlunblocked6x.github.io/images/retro-bowl.png">
 

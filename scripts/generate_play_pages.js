@@ -19,15 +19,15 @@ function escapeHtml(text) {
 }
 
 function renderPlayPage(game) {
-  const pageTitle = `${game.title} Unblocked 6x - Play Free Online at School`;
+  const pageTitle = `${game.title} Unblocked Games - Play Free Online`;
   const canonicalUrl = `https://retrobowlunblocked6x.github.io/play/${encodeURIComponent(game.id)}.html`;
-  const metaDescription = `Play ${game.title} unblocked 6x for free on Chromebook, PC or mobile. Rated ${game.rating}/5. Fast, lag-free, no flash download needed!`;
+  const metaDescription = `Play ${game.title} Unblocked Games for free on Chromebook, PC or mobile. Rated ${game.rating}/5. Best unblocked games at school without lag!`;
   const baseVotes = Math.max(120, Math.floor(game.plays / 12));
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "VideoGame",
-    "name": game.title,
+    "name": `${game.title} Unblocked Games`,
     "url": canonicalUrl,
     "image": `https://retrobowlunblocked6x.github.io/${game.thumbnail}`,
     "description": game.description,
@@ -60,7 +60,7 @@ function renderPlayPage(game) {
 
   const categoryPillsHtml = game.categories.map(c => `
     <span class="game-tag-pill">${escapeHtml(c)}</span>
-  `).join('') + `<span class="game-tag-pill" style="color:var(--accent-primary); font-weight:700;">Unblocked 6x</span>`;
+  `).join('') + `<span class="game-tag-pill" style="color:var(--accent-primary); font-weight:700;">Unblocked Games</span>`;
 
   return `<!DOCTYPE html>
 <html lang="en" data-theme="light">
@@ -71,7 +71,7 @@ function renderPlayPage(game) {
 
   <!-- Primary SEO Meta Tags -->
   <meta name="description" content="${escapeHtml(metaDescription)}">
-  <meta name="keywords" content="${escapeHtml(game.title)} unblocked, ${escapeHtml(game.title)} 6x, retro bowl unblocked 6x, classroom 6x, play ${escapeHtml(game.title)} online free chromebook">
+  <meta name="keywords" content="${escapeHtml(game.title)} unblocked games, play ${escapeHtml(game.title)} unblocked, retro bowl unblocked, unblocked games, unblocked games for school">
   <meta name="author" content="Retro Bowl Unblocked 6x">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="${canonicalUrl}">
@@ -86,14 +86,14 @@ function renderPlayPage(game) {
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="game">
   <meta property="og:url" content="${canonicalUrl}">
-  <meta property="og:title" content="${escapeHtml(pageTitle)}">
+  <meta property="og:title" content="${escapeHtml(game.title)} Unblocked Games">
   <meta property="og:description" content="${escapeHtml(metaDescription)}">
   <meta property="og:image" content="https://retrobowlunblocked6x.github.io/${game.thumbnail}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="${canonicalUrl}">
-  <meta property="twitter:title" content="${escapeHtml(pageTitle)}">
+  <meta property="twitter:title" content="${escapeHtml(game.title)} Unblocked Games">
   <meta property="twitter:description" content="${escapeHtml(metaDescription)}">
   <meta property="twitter:image" content="https://retrobowlunblocked6x.github.io/${game.thumbnail}">
 
@@ -149,7 +149,7 @@ ${JSON.stringify(jsonLd, null, 2)}
             <a href="../category/multiplayer.html">👥 2-Player & Multiplayer</a>
             <a href="../category/flash.html">⚡ Flash Classics (Ruffle)</a>
             <div class="dropdown-divider"></div>
-            <a href="../category/all.html">🔥 All 280+ Games</a>
+            <a href="../category/all.html">🔥 All 380+ Games</a>
           </div>
         </div>
 
@@ -172,7 +172,7 @@ ${JSON.stringify(jsonLd, null, 2)}
       <span>&rsaquo;</span>
       <span id="pregameCategory">${escapeHtml(game.categories[0] || 'Games')}</span>
       <span>&rsaquo;</span>
-      <span id="breadcrumbCurrent" style="color:var(--text-primary); font-weight:700;">${escapeHtml(game.title)}</span>
+      <span id="breadcrumbCurrent" style="color:var(--text-primary); font-weight:700;">${escapeHtml(game.title)} Unblocked Games</span>
     </nav>
 
     <!-- [AD 1] Top Billboard Ad Placement (728x90) -->
@@ -194,8 +194,8 @@ ${JSON.stringify(jsonLd, null, 2)}
 
             <!-- Pre-Game Click to Play Overlay -->
             <div id="pregameOverlay" class="pregame-overlay">
-              <h2 id="pregameGameTitle" class="pregame-title">${escapeHtml(game.title)}</h2>
-              <p class="pregame-sub">Ready to play? Fresh, lag-free & unblocked on school Chromebooks.</p>
+              <h2 id="pregameGameTitle" class="pregame-title">${escapeHtml(game.title)} Unblocked Games</h2>
+              <p class="pregame-sub">Ready to play? Fresh, lag-free & free unblocked games on school Chromebooks.</p>
 
               <!-- Play Trigger Button -->
               <button id="startPlayBtn" class="btn-start-game">
@@ -213,7 +213,7 @@ ${JSON.stringify(jsonLd, null, 2)}
         <!-- Player Toolbar -->
         <div class="player-toolbar">
           <div class="toolbar-game-title">
-            <span id="toolbarGameTitle">${escapeHtml(game.title)}</span>
+            <span id="toolbarGameTitle">${escapeHtml(game.title)} Unblocked Games</span>
           </div>
 
           <div class="toolbar-actions">
@@ -267,7 +267,7 @@ ${JSON.stringify(jsonLd, null, 2)}
         <article class="game-details-box">
           <div class="game-details-header">
             <div>
-              <h1 id="gameTitleH1" class="game-title-h1">${escapeHtml(game.title)} Unblocked</h1>
+              <h1 id="gameTitleH1" class="game-title-h1">${escapeHtml(game.title)} Unblocked Games</h1>
               <div id="gameTagsList" class="game-tags-list">
                 ${categoryPillsHtml}
               </div>
@@ -295,14 +295,14 @@ ${JSON.stringify(jsonLd, null, 2)}
           <!-- Detailed SEO Description -->
           <div id="gameDescBody" class="game-desc-body">
             <p>${escapeHtml(game.description)}</p>
-            <h3>About ${escapeHtml(game.title)}</h3>
+            <h3>About ${escapeHtml(game.title)} Unblocked Games</h3>
             <p>
-              ${escapeHtml(game.title)} is one of the most popular unblocked games played by millions of students, gamers, and sports enthusiasts worldwide. 
-              Enjoy full unblocked access without lag or installation on any school Chromebook, Windows PC, Mac, or mobile device.
+              ${escapeHtml(game.title)} Unblocked Games is one of the most popular unblocked games played by millions of students, gamers, and sports enthusiasts worldwide. 
+              Enjoy full unblocked games access without lag or installation on any school Chromebook, Windows PC, Mac, or mobile device.
             </p>
             <h3>Features</h3>
             <ul style="margin-left: 1.5rem; margin-top: 0.5rem; display: flex; flex-direction: column; gap: 0.4rem;">
-              <li>⚡ <strong>Zero Restrictions:</strong> 100% unblocked on school Wi-Fi and Chromebooks.</li>
+              <li>⚡ <strong>Zero Restrictions:</strong> 100% free unblocked games on school Wi-Fi and Chromebooks.</li>
               <li>🎯 <strong>High Frame Rates:</strong> Optimized canvas and WebGL rendering for ultra-smooth gameplay.</li>
               <li>💾 <strong>Auto-Save Support:</strong> Your progress and high scores are saved locally in browser storage.</li>
               <li>🖥️ <strong>Fullscreen & Theater Modes:</strong> Play with maximum immersion on any display size.</li>
