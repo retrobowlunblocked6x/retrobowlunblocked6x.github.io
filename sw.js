@@ -3,14 +3,14 @@
  * Fast offline shell caching & smooth game delivery
  */
 
-const CACHE_NAME = 'retrobowl6x-v2';
+const CACHE_NAME = 'retrobowl6x-v3';
 const CORE_ASSETS = [
   './',
-  'css/style.css?v=2',
-  'js/games-data.js?v=2',
-  'js/ads.js?v=2',
-  'js/app.js?v=2',
-  'js/player.js?v=2',
+  'css/style.css?v=3',
+  'js/games-data.js?v=3',
+  'js/ads.js?v=3',
+  'js/app.js?v=3',
+  'js/player.js?v=3',
   'manifest.json',
   'favicon.ico',
   'icons/icon-192.png',
