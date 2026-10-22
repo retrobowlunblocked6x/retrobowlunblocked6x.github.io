@@ -90,11 +90,14 @@ const GAMES_DATA = [
     "id": "subway-surfers",
     "title": "Subway Surfers",
     "categories": [
-      "Platformer"
+      "Platformer",
+      "Action"
     ],
     "fileType": "html",
     "fileName": "subway-surfers",
-    "gamePath": "games/subway-surfers/index.html",
+    "gamePath": "https://inkyedu118.github.io/g8-san-francisco/class-442",
+    "gameUrl": "https://inkyedu118.github.io/g8-san-francisco/class-442",
+    "remoteUrl": "https://inkyedu118.github.io/g8-san-francisco/class-442",
     "thumbnail": "images/subway-surfers.png",
     "author": "SYBO Games, Kiloo",
     "releaseDate": "23-05-2012",

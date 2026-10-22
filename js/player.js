@@ -385,8 +385,8 @@ document.addEventListener('DOMContentLoaded', () => {
       return `${prefix}games/${game.id}/index.html`;
     }
 
-    // Check if game has local gamePath in repo
-    if (game.gamePath && (game.author === 'Classroom6x Unblocked' || game.gamePath.startsWith('games/'))) {
+    // Check if game has local gamePath in repo (verified Classroom6x downloaded games)
+    if (game.author === 'Classroom6x Unblocked' && game.gamePath && game.gamePath.startsWith('games/')) {
       return `${prefix}${game.gamePath}`;
     }
 
