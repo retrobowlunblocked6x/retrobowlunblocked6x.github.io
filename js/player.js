@@ -347,6 +347,10 @@ document.addEventListener('DOMContentLoaded', () => {
     if (pregameOverlay) {
       pregameOverlay.classList.add('hidden');
     }
+    const gameScreenWrapper = document.getElementById('gameScreenWrapper');
+    if (gameScreenWrapper) {
+      gameScreenWrapper.classList.add('is-playing');
+    }
 
     let gameSrc = determineGameUrl(game);
 

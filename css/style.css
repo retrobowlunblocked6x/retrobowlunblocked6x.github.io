@@ -1997,28 +1997,34 @@ img, video, iframe, canvas {
     order: 2;
     display: flex;
     align-items: center;
-    gap: 0.4rem;
+    gap: 0.5rem;
     flex-shrink: 0;
   }
+  /* Hide all desktop navigation links and extra buttons on mobile header */
+  .header-actions > a,
   #randomGameBtn,
-  #installPwaBtn,
-  .header-actions .btn-primary,
-  .header-actions a[href*="category/all.html"],
-  .header-actions a[href="./"]:not(.logo-wrapper),
-  .header-actions a[href="../"]:not(.logo-wrapper) {
+  #installPwaBtn {
     display: none !important;
   }
-  .nav-dropdown-btn {
-    padding: 0.4rem 0.65rem !important;
-    font-size: 0.78rem !important;
-  }
-  .nav-dropdown-btn span:last-child {
+  .header-actions .btn-header span,
+  .nav-dropdown-btn span {
     display: inline !important;
   }
+  .nav-dropdown-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.35rem !important;
+    padding: 0.45rem 0.75rem !important;
+    font-size: 0.8rem !important;
+    white-space: nowrap !important;
+  }
   .btn-theme-toggle {
-    width: 34px !important;
-    height: 34px !important;
-    font-size: 0.95rem !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 1rem !important;
   }
 
   /* Search Container: Full width bottom row in header */
@@ -2099,20 +2105,33 @@ img, video, iframe, canvas {
     transform: none !important;
   }
 
-  /* Ads on Mobile - Overflow Prevention */
+  /* Ads on Mobile - Overflow Prevention & Responsive Scaling */
   .ad-slot-wrapper {
     margin: 0.75rem auto;
-    max-width: 100%;
-    overflow: hidden;
-  }
-  .ad-leaderboard {
-    max-width: 100%;
+    max-width: 100vw;
     width: 100%;
     overflow: hidden;
-    min-height: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
   }
-  .ad-leaderboard iframe, .ad-slot-wrapper iframe {
+  .ad-slot-wrapper > div {
+    max-width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  .ad-slot-wrapper iframe {
     max-width: 100% !important;
+  }
+  /* Responsive scale for 728px billboard ads on mobile phones */
+  .ad-slot-wrapper div[data-ad-slot^="ad_728x90"] {
+    width: 728px !important;
+    max-width: none !important;
+    transform: scale(min(1, calc((100vw - 1.5rem) / 728)));
+    transform-origin: center top;
+    margin-bottom: calc((90px * (1 - min(1, calc((100vw - 1.5rem) / 728)))) * -1);
   }
   .ads-trio-showcase {
     flex-direction: column;
@@ -2128,7 +2147,7 @@ img, video, iframe, canvas {
     padding: 0.5rem;
   }
 
-  /* Category Nav Pills */
+  /* Category Nav Pills on Mobile */
   .category-nav-section {
     padding: 0.5rem 0 0.75rem;
     margin-bottom: 1rem;
@@ -2184,9 +2203,11 @@ img, video, iframe, canvas {
     padding: 2px 5px;
   }
 
-  /* Player Page */
+  /* Player Page on Mobile */
   .player-page-container {
     padding: 0.75rem 0 2rem;
+    max-width: 100vw;
+    overflow-x: hidden;
   }
   .player-breadcrumb {
     font-size: 0.78rem;
@@ -2194,6 +2215,78 @@ img, video, iframe, canvas {
     gap: 0.35rem;
     margin-bottom: 0.75rem;
   }
+  .player-grid-layout {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  /* Game Screen Wrapper & Pre-game Overlay (Mobile-specific height) */
+  .game-screen-wrapper {
+    width: 100%;
+    border-radius: var(--radius-md);
+    position: relative;
+    overflow: hidden;
+    background: #020617;
+  }
+  /* While overlay is active before game start, expand container so 300x250 ad fits without clipping */
+  .game-screen-wrapper:not(.is-playing) .game-screen-aspect {
+    height: auto !important;
+    min-height: 460px !important;
+    padding-bottom: 0 !important;
+  }
+  .game-screen-wrapper.is-playing .game-screen-aspect {
+    height: 0 !important;
+    min-height: 0 !important;
+    padding-bottom: 62% !important;
+  }
+  .pregame-overlay {
+    position: relative !important;
+    min-height: 460px;
+    padding: 1.25rem 0.75rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    box-sizing: border-box !important;
+    background: radial-gradient(circle at center, rgba(15, 23, 42, 0.98) 0%, rgba(2, 6, 23, 1) 100%) !important;
+  }
+  .pregame-overlay.hidden {
+    display: none !important;
+  }
+  .pregame-title {
+    font-size: 1.2rem !important;
+    line-height: 1.3 !important;
+    margin-bottom: 0.35rem !important;
+    padding: 0 0.5rem;
+  }
+  .pregame-sub {
+    font-size: 0.8rem !important;
+    line-height: 1.4 !important;
+    margin-bottom: 0.85rem !important;
+    color: #94a3b8 !important;
+    max-width: 320px;
+  }
+  .btn-start-game {
+    padding: 0.75rem 2rem !important;
+    font-size: 1rem !important;
+    margin-bottom: 0.75rem !important;
+  }
+  .pregame-ad-container {
+    max-width: 300px !important;
+    width: 100% !important;
+    min-height: 250px;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    overflow: hidden !important;
+    margin-top: 0.25rem !important;
+  }
+  .pregame-ad-container iframe {
+    max-width: 100% !important;
+  }
+
+  /* Player Toolbar on Mobile */
   .player-toolbar {
     flex-direction: column;
     align-items: stretch;
@@ -2216,27 +2309,6 @@ img, video, iframe, canvas {
     padding: 0.45rem 0.2rem;
     font-size: 0.75rem;
     gap: 0.25rem;
-  }
-  .pregame-overlay {
-    padding: 0.75rem;
-  }
-  .pregame-title {
-    font-size: 1.25rem;
-  }
-  .pregame-sub {
-    font-size: 0.78rem;
-    line-height: 1.4;
-    margin-bottom: 0.65rem;
-  }
-  .btn-start-game {
-    padding: 0.65rem 1.6rem;
-    font-size: 0.95rem;
-  }
-  .pregame-ad-container {
-    max-width: 100%;
-    transform: scale(0.88);
-    transform-origin: top center;
-    margin-top: 0.5rem;
   }
   .user-rating-widget {
     flex-direction: column;

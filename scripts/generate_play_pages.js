@@ -108,7 +108,7 @@ function renderPlayPage(game) {
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="../css/style.css?v=3">
+  <link rel="stylesheet" href="../css/style.css?v=5">
 
   <!-- Schema.org JSON-LD Structured Data with Live AggregateRating -->
   <script type="application/ld+json" id="schemaJsonLd">
@@ -465,7 +465,7 @@ ${JSON.stringify(jsonLd, null, 2)}
   <!-- Scripts -->
   <script src="../js/games-data.js?v=3"></script>
   <script src="../js/ads.js?v=3"></script>
-  <script src="../js/player.js?v=3"></script>
+  <script src="../js/player.js?v=4"></script>
 
   <!-- Histats.com  START  (aync)-->
   <script type="text/javascript">var _Hasync= _Hasync|| [];
