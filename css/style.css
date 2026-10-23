@@ -1731,37 +1731,6 @@ body.theater-mode .player-grid-layout {
   font-size: 0.82rem;
 }
 
-/* Responsive adjustments */
-@media (max-width: 900px) {
-  .hero-banner {
-    grid-template-columns: 1fr;
-    text-align: center;
-    padding: 2rem 1.5rem;
-  }
-  .hero-desc {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .hero-meta, .hero-actions {
-    justify-content: center;
-  }
-  .hero-visual {
-    display: none;
-  }
-  .hero-title {
-    font-size: 2.2rem;
-  }
-}
-
-@media (max-width: 600px) {
-  .header-actions .btn-header span {
-    display: none;
-  }
-  .user-rating-widget {
-    flex-direction: column;
-    text-align: center;
-  }
-}
 
 /* ==========================================================================
    Ad Placements Styling (All 6 Adsterra Slots)
@@ -1908,12 +1877,6 @@ body.theater-mode .player-grid-layout {
   line-height: 1.8;
 }
 
-@media (max-width: 768px) {
-  .legal-content-card {
-    padding: 1.5rem;
-  }
-}
-
 .legal-title {
   font-family: var(--font-heading);
   font-size: 2.3rem;
@@ -1956,4 +1919,468 @@ body.theater-mode .player-grid-layout {
   border: 1px solid var(--border-color);
   font-size: 0.9em;
 }
+
+/* ==========================================================================
+   Comprehensive Mobile & Tablet Responsive Engine
+   ========================================================================== */
+
+/* Max Container Safety for Overflow Prevention */
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+img, video, iframe, canvas {
+  max-width: 100%;
+}
+
+/* --- Breakpoint: Tablets & Laptops (<= 1024px) --- */
+@media (max-width: 1024px) {
+  .hero-banner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 2rem;
+  }
+  .hero-visual {
+    justify-content: center;
+  }
+  .hero-image-card {
+    transform: none !important;
+    max-width: 320px;
+  }
+  .player-grid-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .footer-top {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* --- Breakpoint: Mobile Landscape & Phablets (<= 768px) --- */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 0.85rem;
+  }
+
+  /* Header 2-Row Compact Grid */
+  .site-header {
+    height: auto;
+    padding: 0.5rem 0 0.65rem;
+  }
+  .header-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: auto;
+    padding: 0.25rem 0;
+    gap: 0.5rem;
+  }
+  .logo-wrapper {
+    order: 1;
+    font-size: 1.15rem;
+    gap: 0.45rem;
+    flex-shrink: 0;
+  }
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    font-size: 1.1rem;
+  }
+  .logo-badge {
+    display: none !important;
+  }
+
+  /* Header actions on mobile: only keep Categories dropdown and theme toggle */
+  .header-actions {
+    order: 2;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-shrink: 0;
+  }
+  #randomGameBtn,
+  #installPwaBtn,
+  .header-actions .btn-primary,
+  .header-actions a[href*="category/all.html"],
+  .header-actions a[href="./"]:not(.logo-wrapper),
+  .header-actions a[href="../"]:not(.logo-wrapper) {
+    display: none !important;
+  }
+  .nav-dropdown-btn {
+    padding: 0.4rem 0.65rem !important;
+    font-size: 0.78rem !important;
+  }
+  .nav-dropdown-btn span:last-child {
+    display: inline !important;
+  }
+  .btn-theme-toggle {
+    width: 34px !important;
+    height: 34px !important;
+    font-size: 0.95rem !important;
+  }
+
+  /* Search Container: Full width bottom row in header */
+  .search-container {
+    order: 3 !important;
+    width: 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    margin-top: 0.2rem;
+  }
+  .search-input-wrapper {
+    width: 100%;
+  }
+  .search-input {
+    width: 100%;
+    padding: 0.55rem 1rem 0.55rem 2.4rem;
+    font-size: 0.88rem;
+  }
+  .search-icon {
+    left: 0.8rem;
+    font-size: 0.9rem;
+  }
+
+  /* Dropdown Menu Positioning on Mobile */
+  .nav-dropdown-content {
+    right: 0;
+    width: 220px;
+    max-width: 90vw;
+  }
+
+  /* Hero Section */
+  .hero-section {
+    padding: 1rem 0;
+  }
+  .hero-banner {
+    padding: 1.5rem 1rem;
+    gap: 1.25rem;
+    text-align: center;
+    border-radius: var(--radius-md);
+  }
+  .hero-banner::before {
+    display: none;
+  }
+  .hero-title {
+    font-size: 1.75rem;
+    line-height: 1.2;
+    margin-bottom: 0.65rem;
+  }
+  .hero-desc {
+    font-size: 0.92rem;
+    line-height: 1.5;
+    margin: 0 auto 1rem;
+  }
+  .hero-meta {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    font-size: 0.78rem;
+    margin-bottom: 1.25rem;
+  }
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+    gap: 0.65rem;
+  }
+  .btn-hero-play, .btn-hero-secondary {
+    width: 100%;
+    justify-content: center;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+  }
+  .hero-visual {
+    margin-top: 0.25rem;
+  }
+  .hero-image-card {
+    max-width: 260px;
+    width: 100%;
+    transform: none !important;
+  }
+
+  /* Ads on Mobile - Overflow Prevention */
+  .ad-slot-wrapper {
+    margin: 0.75rem auto;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .ad-leaderboard {
+    max-width: 100%;
+    width: 100%;
+    overflow: hidden;
+    min-height: 0;
+  }
+  .ad-leaderboard iframe, .ad-slot-wrapper iframe {
+    max-width: 100% !important;
+  }
+  .ads-trio-showcase {
+    flex-direction: column;
+    padding: 0.75rem 0.5rem;
+    gap: 0.75rem;
+    margin: 1rem 0;
+  }
+  .ad-card-box {
+    min-width: 0 !important;
+    width: 100% !important;
+    max-width: 320px;
+    min-height: 250px;
+    padding: 0.5rem;
+  }
+
+  /* Category Nav Pills */
+  .category-nav-section {
+    padding: 0.5rem 0 0.75rem;
+    margin-bottom: 1rem;
+  }
+  .category-pills {
+    gap: 0.45rem;
+    padding-bottom: 0.35rem;
+  }
+  .pill-btn {
+    padding: 0.45rem 0.85rem;
+    font-size: 0.8rem;
+    flex-shrink: 0;
+  }
+
+  /* Section Title & Sort */
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+    margin-bottom: 1rem;
+  }
+  .section-title {
+    font-size: 1.35rem;
+  }
+  .sort-select {
+    width: 100%;
+    max-width: 180px;
+  }
+
+  /* Games Grid: 2 columns on Mobile */
+  .games-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+  .game-card {
+    border-radius: var(--radius-sm);
+  }
+  .game-info {
+    padding: 0.6rem;
+  }
+  .game-title {
+    font-size: 0.84rem;
+    margin-bottom: 0.25rem;
+  }
+  .game-meta-row {
+    font-size: 0.72rem;
+  }
+  .game-badge {
+    top: 6px;
+    right: 6px;
+    font-size: 0.6rem;
+    padding: 2px 5px;
+  }
+
+  /* Player Page */
+  .player-page-container {
+    padding: 0.75rem 0 2rem;
+  }
+  .player-breadcrumb {
+    font-size: 0.78rem;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.75rem;
+  }
+  .player-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.65rem;
+    padding: 0.75rem;
+  }
+  .toolbar-game-title {
+    font-size: 1.05rem;
+    justify-content: center;
+    text-align: center;
+  }
+  .toolbar-actions {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.35rem;
+    width: 100%;
+  }
+  .btn-tool {
+    justify-content: center;
+    padding: 0.45rem 0.2rem;
+    font-size: 0.75rem;
+    gap: 0.25rem;
+  }
+  .pregame-overlay {
+    padding: 0.75rem;
+  }
+  .pregame-title {
+    font-size: 1.25rem;
+  }
+  .pregame-sub {
+    font-size: 0.78rem;
+    line-height: 1.4;
+    margin-bottom: 0.65rem;
+  }
+  .btn-start-game {
+    padding: 0.65rem 1.6rem;
+    font-size: 0.95rem;
+  }
+  .pregame-ad-container {
+    max-width: 100%;
+    transform: scale(0.88);
+    transform-origin: top center;
+    margin-top: 0.5rem;
+  }
+  .user-rating-widget {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.65rem;
+    padding: 0.85rem;
+  }
+  .rating-score-box {
+    justify-content: center;
+  }
+  .star-btn {
+    font-size: 1.5rem;
+  }
+  .game-details-box {
+    padding: 1.15rem 0.85rem;
+  }
+  .game-title-h1 {
+    font-size: 1.35rem;
+  }
+  .game-controls-box {
+    padding: 0.85rem;
+    margin: 1rem 0;
+  }
+  .kbd-key {
+    font-size: 0.72rem;
+    padding: 3px 8px;
+  }
+  .game-desc-body {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  .game-desc-body h3 {
+    font-size: 1.05rem;
+    margin: 1.15rem 0 0.35rem;
+  }
+
+  /* Category Hero Box */
+  .category-hero-box {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.25rem 1rem;
+    gap: 0.65rem;
+    margin: 1rem 0 1.25rem;
+  }
+  .category-hero-icon {
+    font-size: 2.25rem;
+  }
+  .category-hero-title {
+    font-size: 1.5rem;
+  }
+  .category-hero-desc {
+    font-size: 0.88rem;
+    line-height: 1.5;
+  }
+
+  /* SEO Section & FAQ */
+  .seo-content-section {
+    padding: 1.35rem 1rem;
+    margin: 1.75rem 0;
+    border-radius: var(--radius-md);
+  }
+  .seo-title {
+    font-size: 1.35rem;
+  }
+  .seo-text {
+    font-size: 0.88rem;
+    line-height: 1.6;
+  }
+  .faq-grid {
+    grid-template-columns: 1fr;
+    gap: 0.65rem;
+  }
+  .faq-item {
+    padding: 0.85rem;
+  }
+  .faq-q {
+    font-size: 0.92rem;
+  }
+  .faq-a {
+    font-size: 0.84rem;
+  }
+
+  /* Footer on Mobile */
+  .site-footer {
+    padding: 1.75rem 0 1.25rem;
+  }
+  .footer-top {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+    align-items: center;
+  }
+
+  /* Legal Content Card */
+  .legal-content-card {
+    padding: 1.25rem 0.85rem;
+    border-radius: var(--radius-md);
+  }
+  .legal-title {
+    font-size: 1.5rem;
+  }
+  .legal-meta {
+    font-size: 0.78rem;
+    margin-bottom: 1.25rem;
+  }
+  .legal-content-card h2 {
+    font-size: 1.15rem;
+    margin: 1.25rem 0 0.5rem;
+  }
+  .legal-content-card p, .legal-content-card li {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+}
+
+/* --- Breakpoint: Small Mobile (<= 400px) --- */
+@media (max-width: 400px) {
+  .header-actions .btn-header {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.72rem;
+  }
+  .hero-title {
+    font-size: 1.5rem;
+  }
+  .games-grid {
+    gap: 0.5rem;
+  }
+  .game-info {
+    padding: 0.45rem;
+  }
+  .game-title {
+    font-size: 0.78rem;
+  }
+  .toolbar-actions {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .toolbar-actions .btn-tool:last-child {
+    grid-column: span 2;
+  }
+}
+
 
